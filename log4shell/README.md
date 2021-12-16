@@ -21,6 +21,7 @@ https://github.com/NCSC-NL/log4shell
 - FR 	    https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/
 - HR      https://www.cert.hr/kriticno-upozorenje-zero-day-ranjivost-ili-ranjivost-nultog-dana-u-java-biblioteci-log4j/
 - HR      https://www.zsis.hr/default.aspx?id=448
+- HU      https://nki.gov.hu/figyelmeztetesek/tajekoztatas/rendkivuli-tajekoztato-ransomware-malware-terjesztes-a-log4shell-serulekenyseg-kihasznalasaval-kapcsolatban/
 - IE(EN) 	https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf
 - IT      https://csirt.gov.it/Log4Shell
 - LV 	    https://cert.lv/lv/2021/12/0-dienas-ievainojamiba-apache-java-logging-biblioteka-log4j
