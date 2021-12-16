@@ -1,5 +1,7 @@
 # CSIRTs Network Log4Shell Alerts published
 
+## CSIRTs Network supported Log4Shell information hub:
+
 CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more: 
 https://github.com/NCSC-NL/log4shell
 
@@ -18,6 +20,7 @@ https://github.com/NCSC-NL/log4shell
 - FI(EN)	https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021
 - FR 	    https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/
 - HR      https://www.cert.hr/kriticno-upozorenje-zero-day-ranjivost-ili-ranjivost-nultog-dana-u-java-biblioteci-log4j/
+- HR      https://www.zsis.hr/default.aspx?id=448
 - IE(EN) 	https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf
 - IT      https://csirt.gov.it/Log4Shell
 - LV 	    https://cert.lv/lv/2021/12/0-dienas-ievainojamiba-apache-java-logging-biblioteka-log4j
