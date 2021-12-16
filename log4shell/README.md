@@ -21,16 +21,16 @@ https://github.com/NCSC-NL/log4shell
 | EU | EU | EN | https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf |
 | ES | CCN-CERT | ES | https://www.ccn-cert.cni.es/seguridad-al-dia/alertas-ccn-cert/11435-ccn-cert-al-09-21-vulnerabilidad-en-apache-log4j-2.html |
 | ES | INCIBE | ES | https://www.incibe.es/protege-tu-empresa/avisos-seguridad/vulnerabilidad-critica-apache-log4j |
-| FI | NCSC-FI | FI | hhttps://www.kyberturvallisuuskeskus.fi/fi/varo_ttn_5/2021 |
+| FI | NCSC-FI | FI | https://www.kyberturvallisuuskeskus.fi/fi/varo_ttn_5/2021 |
 | FI | NCSC-FI | EN | https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021 |
 | FR | CERT-FR | FR | https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/ |
 | HR | CERT.hr | HR | https://www.cert.hr/kriticno-upozorenje-zero-day-ranjivost-ili-ranjivost-nultog-dana-u-java-biblioteci-log4j/ |
 | HR | CERT ZSIS | HR | https://www.zsis.hr/default.aspx?id=448 |
-| HU | NCSC-HU | DE | https://nki.gov.hu/figyelmeztetesek/tajekoztatas/rendkivuli-tajekoztato-ransomware-malware-terjesztes-a-log4shell-serulekenyseg-kihasznalasaval-kapcsolatban/ |
+| HU | NCSC-HU | HU | https://nki.gov.hu/figyelmeztetesek/tajekoztatas/rendkivuli-tajekoztato-ransomware-malware-terjesztes-a-log4shell-serulekenyseg-kihasznalasaval-kapcsolatban/ |
 | IE | CSIRT-IE | EN | https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf |
 | IT | CSIRT-ITA | IT | https://csirt.gov.it/Log4Shell |
 | LU | CIRCL | EN | https://www.circl.lu/pub/tr-65/ |
-| NL | NCSC-NL | NL| Https://www.ncsc.nl/actueel/nieuws/2021/december/12/kwetsbare-log4j-applicaties-en-te-nemen-stappen |
+| NL | NCSC-NL | NL | Https://www.ncsc.nl/actueel/nieuws/2021/december/12/kwetsbare-log4j-applicaties-en-te-nemen-stappen |
 | PL | CERT.PL | PL | https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/ |
 | PT | CSIRT.PT | PT | https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2 |
 | RO | CERT-RO | RO | https://dnsc.ro/citeste/alerta-vulnerabilitate-zero-day-log4j-java |
