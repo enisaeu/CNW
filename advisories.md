@@ -14,7 +14,7 @@ https://github.com/NCSC-NL/log4shell
 - EE      https://www.ria.ee/et/uudised/varske-turvanorkus-seab-ohtu-ka-eesti-ettevotted-ja-asutused.html
 - EU(EN)  https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf
 - ES      https://www.ccn-cert.cni.es/seguridad-al-dia/alertas-ccn-cert/11435-ccn-cert-al-09-21-vulnerabilidad-en-apache-log4j-2.html
-- FI(EN)	https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021- 
+- FI(EN)	https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021
 - FR 	    https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/
 - HR      https://www.cert.hr/kriticno-upozorenje-zero-day-ranjivost-ili-ranjivost-nultog-dana-u-java-biblioteci-log4j/
 - IE(EN) 	https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf
