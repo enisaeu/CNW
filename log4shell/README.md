@@ -5,7 +5,7 @@
 CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more: 
 https://github.com/NCSC-NL/log4shell
 
-## List of CSIRTs Network Member alerts:
+## List of CSIRTs Network member alerts:
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
@@ -30,7 +30,8 @@ https://github.com/NCSC-NL/log4shell
 | IE | CSIRT-IE | EN | https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf |
 | IT | CSIRT-ITA | IT | https://csirt.gov.it/Log4Shell |
 | LU | CIRCL | EN | https://www.circl.lu/pub/tr-65/ |
-| NL | NCSC-NL | NL | Https://www.ncsc.nl/actueel/nieuws/2021/december/12/kwetsbare-log4j-applicaties-en-te-nemen-stappen |
+| NL | NCSC-NL | NL | https://www.ncsc.nl/onderwerpen/log4j |
+| NL | NCSC-NL | NL | https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052 |
 | PL | CERT.PL | PL | https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/ |
 | PT | CSIRT.PT | PT | https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2 |
 | RO | CERT-RO | RO | https://dnsc.ro/citeste/alerta-vulnerabilitate-zero-day-log4j-java |
