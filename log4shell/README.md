@@ -1,4 +1,4 @@
-# CSIRTs Network Log4Shell
+# CSIRTs Network - Log4Shell Cooperation
 
 ## CSIRTs Network supported Log4Shell information hub:
 
