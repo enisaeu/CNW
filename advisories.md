@@ -3,6 +3,7 @@
 CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules: 
 https://github.com/NCSC-NL/log4shell
 
+##list of CSIRTs Network Members alerts:
 
 - AT      https://cert.at/de/warnungen/2021/12/kritische-0-day-sicherheitslucke-in-apache-log4j-bibliothek
 - BE(EN)	https://www.cert.be/nl/warning-active-exploitation-0-day-rce-log4j
