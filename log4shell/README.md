@@ -5,7 +5,7 @@
 CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more: 
 https://github.com/NCSC-NL/log4shell
 
-## List of CSIRTs Network Members alerts:
+## List of CSIRTs Network Member alerts:
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
