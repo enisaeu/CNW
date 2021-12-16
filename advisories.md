@@ -7,6 +7,7 @@ https://github.com/NCSC-NL/log4shell
 
 - AT      https://cert.at/de/warnungen/2021/12/kritische-0-day-sicherheitslucke-in-apache-log4j-bibliothek
 - BE(EN)	https://www.cert.be/nl/warning-active-exploitation-0-day-rce-log4j
+- BG      https://www.govcert.bg/BG/NAW/Pages/Анализ-на-уязвимостта---CVE-2021-44228-–-Apache-Log4j-2.aspx
 - CZ      https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/kriticka-zranitelnost-log4j/
 - CY(EN)  https://csirt.cy/en/alerts/critical-vulnerability-in-apache-log4j-library
 - DE      https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Webanwendungen/log4j/log4j_node.html
