@@ -1,6 +1,6 @@
 # CSIRTs Network Log4Shell Alerts published
 
-CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules: 
+CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more: 
 https://github.com/NCSC-NL/log4shell
 
 ## List of CSIRTs Network Members alerts:
