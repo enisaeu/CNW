@@ -24,6 +24,8 @@ https://github.com/NCSC-NL/log4shell
 | FI | NCSC-FI | FI | https://www.kyberturvallisuuskeskus.fi/fi/varo_ttn_5/2021 |
 | FI | NCSC-FI | EN | https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021 |
 | FR | CERT-FR | FR | https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/ |
+| GR | GR-CSIRT | EL | https://csirt.cd.mil.gr/el/%ce%b5%cf%85%cf%80%ce%ac%ce%b8%ce%b5%ce%b9%ce%b1-apache-log4j-rce-cve-2021-44228/ |
+| GR | GR-CSIRT | EN | https://csirt.cd.mil.gr/apache-vulnerability-log4j-rce-cve-2021-44228/ |
 | HR | CERT.hr | HR | https://www.cert.hr/kriticno-upozorenje-zero-day-ranjivost-ili-ranjivost-nultog-dana-u-java-biblioteci-log4j/ |
 | HR | CERT ZSIS | HR | https://www.zsis.hr/default.aspx?id=448 |
 | HU | NCSC-HU | HU | https://nki.gov.hu/figyelmeztetesek/tajekoztatas/rendkivuli-tajekoztato-ransomware-malware-terjesztes-a-log4shell-serulekenyseg-kihasznalasaval-kapcsolatban/ |
