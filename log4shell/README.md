@@ -30,6 +30,7 @@ https://github.com/NCSC-NL/log4shell
 | IE | CSIRT-IE | EN | https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf |
 | IT | CSIRT-ITA | IT | https://csirt.gov.it/Log4Shell |
 | LU | CIRCL | EN | https://www.circl.lu/pub/tr-65/ |
+| MT | CSIRTMalta | EN |https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250268%20Advisory.pdf |
 | NL | NCSC-NL | NL | https://www.ncsc.nl/onderwerpen/log4j |
 | NL | NCSC-NL | NL | https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052 |
 | NL | CSIRT-DSP | NL | https://csirtdsp.nl/nieuws/kritieke-kwetsbaarheid-log4j-v2 |
