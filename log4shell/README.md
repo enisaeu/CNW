@@ -12,12 +12,12 @@ https://github.com/NCSC-NL/log4shell
 | AT | CERT.at | DE | https://cert.at/de/warnungen/2021/12/kritische-0-day-sicherheitslucke-in-apache-log4j-bibliothek |
 | BE | CERT.be | EN | https://www.cert.be/nl/warning-active-exploitation-0-day-rce-log4j |
 | BG | CERT Bulgaria | BG | https://www.govcert.bg/BG/NAW/Pages/Анализ-на-уязвимостта---CVE-2021-44228-–-Apache-Log4j-2.aspx |
-| CZ | CSIRT.CZ | CZ | https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/kriticka-zranitelnost-log4j/ |
-| CZ | GovCERT.CZ | CZ | https://www.nukib.cz/cs/infoservis/hrozby/1785-nukib-vydava-reaktivni-opatreni-v-souvislosti-se-zranitelnosti-log4shell/ |
+| CZ | CSIRT.CZ | CS | https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/kriticka-zranitelnost-log4j/ |
+| CZ | GovCERT.CZ | CS | https://www.nukib.cz/cs/infoservis/hrozby/1785-nukib-vydava-reaktivni-opatreni-v-souvislosti-se-zranitelnosti-log4shell/ |
 | CZ | GovCERT.CZ | EN | https://www.nukib.cz/en/infoservis-en/news/1786-reactive-measure-regarding-a-serious-vulnerability-referred-to-as-log4shell/ |
 | CY | CSIRT-CY | EN | https://csirt.cy/en/alerts/critical-vulnerability-in-apache-log4j-library |
 | DE | CERT-Bund | DE | https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Webanwendungen/log4j/log4j_node.html |
-| DK | CFCS | DK | https://www.cfcs.dk/da/handelser/varsler/opsamling-pa-log4j/ |
+| DK | CFCS | DA | https://www.cfcs.dk/da/handelser/varsler/opsamling-pa-log4j/ |
 | EU | EU | EN | https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf |
 | ES | CCN-CERT | ES | https://www.ccn-cert.cni.es/seguridad-al-dia/alertas-ccn-cert/11435-ccn-cert-al-09-21-vulnerabilidad-en-apache-log4j-2.html |
 | ES | INCIBE | ES | https://www.incibe.es/protege-tu-empresa/avisos-seguridad/vulnerabilidad-critica-apache-log4j |
@@ -35,8 +35,8 @@ https://github.com/NCSC-NL/log4shell
 | PL | CERT.PL | PL | https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/ |
 | PT | CSIRT.PT | PT | https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2 |
 | RO | CERT-RO | RO | https://dnsc.ro/citeste/alerta-vulnerabilitate-zero-day-log4j-java |
-| SE | CERT-SE | SE | https://www.cert.se/2021/12/kritisk-sarbarhet-i-apache-log4j |
-| SI | SI-CERT | SI | https://www.cert.si/si-cert-2021-06/ |
+| SE | CERT-SE | SV | https://www.cert.se/2021/12/kritisk-sarbarhet-i-apache-log4j |
+| SI | SI-CERT | SL | https://www.cert.si/si-cert-2021-06/ |
 | SK | SK-CERT | SK |  https://www.sk-cert.sk/sk/urgent-0-day-zranitelnost-v-log4j-verzia-2/index.html |
 
  
