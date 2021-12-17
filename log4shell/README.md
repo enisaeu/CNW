@@ -32,6 +32,7 @@ https://github.com/NCSC-NL/log4shell
 | LU | CIRCL | EN | https://www.circl.lu/pub/tr-65/ |
 | NL | NCSC-NL | NL | https://www.ncsc.nl/onderwerpen/log4j |
 | NL | NCSC-NL | NL | https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052 |
+| NL | CSIRT-DSP | NL | https://csirtdsp.nl/nieuws/kritieke-kwetsbaarheid-log4j-v2 |
 | PL | CERT.PL | PL | https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/ |
 | PT | CSIRT.PT | PT | https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2 |
 | RO | CERT-RO | RO | https://dnsc.ro/citeste/alerta-vulnerabilitate-zero-day-log4j-java |
