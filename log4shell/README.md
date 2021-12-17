@@ -31,6 +31,7 @@ https://github.com/NCSC-NL/log4shell
 | HU | NCSC-HU | HU | https://nki.gov.hu/figyelmeztetesek/tajekoztatas/rendkivuli-tajekoztato-ransomware-malware-terjesztes-a-log4shell-serulekenyseg-kihasznalasaval-kapcsolatban/ |
 | IE | CSIRT-IE | EN | https://www.ncsc.gov.ie/pdfs/apache-log4j-101221.pdf |
 | IT | CSIRT-ITA | IT | https://csirt.gov.it/Log4Shell |
+| LT | CERT-LT | LT | https://www.nksc.lt/naujienos/kritine_spraga_populiarioje_log4j_bibliotekoje.html |
 | LU | CIRCL | EN | https://www.circl.lu/pub/tr-65/ |
 | MT | CSIRTMalta | EN |https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250268%20Advisory.pdf |
 | NL | NCSC-NL | NL | https://www.ncsc.nl/onderwerpen/log4j |
