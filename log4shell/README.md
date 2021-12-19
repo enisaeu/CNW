@@ -34,8 +34,8 @@ https://github.com/NCSC-NL/log4shell
 | LT | CERT-LT | LT | <a href="https://www.nksc.lt/naujienos/kritine_spraga_populiarioje_log4j_bibliotekoje.html">Kritinė saugumo spraga populiarioje Log4j bibliotekoje</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-65/">TR-65 - Vulnerabilities and Exploitation of Log4j (Remote code injection in Log4j)</a> |
 | MT | CSIRTMalta | EN | <a href="https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250268%20Advisory.pdf">Critical Zero-day vulnerability in Log4j [PDF]</a> |
-| NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/onderwerpen/log4j">Log4j</a> |
-| NL | NCSC-NL | NL | <a href="https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052">Ernstige kwetsbaarheid gevonden in Apache Log4j</a> |
+| NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/onderwerpen/log4j">Log4j (Incidentpagina)</a> |
+| NL | NCSC-NL | NL | <a href="https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052">Ernstige kwetsbaarheid gevonden in Apache Log4j (Advisory)</a> |
 | NL | CSIRT-DSP | NL | <a href="https://csirtdsp.nl/nieuws/kritieke-kwetsbaarheid-log4j-v2">Kritieke kwetsbaarheid Log4j v2</a> |
 | PL | CERT.PL | PL | <a href="https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/">Krytyczna podatność w bibliotece Apache Log4j (CVE-2021-44228)</a> |
 | PT | CSIRT.PT | PT | <a href="https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2">Alerta de Vulnerabilidades - Log4j 2</a> |
