@@ -38,7 +38,7 @@ https://github.com/NCSC-NL/log4shell
 | NL | NCSC-NL | NL | <a href="https://advisories.ncsc.nl/advisory?id=NCSC%2D2021%2D1052">Ernstige kwetsbaarheid gevonden in Apache Log4j (Advisory)</a> |
 | NL | CSIRT-DSP | NL | <a href="https://csirtdsp.nl/nieuws/kritieke-kwetsbaarheid-log4j-v2">Kritieke kwetsbaarheid Log4j v2</a> |
 | PL | CERT.PL | PL | <a href="https://cert.pl/posts/2021/12/krytyczna-podatnosc-w-bibliotece-apache-log4j/">Krytyczna podatność w bibliotece Apache Log4j (CVE-2021-44228)</a> |
-| PT | CSIRT.PT | PT | <a href="https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2">Alerta de Vulnerabilidades - Log4j 2</a> |
+| PT | CERT.PT | PT | <a href="https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135608/alerta-de-vulnerabilidades-log4j-2">Alerta de Vulnerabilidades - Log4j 2</a> |
 | RO | CERT-RO | RO | <a href="https://dnsc.ro/citeste/alerta-vulnerabilitate-zero-day-log4j-java">Vulnerabilitate critică de tip zero-day afectează Log4j, o bibliotecă Java utilizată la scară largă</a> |
 | SE | CERT-SE | SV | <a href="https://www.cert.se/2021/12/kritisk-sarbarhet-i-apache-log4j">Kritisk sårbarhet i vanligt förekommande Apache-biblioteket Log4j</a> |
 | SI | SI-CERT | SL | <a href="https://www.cert.si/si-cert-2021-06/">Kritična ranljivost Java knjižnice Apache Log4j</a> |
