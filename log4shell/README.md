@@ -18,7 +18,7 @@ https://github.com/NCSC-NL/log4shell
 | CY | CSIRT-CY | EN | <a href="https://csirt.cy/en/alerts/critical-vulnerability-in-apache-log4j-library">Critical vulnerability in Apache Log4j library </a> |
 | DE | CERT-Bund | DE | <a href="https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Webanwendungen/log4j/log4j_node.html">Kritische Schwachstelle in Java-Bibliothek Log4j</a> |
 | DK | CFCS | DA | <a href="https://www.cfcs.dk/da/handelser/varsler/opsamling-pa-log4j/">Sårbarhed i Log4j: Opsamling</a> |
-| EU | EU | EN | <a href="https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf">Java Logging Package RCE Vulnerability [PDF]</a> |
+| EU | CERT-EU | EN | <a href="https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf">Java Logging Package RCE Vulnerability [PDF]</a> |
 | ES | CCN-CERT | ES | <a href="https://www.ccn-cert.cni.es/seguridad-al-dia/alertas-ccn-cert/11435-ccn-cert-al-09-21-vulnerabilidad-en-apache-log4j-2.html">CCN-CERT AL 09/21 Vulnerabilidad en Apache Log4j 2</a> |
 | ES | INCIBE | ES | <a href="https://www.incibe.es/protege-tu-empresa/avisos-seguridad/vulnerabilidad-critica-apache-log4j">Vulnerabilidad crítica en Apache Log4j</a> |
 | FI | NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/varo_ttn_5/2021">Julkaisimme vakavan varoituksen aktiivisesti hyväksikäytetystä Log4j-komponentin haavoittuvuudesta</a> |
