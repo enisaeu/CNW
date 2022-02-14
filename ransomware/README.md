@@ -40,7 +40,7 @@
 | SK | SK-CERT | SK |  <a href="https://www.sk-cert.sk/sk/ransomver-a-jeho-dnesna-realita/index.html">Ransomvér a jeho dnešná realita</a> |
 
 ## Additional publications and helpful information
-| Organisatio | Language | Information |
+| Organisation | Language | Information |
 | :-----: | :----------: | :------: | 
 | ANSSI, BSI | EN | <a href="https://www.ssi.gouv.fr/en/actualite/anssi-and-the-bundesamt-fur-sicherheit-in-der-informationstechnik-bsi-present-the-fourth-edition-of-the-common-situational-picture/">Franco-German Common Situational Picture 2021 focuses on the cybercriminal use of ransomware, and regarding the latest extortion technique developments</a> |
 | ENISA | EN | <a href="https://www.enisa.europa.eu/publications/ransomware">ENISA Threat Landscape 2020 - Ransomware</a> |
