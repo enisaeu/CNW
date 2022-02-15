@@ -29,7 +29,7 @@
 | IT | CSIRT-ITA | IT | <a href="https://csirt.gov.it/contenuti/ransomware-misure-di-protezione-e-organizzazione-dei-dati-per-un-ripristino-efficace">RANSOMWARE - Misure di protezione e organizzazione dei dati per un ripristino efficace</a> |
 | LT | CERT-LT | LT | <a href="https://www.nksc.lt/doc/biuleteniai/2021-11-05_Ransomware.pdf">INFORMACINIS BIULETENIS DUOMENIS ŠIFRUOJANTIS IR IŠPIRKOS REIKALAUJANTIS KENKĖJIŠKAS KODAS</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-57/">TR-57 - Ransomware - Effects and precautions</a> |
-| MT | CSIRTMalta | EN | <a href="https://maltacip.gov.mt/en/Documents/EN250235%20Advisory.pdf">List of Vulnerabilities Used by Ransomware Gangs</a> |
+| MT | CSIRTMalta | EN | <a href="https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250151%20Advisory.pdf">Best-Practices to Prevent Ransomware</a> |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/factsheets/2020/june/30/factsheet-ransomware">Factsheet Ransomware (Measures for preventing, limiting and recovering from a ransomware attack)</a> |
 | NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/documenten/factsheets/2020/juni/30/factsheet-ransomware">Factsheet Ransomware (Maatregelen voor het voorkomen, beperken en herstellen van een ransomware-aanval)</a> |
 | PL | CERT.PL | PL | <a href="https://cert.pl/uploads/docs/CERT_Polska_Poradnik_ransomware.pdf">Poradnik ransomware [PDF]</a> |
