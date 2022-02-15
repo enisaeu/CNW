@@ -11,7 +11,7 @@
 | BE | CERT.be | NL/FR | <a href="https://www.cert.be/en/alert/important-protective-measures-against-ransomware-attacks">RANSOMWARE: PROTECTION AND PREVENTION</a> |
 | BG | CERT Bulgaria | BG | To be added |
 | CZ | CSIRT.CZ | CS | <a href="https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/jak-zastavit-ransomware/">Jak zastavit ransomware</a> |
-| CZ | GovCERT.CZ | CS | <a href="https://nukib.cz/cs/infoservis/hrozby/1465-ransomware-je-stale-aktualni-hrozbou/">Ransomware je stále aktuální hrozbou</a> |
+| CZ | GovCERT.CZ | CS | <a href="https://www.nukib.cz/cs/infoservis/aktuality/1662-jak-se-branit-utoku-ransomwarem/">Jak se bránit útoku ransomwarem</a> |
 | CY | CSIRT-CY | EN | <a href="https://csirt.cy/en/tag/ransomware/">Ransomware Security News</a> |
 | DE | CERT-Bund | DE | <a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware.html">Ransomware: Bedrohungslage, Prävention & Reaktion 2021</a> |
 | DK | CFCS | EN | <a href="https://www.cfcs.dk/globalassets/cfcs/dokumenter/rapporter/en/cfcs-report--the-anatomy-of-targeted-ransomware-attacks.pdf">The anatomy of targeted ransomware attacks [PDF]</a> |
