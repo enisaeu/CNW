@@ -9,7 +9,7 @@
 | AT | CERT.at | DE | <a href="https://cert.at/de/spezielles/2016/4/spezielles-20160325">Special Report: Empfehlungen zu Ransomware</a> |
 | BE | CERT.be | EN | <a href="https://www.cert.be/en/alert/important-protective-measures-against-ransomware-attacks">Important protective measures against Ransomware attacks</a> |
 | BE | CERT.be | NL/FR | <a href="https://www.cert.be/en/alert/important-protective-measures-against-ransomware-attacks">RANSOMWARE: PROTECTION AND PREVENTION</a> |
-| BG | CERT Bulgaria | BG | To be added |
+| BG | CERT Bulgaria | BG | <a href="https://www.govcert.bg/BG/Documents/Ransomware.pdf"> CERT-BG - Ransomware [PDF] </a> |
 | CZ | CSIRT.CZ | CS | <a href="https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/jak-zastavit-ransomware/">Jak zastavit ransomware</a> |
 | CZ | GovCERT.CZ | CS | <a href="https://www.nukib.cz/cs/infoservis/aktuality/1662-jak-se-branit-utoku-ransomwarem/">Jak se bránit útoku ransomwarem</a> |
 | CY | CSIRT-CY | EN | <a href="https://csirt.cy/en/tag/ransomware/">Ransomware Security News</a> |
