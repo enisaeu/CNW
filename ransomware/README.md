@@ -28,6 +28,10 @@
 | IE | CSIRT-IE | EN | <a href="https://www.ncsc.gov.ie/pdfs/NCSC_Quick_Guide_Ransomware.pdf">Quick Guide: Ransomware How to #BreakTheChain [PDF]</a> |
 | IT | CSIRT-ITA | IT | <a href="https://csirt.gov.it/contenuti/ransomware-misure-di-protezione-e-organizzazione-dei-dati-per-un-ripristino-efficace">RANSOMWARE - Misure di protezione e organizzazione dei dati per un ripristino efficace</a> |
 | LT | CERT-LT | LT | <a href="https://www.nksc.lt/doc/biuleteniai/2021-11-05_Ransomware.pdf">INFORMACINIS BIULETENIS DUOMENIS ŠIFRUOJANTIS IR IŠPIRKOS REIKALAUJANTIS KENKĖJIŠKAS KODAS</a> |
+| LU | CIRCL | EN | <a href="https://circl.lu/pub/tr-41/">TR-41 - Crypto Ransomware - Proactive defenses and incident response</a> |
+| LU | CIRCL | DE | <a href="https://circl.lu/pub/tr-41/de/">TR-41 - Crypto Ransomware - Vorsichtsmaßnahmen und Verhalten im Infektionsfall</a> |
+| LU | CIRCL | FR | <a href="https://circl.lu/pub/tr-41/fr/">TR-41 - Crypto Ransomware - Défenses proactives et de réponse sur incident</a> |
+| LU | CIRCL | EN | <a href="https://circl.lu/pub/tr-55/">TR-55 - SquashFu - an alternate Open Source Backup solution, resilient to Crypto Ransomware attacks</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-57/">TR-57 - Ransomware - Effects and precautions</a> |
 | MT | CSIRTMalta | EN | <a href="https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250151%20Advisory.pdf">Best-Practices to Prevent Ransomware</a> |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/factsheets/2020/june/30/factsheet-ransomware">Factsheet Ransomware (Measures for preventing, limiting and recovering from a ransomware attack)</a> |
