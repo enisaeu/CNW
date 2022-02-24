@@ -8,11 +8,11 @@
 | :-----: | :----------: | :------: | :------ |
 | BE | CCCB | EN | <a href="https://news.belgium.be/en/impact-ukraine-conflict-cyber-threat-belgium">Impact of Ukraine conflict on cyber threat in Belgium</a> |
 | CZ | GovCERT.CZ | CS | <a href="https://www.nukib.cz/download/publikace/analyzy/Upozorneni_na_zvysene_riziko_proti_CR.pdf">UPOZORNĚNÍ NA ZVÝŠENÉ RIZIKO KYBERŠPIONÁŽNÍCH ČI RANSOMWAROVÝCH ÚTOKŮ PROTI ČESKÉ REPUBLICE [PDF]</a> |
-| EU | ENISA/CERT-EU | EN | <a href="https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience">Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2021)</a> |
+| EU | CERT-EU / ENISA | EN | <a href="https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience">Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2021)</a> |
 | IE | CSIRT-IE | EN | <a href="https://www.ncsc.gov.ie/pdfs/TLP_WHITE_Heightened_Threats_Feb22.pdf">Cyber Risk Assessment and Advice Regarding Ongoing Ukraine Situation [PDF]</a> |
+| IT | CSIRT-ITA | IT | <a href="https://csirt.gov.it/contenuti/misure-di-protezione-delle-infrastrutture-digitali-nazionali-dai-possibili-rischi-cyber-derivanti-dalla-situazione-ucraina-bl01-220214-csirt-ita">Misure di protezione delle infrastrutture digitali nazionali dai possibili rischi cyber derivanti dalla situazione ucraina</a> | 
 | NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/actueel/nieuws/2022/januari/25/spanningen-rusland-oekraine-digitale-impact">Spanningen Rusland-Oekraïne: digitale impact</a> |
 | NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/actueel/nieuws/2022/februari/10/digitale-aanvallen-oekraine-een-tijdlijn">Digitale aanvallen Oekraïne: een tijdlijn</a> |
-| IT | CSIRT-ITA | IT | <a href="https://csirt.gov.it/contenuti/misure-di-protezione-delle-infrastrutture-digitali-nazionali-dai-possibili-rischi-cyber-derivanti-dalla-situazione-ucraina-bl01-220214-csirt-ita">Misure di protezione delle infrastrutture digitali nazionali dai possibili rischi cyber derivanti dalla situazione ucraina</a> | 
 | SE | CERT-SE | SE | <a href="https://www.cert.se/2022/02/dags-att-se-over-cyberhygienen-i-verksamheten">Dags att se över cyberhygienen i verksamheten</a> | 
 
 ### Business Continuity 
