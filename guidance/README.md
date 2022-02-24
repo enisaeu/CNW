@@ -1,5 +1,6 @@
 
-# CSIRTs Network - Security Guidance [Note: the list of guidance publications is currently under construction.]
+# CSIRTs Network - Security Guidance 
+[Note: the list of guidance publications is currently under construction.]
 
 ## Categorized list of security best-practices made available by CSIRTs Network members:
 
