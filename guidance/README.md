@@ -17,16 +17,23 @@
 | PL |	CERT.PL | PL | <a href="https://cert.pl/posts/2022/02/rekomendacje-cyberprzestrzen-ukraina/">Rekomendacje w związku ze zwiększonym zagrożeniem w cyberprzestrzeni wywołanym sytuacją na Ukrainie</a> |
 | SE | CERT-SE | SE | <a href="https://www.cert.se/2022/02/dags-att-se-over-cyberhygienen-i-verksamheten">Dags att se över cyberhygienen i verksamheten</a> | 
 
-### Business Continuity 
+### Business Continuity
+
+#### Backups
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | EU | ENISA | EN | <a href="https://www.enisa.europa.eu/securesme/cyber-tips/strengthen-technical-measures/secure-backups">Guidance on Secure Backups (1 September 2021)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-55/">TR-55 - SquashFu - an alternate Open Source Backup solution, resilient to Crypto Ransomware attacks (12 September 2018)</a> |
 
+#### DDoS protection
+| Country | Organisation | Language | Material |
+| :-----: | :----------: | :------: | :------ |
+| PL |	Govcert.pl | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
+
 ### Authentication
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA |  |  |
+| PL | CERT-PL | PL |  <a href="CERT-PL Hasła">https://cert.pl/hasla/</a> |
 
 ### Network Security / Architecture
 | Country | Organisation | Language | Material |
@@ -46,7 +53,9 @@
 ### Email Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
+| PL | CERT-PL | PL |  <a href="Mechanizmy weryfikacji nadawcy wiadomości">https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-60/">TR-60 - Phishing - Effects and precautions (26 June 2020)</a> |
+
 
 ### Incident Response
 | Country | Organisation | Language | Material |
