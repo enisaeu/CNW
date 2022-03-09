@@ -21,6 +21,7 @@
 | NL | NCSC-NL | NL |<ul><li><a href="https://www.ncsc.nl/actueel/nieuws/2022/januari/25/spanningen-rusland-oekraine-digitale-impact">Spanningen Rusland-Oekraïne: digitale impact (25 January 2022)</a></li><li><a href="https://www.ncsc.nl/actueel/nieuws/2022/februari/10/digitale-aanvallen-oekraine-een-tijdlijn">Digitale aanvallen Oekraïne: een tijdlijn (10 February 2022)</a></li></ul>|
 | PL |	CERT.PL | PL |<a href="https://cert.pl/posts/2022/02/rekomendacje-cyberprzestrzen-ukraina/">Rekomendacje w związku ze zwiększonym zagrożeniem w cyberprzestrzeni wywołanym sytuacją na Ukrainie (24 February 2022)</a>|
 | SE | CERT-SE | SE |<a href="https://www.cert.se/2022/02/dags-att-se-over-cyberhygienen-i-verksamheten">Dags att se över cyberhygienen i verksamheten (15 February 2022)</a>| 
+| SI | SI-CERT | SI |<a href="https://www.cert.si/kibernetski-napadi-na-ukrajino">Kibernetski napadi na Ukrajino (27 February 2022)</a>
 
 ### Business Continuity
 
