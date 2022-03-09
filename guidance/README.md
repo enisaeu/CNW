@@ -14,8 +14,7 @@
 | FI | NCSC-FI | FI |<a href="https://www.kyberturvallisuuskeskus.fi/fi/kyberturvallisuuden-vahvistaminen-suomalaisissa-organisaatiossa-ohje-johdolle-ja-asiantuntijoille">Kyberturvallisuuden vahvistaminen suomalaisissa organisaatiossa - ohje johdolle ja asiantuntijoille</a>|
 | IE | CSIRT-IE | EN |<a href="https://www.ncsc.gov.ie/pdfs/TLP_WHITE_Heightened_Threats_Feb22.pdf">Cyber Risk Assessment and Advice Regarding Ongoing Ukraine Situation [PDF]</a>|
 | IT | CSIRT-ITA | IT |<a href="https://csirt.gov.it/contenuti/misure-di-protezione-delle-infrastrutture-digitali-nazionali-dai-possibili-rischi-cyber-derivanti-dalla-situazione-ucraina-bl01-220214-csirt-ita">Misure di protezione delle infrastrutture digitali nazionali dai possibili rischi cyber derivanti dalla situazione ucraina</a>| 
-| NL | NCSC-NL | NL |<a href="https://www.ncsc.nl/actueel/nieuws/2022/januari/25/spanningen-rusland-oekraine-digitale-impact">Spanningen Rusland-Oekraïne: digitale impact</a>|
-| NL | NCSC-NL | NL |<a href="https://www.ncsc.nl/actueel/nieuws/2022/februari/10/digitale-aanvallen-oekraine-een-tijdlijn">Digitale aanvallen Oekraïne: een tijdlijn</a>|
+| NL | NCSC-NL | NL |<ul><li><a href="https://www.ncsc.nl/actueel/nieuws/2022/januari/25/spanningen-rusland-oekraine-digitale-impact">Spanningen Rusland-Oekraïne: digitale impact</a></li><li><a href="https://www.ncsc.nl/actueel/nieuws/2022/februari/10/digitale-aanvallen-oekraine-een-tijdlijn">Digitale aanvallen Oekraïne: een tijdlijn</a></li></ul>|
 | PL |	CERT.PL | PL |<a href="https://cert.pl/posts/2022/02/rekomendacje-cyberprzestrzen-ukraina/">Rekomendacje w związku ze zwiększonym zagrożeniem w cyberprzestrzeni wywołanym sytuacją na Ukrainie</a>|
 | SE | CERT-SE | SE |<a href="https://www.cert.se/2022/02/dags-att-se-over-cyberhygienen-i-verksamheten">Dags att se över cyberhygienen i verksamheten</a>| 
 
