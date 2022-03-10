@@ -1,10 +1,10 @@
 
 [Note: the list of guidance publications is currently under construction.]
 # CSIRTs Network - Security Guidance 
-## Dedicated Guidance Publications:
+## Dedicated guidance publications:
 - [Hightened Threat Level Guidance](hightened.md)
 - [Ransomware Guidance](ransomware.md)
-## Categorized list of security best-practices made available by CSIRTs Network members:
+## Categorized list of security best-practices:
 - [Business Continuity](#business-continuity)
    - [Backups](#backups)
    - [DDoS protection](#ddos-protection)
