@@ -12,6 +12,7 @@
 - [Monitoring / Logging](#monitoring--logging)
 - [Email Security](#email-security)
 - [Incident Response](#incident-response)
+- [Industrial Control System Security](#industrial-control-system-security)
 - [Webserver Security](#webserver-security)
 - [Additional Best-Practices](#additional-best-practices)
 - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
@@ -29,6 +30,7 @@
 #### DDoS protection
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
+| DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html">Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion</a> |
 | PL |	Govcert.pl | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
 
 ### Authentication
@@ -69,6 +71,12 @@
 | :-----: | :----------: | :------: | :------ |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-26/">TR-26 Security Recommendations for Web Content Management Systems and Web Servers (28 April 2015)</a> |
 
+### Industrial Control System Security 
+| Country | Organisation | Language | Material |
+| :-----: | :----------: | :------: | :------ |
+| DE | BSI |  EN | <a href="https://www.bsi.bund.de/EN/Topics/Industry_CI/ICS/ics_node.html">Industrial Control System Security</a> |
+| DE | BSI |  DE | <a href="https://www.bsi.bund.de/ICS">Industrielle Steuerungs- und Automatisierungssysteme (ICS)</a> |
+
 ### Additional Best-Practices 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
@@ -92,6 +100,12 @@
 | FR | CERT-FR |  FR | <a href="https://www.cert.ssi.gouv.fr/avis/">Avis de sécurité</a> |
 | DE | CERT-Bund |  DE | <a href="https://cert-bund.de/overview">CERT-Bund Warn- und Informationsdienste</a> |
 | NL | NCSC-NL |  NL | <a href="https://advisories.ncsc.nl/advisories">Overzicht gepubliceerde Advisories</a> |
+
+#### Vulnerability Scanning 
+| Country | Organisation | Language | Material |
+| :-----: | :----------: | :------: | :------ |
+| DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_007.pdf?__blob=publicationFile&v=1">Schwachstellen-Analyse in Netzen unter Einsatz von OpenVAS [PDF]</a> |
+
 
 ### Trainings 
 | Country | Organisation | Language | Material |
