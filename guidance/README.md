@@ -4,6 +4,7 @@
 ## Dedicated guidance publications:
 - [Hightened Threat Level Guidance](hightened.md)
 - [Ransomware Guidance](ransomware.md)
+- [Log4j Guidance](log4j.md)
 ## Categorized list of security best-practices:
 - [Business Continuity](#business-continuity)
    - [Backups](#backups)
