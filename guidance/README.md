@@ -1,5 +1,5 @@
 
-[Note: the list of guidance publications is currently under construction.]
+[Note: this list of guidance publications is currently under construction.]
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications:
 - [Hightened Threat Level Guidance](hightened.md)
