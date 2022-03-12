@@ -1,5 +1,5 @@
 
-### Best Practices in Case of Hightened Threat Level
+### Best Practices to Cope with Hightened Threat Levels
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | AT | CERT-AT | DE |<a href="https://cert.at/de/aktuelles/2022/3/ukraine-krise-aktuelle-informationen">Ukraine-Krise - Aktuelle Informationen (08 March 2022)</a>|
