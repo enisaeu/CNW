@@ -5,7 +5,7 @@
                                                    
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications:
-- [Hightened Threat Level Guidance](hightened.md)
+- [Heightened Threat Level Guidance](heightened.md)
 - [Ransomware Guidance](ransomware.md)
 - [Log4j Guidance](log4j.md)
 ## Categorized list of security best-practices:
