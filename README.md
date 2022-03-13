@@ -1,7 +1,7 @@
 
 <p align="center"><img src="graphics/CSIRT_logo.7d731656.png" alt="CSIRTs Network" width="600"/></p>
 
-[Note: the list of guidance publications is currently under construction.]
+[The list of guidance publications is currently under construction.]
                                                    
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications:
