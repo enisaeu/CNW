@@ -51,4 +51,4 @@
 | Europol | EN | <a href="https://www.nomoreransom.org/en/index.html">No More Ransome - Helping ransomware victims to retrieve their encrypted data without having to pay</a> |
  
 
-For more information on the CSIRTs Network Members please visit https://csirtsnetwork.eu/ 
+For more information about CSIRTs Network Members and how to get in contact please visit https://csirtsnetwork.eu/
