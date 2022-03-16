@@ -21,8 +21,10 @@
 - [Industrial Control System Security](#industrial-control-system-security)
 - [Webserver Security](#webserver-security)
 - [Additional Best-Practices](#additional-best-practices)
-- [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
+- [Vulnerability Handling](#vulnerability-handling)
+   - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
    - [Vulnerability Advisory Sources](#vulnerability-advisories)
+   - [Vulnerability Scanning](#vulnerability-scanning)
 - [Training Material](#trainings)
 
 ### Business Continuity
@@ -92,7 +94,8 @@
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures">Guide to Cyber Security Measures (05 August 2021)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-47/">TR-47 - Recommendations regarding Abuse handling for ISPs and registrars (23 February 2017)</a> |
 
-### Vulnerability Disclosure Policies
+### Vulnerability Handling
+#### Vulnerability Disclosure Policies
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline">Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)</a> |
