@@ -1,7 +1,7 @@
 
 <p align="center"><img src="graphics/CSIRT_logo.7d731656.png" alt="CSIRTs Network" width="600"/></p>
 
-[The list of guidance publications is currently under construction.]
+[The list of guidance publications by CSIRTs NW members and partners is currently under construction.]
                                                    
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications
@@ -39,7 +39,8 @@
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html">Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion</a> |
-| PL |	Govcert.pl | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
+| FI |	NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi"> Neuvoja palvelunestohyökkäyksen estämiseksi [PDF] </a> |
+| PL |	 | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
 
 ### Authentication
 | Country | Organisation | Language | Material |
