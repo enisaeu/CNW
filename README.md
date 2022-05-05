@@ -42,9 +42,9 @@
 | DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html">Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion</a> |
 | FI |	NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi"> Neuvoja palvelunestohyökkäyksen estämiseksi [PDF] </a> |
 | FR |	CERT-FR | FR | <a href="https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/">Comprendre et anticiper les attaques DDoS [PDF]</a> |
+| HU | NCSC-HU | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf">Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-19/">TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)</a> |
 | PL |	KNF CSIRT | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
-| HU | NCSC-HU | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf">Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)</a> |
 
 ### Authentication
 | Country | Organisation | Language | Material |
