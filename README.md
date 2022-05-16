@@ -106,7 +106,8 @@
 | :-----: | :----------: | :------: | :------ |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline">Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)</a> |
 | SK | SK-CERT | EN | <a href="https://www.sk-cert.sk/en/vulnerability-reporting/index.html">Vulnerability Reporting Guideline (07 October 2019)</a> |
-| LV | CERT-LV | EN | <a href="https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy">Vulnerability Reporting Guideline (September 2019)</a> |
+| LU | CIRCL | EN | <a href="https://circl.lu/pub/responsible-vulnerability-disclosure/">Responsible Vulnerability Disclosure (October 2019)</a> |
+| LV | CERT-LV | EN | <a href="https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy">Responsible Vulnerability Disclosure (September 2019)</a> |
 
 #### Vulnerability Advisories 
 | Country | Organisation | Language | Material |
