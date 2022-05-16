@@ -82,7 +82,7 @@
 ### Webserver Security 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-26/">TR-26 Security Recommendations for Web Content Management Systems and Web Servers (28 April 2015)</a> |
+| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-26/">TR-26 - Security Recommendations for Web Content Management Systems and Web Servers (28 April 2015)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-66/">TR-66 - Webservers with mod_status like debug modules publicly available leak information (6 December 2021)</a> |
 
 ### Industrial Control System Security 
