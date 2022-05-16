@@ -49,7 +49,7 @@
 ### Authentication
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| PL | CERT-PL | PL |  <a href="CERT-PL Hasła">https://cert.pl/hasla/</a> |
+| PL | CERT-PL | PL | <a href="https://cert.pl/hasla/">Hasła - Materiałów, kierowany do wielu grup odbiorców</a> |
 
 ### Network Security / Architecture
 | Country | Organisation | Language | Material |
