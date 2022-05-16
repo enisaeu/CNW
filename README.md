@@ -72,7 +72,7 @@
 | EUI | CERT-EU |  EN | <a href="https://media.cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf">E-Mail Sender Adress Forgery Mitigation [PDF]</a> |
 | EUI | CERT-EU |  EN | <a href="https://cert.europa.eu/static/WhitePapers/Updated-CERT-EU_Security_Whitepaper_DMARC_17-001_v1_2.pdf">DMARC — Defeating E-Mail Abuse [PDF]</a>|
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-60/">TR-60 - Phishing - Effects and precautions (26 June 2020)</a> |
-| PL | CERT-PL | PL |  <a href="Mechanizmy weryfikacji nadawcy wiadomości">https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/</a> |
+| PL | CERT-PL | PL | <a href="https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/">Mechanizmy weryfikacji nadawcy wiadomości</a> |
 
 ### Incident Response
 | Country | Organisation | Language | Material |
@@ -96,7 +96,7 @@
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | EU | CERT-EU / ENISA | EN |<a href="https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience">Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)</a>|
-| EU | CERT-EU | EN |<a href="https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf">Cybersecurity mitigation measures against critical threats (09 March 2022) [PDF]</a>|
+| EU | CERT-EU | EN |<a href="https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf">Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)</a>|
 | FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work">Keeping your information secure both at home and at work (12 May 2020)</a> |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures">Guide to Cyber Security Measures (05 August 2021)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-47/">TR-47 - Recommendations regarding Abuse handling for ISPs and registrars (23 February 2017)</a> |
