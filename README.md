@@ -92,6 +92,7 @@
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI |  EN | <a href="https://www.bsi.bund.de/EN/Topics/Industry_CI/ICS/ics_node.html">Industrial Control System Security</a> |
 | DE | BSI |  DE | <a href="https://www.bsi.bund.de/ICS">Industrielle Steuerungs- und Automatisierungssysteme (ICS)</a> |
+| DE | BSI |  EN | <a href="https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_005E.html">Industrial Control System Security: Top 10 threats and countermeasures 2022</a> |  
 | HU | NCSC-HU & SeConSys | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/04/SeConSys_online_kezikonyv_2022_FINAL_22-03-03.pdf">Villamosenergetikai ipari felügyeleti rendszerek kiberbiztonsági kézikönyve 2022 [PDF] (3 March 2022) </a> |
 
 ### Additional Best-Practices 
