@@ -32,7 +32,7 @@
 | PT | CERT.PT | PT | [Alerta de Vulnerabilidades - Microsoft Support Diagnostic Tool (MSDT) ](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135668/alerta-de-vulnerabilidades-microsoft-support-diagnostic-tool-msdt) |
 | RO | CERT-RO | RO | [O nouă vulnerabilitate zero-day în Microsoft Word](https://dnsc.ro/citeste/vulnerabilitate-zero-day-microsoft-word-mai-2022) |
 | SE | CERT-SE | SV | [Allvarlig 0-day-sårbarhet i Microsoft Office](https://www.cert.se/2022/05/allvarlig-0-day-sarbarhet-i-microsoft-office) |
-| SI | SI-CERT | SL | |
+| SI | SI-CERT | SL | [SI-CERT 2022-02 / MSDT Ranljivost (Microsoft Support Diagnostic Tool)](https://www.cert.si/si-cert-2022-02/)|
 | SK | SK-CERT | SK | [Varovanie pred zneužívaním 0-day zraniteľnosti v Microsoft Office – Word ms-msdt (Follina)](https://www.sk-cert.sk/sk/varovanie-pred-zneuzivanim-0-day-zranitelnosti-v-microsoft-office-word-ms-msdt-follina/index.html)|
 
  
