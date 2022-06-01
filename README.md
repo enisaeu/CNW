@@ -5,10 +5,10 @@
                                                    
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications
-- [MSDT "Follina" Guidance](follina.md)
+- [MSDT "Follina" Vulnerability](follina.md)
 - [Heightened Threat Level Guidance](heightened.md)
 - [Ransomware Guidance](ransomware.md)
-- [Log4j Guidance](log4j.md)
+- [Log4j "Log4Shell" Vulnerability](log4j.md)
 
 ## Categorized list of security best-practices
 - [Business Continuity](#business-continuity)
