@@ -20,7 +20,7 @@
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | |
-| HU | NCSC-HU | HU | |
+| HU | NCSC-HU | HU | [Veszélyes MS Office zero-day sérülékenységet fedeztek fel, de van rá megkerülő megoldás](https://nki.gov.hu/en/it-biztonsag/hirek/veszelyes-ms-office-zero-day-serulekenyseget-fedeztek-fel/) |
 | IE | CSIRT-IE | EN | [Attackers Exploiting MSProtocol URI scheme [PDF]](https://www.ncsc.gov.ie/pdfs/ms-msdt_Vulnerability.pdf) |
 | IT | CSIRT-ITA | IT | [Follina: vulnerabilità 0-day in prodotti Microsoft (AL01/220531/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/follina-vulnerabilita-0-day-in-prodotti-microsoft-al01-220531-csirt-ita)|
 | LT | CERT-LT | LT | |
