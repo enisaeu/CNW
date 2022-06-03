@@ -12,9 +12,10 @@
 | CY | CSIRT-CY | EN | |
 | DE | CERT-Bund | DE | [Follina-Schwachstelle: Schadcode wird per Microsoft Office eingeschleust [PDF]](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2022/2022-224508-1032.pdf?__blob=publicationFile&v=2) |
 | DK | CFCS | DA | |
-| EU | CERT-EU | EN | [Vulnerability in Microsoft Office Products [PDF]](https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-039.pdf) |
+| EE | CERT-EE | EE |
 | ES | CCN-CERT | ES | [CCN-CERT AV 11/22 Actualización de seguridad para Microsoft Office](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert/11817-ccn-cert-av-11-22-actualizacion-de-seguridad-para-microsoft-office.html)|
 | ES | INCIBE | ES | [0day de ejecución remota de código en Microsoft Windows Support Diagnostic Tool (MSDT)](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad/0day-ejecucion-remota-codigo-microsoft-windows-support-diagnostic) |
+| EU | CERT-EU | EN | [Vulnerability in Microsoft Office Products [PDF]](https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-039.pdf) |
 | FI | NCSC-FI | FI | [Uusi haavoittuvuus Microsoftin työkalussa mahdollistaa hyökkäykset haitallisten Microsoft Office -dokumenttien avulla](https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021) |
 | FR | CERT-FR | FR | [CERTFR-2022-ALE-005 - Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/) |
 | GR | GR-CSIRT | EL | |
