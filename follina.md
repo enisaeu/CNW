@@ -18,7 +18,7 @@
 | FI | NCSC-FI | FI | [Uusi haavoittuvuus Microsoftin työkalussa mahdollistaa hyökkäykset haitallisten Microsoft Office -dokumenttien avulla](https://www.kyberturvallisuuskeskus.fi/en/varo_ttn_5/2021) |
 | FR | CERT-FR | FR | [CERTFR-2022-ALE-005 - Vulnérabilité dans Microsoft Windows](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/) |
 | GR | GR-CSIRT | EL | |
-| HR | CERT.hr | HR | |
+| HR | CERT.hr | HR | [Upozorenje! Nova ranjivost MSDT-a omogućava udaljeno izvršavanje koda](https://www.cert.hr/upozorenje-nova-ranjivost-msdt-a-omogucava-udaljeno-izvrsavanje-koda/) |
 | HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | [Veszélyes MS Office zero-day sérülékenységet fedeztek fel, de van rá megkerülő megoldás](https://nki.gov.hu/en/it-biztonsag/hirek/veszelyes-ms-office-zero-day-serulekenyseget-fedeztek-fel/) |
 | IE | CSIRT-IE | EN | [Attackers Exploiting MSProtocol URI scheme [PDF]](https://www.ncsc.gov.ie/pdfs/ms-msdt_Vulnerability.pdf) |
