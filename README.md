@@ -46,6 +46,7 @@
 | FI |	NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi"> Neuvoja palvelunestohyökkäyksen estämiseksi [PDF] </a> |
 | FR |	CERT-FR | FR | <a href="https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/">Comprendre et anticiper les attaques DDoS [PDF]</a> |
 | HU | NCSC-HU | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf">Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)</a> |
+| LT | CERT-LT | LT | [APSAUGA NUO PASLAUGŲ TRIKDYMO KIBERNETINIŲ ATAKŲ [PDF] (5 November 2021)](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf) |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-19/">TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)</a> |
 | PL |	KNF CSIRT | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
 | PL |	KNF CSIRT | EN | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf">Good Practices in DDoS countermeasures [PDF]</a> |
