@@ -18,9 +18,10 @@
 | EU | CERT-EU | EN | <a href="https://media.cert.europa.eu/static/MEMO/2020/TLP-WHITE-CERT-EU-THREAT-MEMO-Ransomware-auctions-v1.1.pdf">CERT-EU Threat Memo Ransomware & auctions [PDF]</a> |
 | ES | CCN-CERT | ES | <a href="https://www.ccn-cert.cni.es/component/tags/tag/ransomware.html">CCN-CERT Ransomware Públicos</a> |
 | ES | INCIBE | ES | <a href="https://www.incibe.es/aprendeciberseguridad/ransomware">INCIBE Ransomware Recursos</a> |
-| FI | NCSC-FI | FI | [Toiminta kiristyshaittaohjelmatilanteessa - johdon ohje](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/toiminta-kiristyshaittaohjelmatilanteessa-johdon-ohje) |
-| FI | NCSC-FI | SV | [Åtgärder vid angrepp med utpressningsprogram - ledningens anvisningar](https://www.kyberturvallisuuskeskus.fi/sv/publikationer/atgarder-vid-angrepp-med-utpressningsprogram-ledningens-anvisningar) |
-| FI | NCSC-FI | EN | [What to do in case of a ransomware incident - instructions for management](https://www.kyberturvallisuuskeskus.fi/en/publications/what-do-case-ransomware-incident-instructions-management) |
+| FI | NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/kiristyshaittaohjelmien-aktiivinen-toiminta-jatkuu">Kiristyshaittaohjelmien aktiivinen toiminta jatkuu</a> |
+| FI | NCSC-FI | FI | [Toiminta kiristyshaittaohjelmatilanteessa - johdon ohje (07 June 2022)](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/toiminta-kiristyshaittaohjelmatilanteessa-johdon-ohje) |
+| FI | NCSC-FI | SV | [Åtgärder vid angrepp med utpressningsprogram - ledningens anvisningar (07 June 2022)](https://www.kyberturvallisuuskeskus.fi/sv/publikationer/atgarder-vid-angrepp-med-utpressningsprogram-ledningens-anvisningar) |
+| FI | NCSC-FI | EN | [What to do in case of a ransomware incident - instructions for management (07 June 2022)](https://www.kyberturvallisuuskeskus.fi/en/publications/what-do-case-ransomware-incident-instructions-management) |
 | FR | CERT-FR | EN | <a href="https://www.ssi.gouv.fr/uploads/2021/08/anssi-guide-ransomware_attacks_all_concerned-v1.0.pdf">RANSOMWARE ATTACKS, ALL CONCERNED - HOW TO PREVENT THEM AND RESPOND TO AN INCIDENT [PDF]</a> |
 | FR | CERT-FR | FR | <a href="https://www.ssi.gouv.fr/uploads/2020/09/anssi-guide-attaques_par_rancongiciels_tous_concernes-v1.0.pdf">ATTAQUES PAR RANÇONGICIELS, TOUS CONCERNÉS COMMENT LES ANTICIPER ET RÉAGIR EN CAS D’INCIDENT ? [PDF]</a> |
 | GR | GR-CSIRT | EN | <a href="https://csirt.cd.mil.gr/ransomware-beware-of-13-tactics-tools-and-procedures/">Ransomware: Beware of 13 Tactics, Tools and Procedures</a> |
