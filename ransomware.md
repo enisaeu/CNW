@@ -36,8 +36,10 @@
 | LU | CIRCL | EN | <a href="https://circl.lu/pub/tr-55/">TR-55 - SquashFu - an alternate Open Source Backup solution, resilient to Crypto Ransomware attacks</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-57/">TR-57 - Ransomware - Effects and precautions</a> |
 | MT | CSIRTMalta | EN | <a href="https://maltacip.gov.mt/en/CIP_Structure/CSIRTMalta/Documents/EN250151%20Advisory.pdf">Best-Practices to Prevent Ransomware</a> |
-| NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/factsheets/2020/june/30/factsheet-ransomware">Factsheet Ransomware (Measures for preventing, limiting and recovering from a ransomware attack)</a> |
-| NL | NCSC-NL | NL | <a href="https://www.ncsc.nl/documenten/factsheets/2020/juni/30/factsheet-ransomware">Factsheet Ransomware (Maatregelen voor het voorkomen, beperken en herstellen van een ransomware-aanval)</a> |
+| NL | NCSC-NL | EN | [Ransomware incident response plan](https://english.ncsc.nl/publications/publications/2022/augustus/2/incident-response-plan-ransomware) |
+| NL | NCSC-NL | NL | [Incidentresponsplan Ransomware](https://www.ncsc.nl/documenten/publicaties/2022/juni/3/incidentresponsplan-ransomware) |
+| NL | NCSC-NL | EN | [Factsheet Ransomware (Measures for preventing, limiting and recovering from a ransomware attack](https://english.ncsc.nl/publications/factsheets/2020/june/30/factsheet-ransomware) |
+| NL | NCSC-NL | NL | [Factsheet Ransomware (Maatregelen voor het voorkomen, beperken en herstellen van een ransomware-aanval)](https://www.ncsc.nl/documenten/factsheets/2020/juni/30/factsheet-ransomware) |
 | PL | CERT.PL | PL | <a href="https://cert.pl/uploads/docs/CERT_Polska_Poradnik_ransomware.pdf">Poradnik ransomware [PDF]</a> |
 | PT | CERT.PT | PT | <a href="https://www.cncs.gov.pt/pt/no-more-ransom/">No More Ransom</a> |
 | RO | CERT-RO | RO | <a href="https://dnsc.ro/tag/ransomware">CERT-RO Ransomware News</a> |
