@@ -16,7 +16,11 @@
 | DK | CFCS | EN | <a href="https://www.cfcs.dk/globalassets/cfcs/dokumenter/rapporter/en/cfcs-report--the-anatomy-of-targeted-ransomware-attacks.pdf">The anatomy of targeted ransomware attacks [PDF]</a> |
 | DK | CFCS | DA | <a href="https://www.cfcs.dk/globalassets/cfcs/dokumenter/rapporter/CFCS-rapport-anatomien-af-maalrettede-ransomwareangreb.pdf">Anatomien af målrettede ransomware-angreb [PDF]</a> |
 | EU | CERT-EU | EN | <a href="https://media.cert.europa.eu/static/MEMO/2020/TLP-WHITE-CERT-EU-THREAT-MEMO-Ransomware-auctions-v1.1.pdf">CERT-EU Threat Memo Ransomware & auctions [PDF]</a> |
-| ES | CCN-CERT | ES | <a href="https://www.ccn-cert.cni.es/component/tags/tag/ransomware.html">CCN-CERT Ransomware Públicos</a> |
+| ES | CCN-CERT | ES | [CCN-CERT Ransomware Públicos](https://www.ccn-cert.cni.es/component/tags/tag/ransomware.html) |
+| ES | CCN-CERT | ES | [BP/21 - Gestión de incidentes de ransomware - Informe de buenas prácticas (Abril 2021) [PDF]](https://www.ccn-cert.cni.es/en/reports/informes-ccn-cert-buenas-practicas-bp/5864-ccn-cert-bp-21-gestion-de-incidentes-de-ransomware/file.html) |
+| ES | CCN-CERT | EN | [BP/04 - Ransomware - GOOD PRACTICE REPORT (MAY 2021) [ZIP]](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/5960-ccn-cert-bp-04-ransomware-en.html) |
+| ES | CCN-CERT | ES | [BP/04 - Ransomware - INFORME DE BUENAS PRÁCTICAS (MAYO 2021) [ZIP]](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/2088-ccn-cert-bp-04-ransomware.html) |
+| ES | CCN-CERT | FR | [BP/04 - Ransomware - RAPPORT DE BONNES PRATIQUES (MAI 2021) [ZIP]](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/5963-ccn-cert-bp-04-ransomware-fr.html) |
 | ES | INCIBE | ES | <a href="https://www.incibe.es/aprendeciberseguridad/ransomware">INCIBE Ransomware Recursos</a> |
 | FI | NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/kiristyshaittaohjelmien-aktiivinen-toiminta-jatkuu">Kiristyshaittaohjelmien aktiivinen toiminta jatkuu</a> |
 | FI | NCSC-FI | FI | [Toiminta kiristyshaittaohjelmatilanteessa - johdon ohje (07 June 2022)](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/toiminta-kiristyshaittaohjelmatilanteessa-johdon-ohje) |
