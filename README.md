@@ -5,10 +5,13 @@
                                                    
 # CSIRTs Network - Security Guidance 
 ## Dedicated guidance publications
-- [MSDT "Follina" Vulnerability](follina.md)
 - [Heightened Threat Level Guidance](heightened.md)
 - [Ransomware Guidance](ransomware.md)
-- [Log4j "Log4Shell" Vulnerability](log4j.md)
+
+## Advisories
+- [0-day affecting MS Exchange On-Premise](advisories/CVE-2022-41040%20and%20CVE-2022-41082.md)
+- [MSDT "Follina" Vulnerability](advisories/follina.md)
+- [Log4j "Log4Shell" Vulnerability](advisories/log4j.md)
 
 ## Categorized list of security best-practices
 - [Business Continuity](#business-continuity)
