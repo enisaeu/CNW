@@ -1,7 +1,9 @@
 
 <p align="center"><img src="graphics/CSIRT_logo.7d731656.png" alt="CSIRTs Network" width="600"/></p>
 
-***Please note that the list of publications by CSIRTs NW members and partners is currently under construction.***
+For more information about CSIRTs Network Members and how to get in contact please visit https://csirtsnetwork.eu/
+
+*Please note that the list of publications by CSIRTs NW members and partners is currently under construction.*
                                                    
 # CSIRTs Network - Security Guidance 
 ## Guidance publications
