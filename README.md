@@ -79,11 +79,11 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Email Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
+| CZ | NÚKIB | EN | <a href="https://www.nukib.cz/download/uredni_deska/2021-10-08_OchranneOpatreni_final_ENG.pdf">Methods of increasing the protection of email systems</a> |
 | EUI | CERT-EU |  EN | <a href="https://media.cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf">E-Mail Sender Adress Forgery Mitigation [PDF]</a> |
 | EUI | CERT-EU |  EN | <a href="https://cert.europa.eu/static/WhitePapers/Updated-CERT-EU_Security_Whitepaper_DMARC_17-001_v1_2.pdf">DMARC — Defeating E-Mail Abuse [PDF]</a>|
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-60/">TR-60 - Phishing - Effects and precautions (26 June 2020)</a> |
 | PL | CERT-PL | PL | <a href="https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/">Mechanizmy weryfikacji nadawcy wiadomości</a> |
-| CZ | NÚKIB | EN | <a href="https://www.nukib.cz/download/uredni_deska/2021-10-08_OchranneOpatreni_final_ENG.pdf">Methods of increasing the protection of email systems</a> |
 
 ### Incident Response
 | Country | Organisation | Language | Material |
