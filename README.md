@@ -143,8 +143,11 @@
 | EE | CERT-EE | EN | [CERT-EE Github](https://github.com/cert-ee) |
 | ES | CCN-CERT | EN | [CCN-CERT Github](https://github.com/ccn-cert) |
 | ES | INCIBE | EN | [INCIBE Github](https://github.com/INTECOCERT) |
+| EU | CERT-EU | EN | [CERT-EU Github](https://github.com/certeu) |
+| EU | CNW Tooling WG | EN | [CSIRT Tooling Github](https://github.com/csirt-tooling-org) |
 | FR | ANSSI | EN | [ANSSI Github](https://github.com/anssi-fr) |
 | LU | CIRCL | EN | [CIRCL Github](https://github.com/CIRCL) |
+| LU | Govert.LU | EN | [Govcert.lu Github](https://github.com/GOVCERT-LU) |
 | NL | NCSC-NL | EN | [NCSC-NL Github](https://github.com/NCSC-NL/) |
 | PL | CERT-PL | EN | [CERT-PL Github](https://github.com/CERT-Polska/) |
 | SK | SK-CERT | EN | [SK-CERT Github](https://github.com/SK-CERT/) |
