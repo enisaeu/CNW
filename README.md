@@ -4,7 +4,7 @@
 [The list of guidance publications by CSIRTs NW members and partners is currently under construction.]
                                                    
 # CSIRTs Network - Security Guidance 
-## Dedicated guidance publications
+## Guidance publications
 - [Heightened Threat Level Guidance](heightened.md)
 - [Ransomware Guidance](ransomware.md)
 
@@ -13,7 +13,7 @@
 - [MSDT "Follina" Vulnerability](advisories/follina.md)
 - [Log4j "Log4Shell" Vulnerability](advisories/log4j.md)
 
-## Categorized list of security best-practices
+## Security best-practices
 - [Business Continuity](#business-continuity)
    - [Backups](#backups)
    - [DDoS protection](#ddos-protection)
