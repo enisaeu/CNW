@@ -76,7 +76,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI |  DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
-| DE | BSI |  EN | [Cloud Computing Compliance Criteria Catalogue – C5:2020 [PDF]](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2020/C5_2020.pdf?__blob=publicationFile) |
+| FR | ANSSI |  FR | [Prestataires de service d’informatique en nuage (SecNumCloud)](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/) |
 | EU | ENISA |  EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
 | NL | NCSC-NL |  EN | [Factscheet "5 recommendations for securely purchasing cloud services" (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
@@ -97,7 +97,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Incident Response
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA | EN | <a href="https://www.enisa.europa.eu/publications/standards-and-tools-for-exchange-and-processing-of-actionable-information">Standards and tools for exchange and processing of actionable information (19 January 2015)</a> |
+| EU | CERT-EU | EN | [Data Acquisition Guidelines for Investigation Purposes (2019)](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP2012-004.pdf) |
+| EU | ENISA | EN | [Standards and tools for exchange and processing of actionable information (19 January 2015)](https://www.enisa.europa.eu/publications/standards-and-tools-for-exchange-and-processing-of-actionable-information) |
 
 ### Webserver Security 
 | Country | Organisation | Language | Material |
