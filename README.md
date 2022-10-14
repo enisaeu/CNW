@@ -28,33 +28,39 @@ For more information about CSIRTs Network Members and how to get in contact plea
 - [Industrial Control System Security](#industrial-control-system-security)
 - [Webserver Security](#webserver-security)
 - [Additional Best-Practices](#additional-best-practices)
-- [Vulnerability Handling](#vulnerability-handling)
-   - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
-   - [Vulnerability Advisory Sources](#vulnerability-advisories)
-   - [Vulnerability Scanning](#vulnerability-scanning)
-- [Training Material](#trainings)
+
+## Vulnerability Handling
+- [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
+- [Vulnerability Advisory Sources](#vulnerability-advisories)
+- [Vulnerability Scanning](#vulnerability-scanning)
+
+## CNW Repositories
+- [CNW Member Repositories](#cnw-member-repositories)
+
+## Trainings
+- [Training Material](#training-material)
 
 ### Business Continuity
 
 #### Backups
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA | EN | <a href="https://www.enisa.europa.eu/securesme/cyber-tips/strengthen-technical-measures/secure-backups">Guidance on Secure Backups (1 September 2021)</a> |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-55/">TR-55 - SquashFu - an alternate Open Source Backup solution, resilient to Crypto Ransomware attacks (12 September 2018)</a> |
+| EU | ENISA | EN | [Guidance on Secure Backups (1 September 2021)](https://www.enisa.europa.eu/securesme/cyber-tips/strengthen-technical-measures/secure-backups) |
+| LU | CIRCL | EN | [TR-55 - SquashFu - an alternate Open Source Backup solution, resilient to Crypto Ransomware attacks (12 September 2018)](https://www.circl.lu/pub/tr-55/) |
 
 #### DDoS protection
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| AT | CERT-AT |  DE | <a href="https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich">DDoS Angriffe gegen Unternehmen in Österreich </a> |
-| BE | CERT-BE |  FR | <a href="https://cert.be/fr/paper/ddos-protection-et-prevention">DDOS: protection et prévention [PDF]</a> |
-| DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html">Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion</a> |
-| FI |	NCSC-FI | FI | <a href="https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi"> Neuvoja palvelunestohyökkäyksen estämiseksi [PDF] </a> |
-| FR |	CERT-FR | FR | <a href="https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/">Comprendre et anticiper les attaques DDoS [PDF]</a> |
-| HU | NCSC-HU | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf">Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)</a> |
+| AT | CERT-AT |  DE | [DDoS Angriffe gegen Unternehmen in Österreich](https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich) |
+| BE | CERT-BE |  FR | [DDOS: protection et prévention [PDF]](https://cert.be/fr/paper/ddos-protection-et-prevention) |
+| DE | BSI |  DE | [Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html) |
+| FI |	NCSC-FI | FI | [Neuvoja palvelunestohyökkäyksen estämiseksi [PDF]](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi) |
+| FR |	CERT-FR | FR | [Comprendre et anticiper les attaques DDoS [PDF]](https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/) |
+| HU | NCSC-HU | HU | [Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf) |
 | LT | CERT-LT | LT | [APSAUGA NUO PASLAUGŲ TRIKDYMO KIBERNETINIŲ ATAKŲ [PDF] (5 November 2021)](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf) |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-19/">TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)</a> |
-| PL |	KNF CSIRT | PL | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf">Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]</a> |
-| PL |	KNF CSIRT | EN | <a href="https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf">Good Practices in DDoS countermeasures [PDF]</a> |
+| LU | CIRCL | EN | [TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)](https://www.circl.lu/pub/tr-19/) |
+| PL |	KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf) |
+| PL |	KNF CSIRT | EN | [Good Practices in DDoS countermeasures [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf) |
 
 ### Authentication
 | Country | Organisation | Language | Material |
@@ -69,7 +75,10 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Cloud Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL |  EN | <a href="https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services">Factscheet "5 recommendations for securely purchasing cloud services" (31 December 2020)</a> |
+| DE | BSI |  DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
+| DE | BSI |  EN | [Cloud Computing Compliance Criteria Catalogue – C5:2020 [PDF]](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2020/C5_2020.pdf?__blob=publicationFile) |
+| EU | ENISA |  EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
+| NL | NCSC-NL |  EN | [Factscheet "5 recommendations for securely purchasing cloud services" (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
 ### Monitoring / Logging 
 | Country | Organisation | Language | Material |
@@ -114,7 +123,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-47/">TR-47 - Recommendations regarding Abuse handling for ISPs and registrars (23 February 2017)</a> |
 
 ## Vulnerability Handling
-### Vulnerability Disclosure
+### Vulnerability Disclosure Policies
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | EU | ENISA |  EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
@@ -156,12 +165,12 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | PL | CERT-PL | EN | [CERT-PL Github](https://github.com/CERT-Polska/) |
 | SK | SK-CERT | EN | [SK-CERT Github](https://github.com/SK-CERT/) |
 
-## Trainings 
+## Training Material 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | EU | ENISA | EN | <a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material">Online Trainings Resources (Technical, Operational, Setting up a CSIRT, Legal & Cooperation)</a> |
 | LU | CIRCL | EN | <a href="https://www.circl.lu/services/misp-malware-information-sharing-platform/">MISP - Open Source Threat Intelligence Platform</a> |
 
  
-
+ 
 For more information about CSIRTs Network Members and how to get in contact please visit https://csirtsnetwork.eu/ 
