@@ -11,7 +11,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 - [Ransomware Guidance](ransomware.md)
 
 ## Advisories
-- [MS Exchange On-Premise "ProxyNotShell" 0-days](advisories/CVE-2022-41040%20and%20CVE-2022-41082.md)
+- [MS Exchange On-Premise "ProxyNotShell" 0-days](advisories/CVE-2022-41040_CVE-2022-41082.md)
 - [MSDT "Follina" Vulnerability](advisories/follina.md)
 - [Log4j "Log4Shell" Vulnerability](advisories/log4j.md)
 
