@@ -59,8 +59,9 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | HU | NCSC-HU | HU | [Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf) |
 | LT | CERT-LT | LT | [APSAUGA NUO PASLAUGŲ TRIKDYMO KIBERNETINIŲ ATAKŲ [PDF] (5 November 2021)](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf) |
 | LU | CIRCL | EN | [TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)](https://www.circl.lu/pub/tr-19/) |
-| PL |	KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre praktyki w zakresie przeciwdziałania atakom DDoS_77247.pdf) |
+| PL |	KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre%20praktyki%20w%20zakresie%20przeciwdzia%C5%82ania%20atakom%20DDoS_77247.pdf) |
 | PL |	KNF CSIRT | EN | [Good Practices in DDoS countermeasures [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf) |
+| SE |	CERT-SE | SE | [Råd gällande förebyggande och hantering av överbelastningsangrepp (21 February 2023)](https://www.cert.se/nyckelord/DDoS/) |
 
 ### Authentication
 | Country | Organisation | Language | Material |
