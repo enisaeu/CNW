@@ -10,10 +10,12 @@ For more information about CSIRTs Network Members and how to get in contact plea
 - [Heightened Threat Level Guidance](heightened.md)
 - [Ransomware Guidance](ransomware.md)
 
-## Advisories
-- [MS Exchange On-Premise "ProxyNotShell" 0-days](advisories/CVE-2022-41040_CVE-2022-41082.md)
-- [MSDT "Follina" Vulnerability](advisories/follina.md)
-- [Log4j "Log4Shell" Vulnerability](advisories/log4j.md)
+## Advisory collections
+- [CNW-2023-02 - Microsoft Outlook for Windows](advisories/CVE-2023-23397.md)
+- [CNW-2023-01 - VMware ESXi compromises](advisories/CVE-2021-21974_VMware-ESXi.md)
+- [CNW-2022-03 - MS Exchange On-Premise "ProxyNotShell" 0-days](advisories/CVE-2022-41040_CVE-2022-41082.md)
+- [CNW-2022-02 - MSDT "Follina" Vulnerability](advisories/CVE-2022-30190_Follina.md)
+- [CNW-2022-01 - Log4j "Log4Shell" Vulnerability](advisories/log4j.md)
 
 ## Security best-practices
 - [Business Continuity](#business-continuity)
