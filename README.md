@@ -130,10 +130,13 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Vulnerability Disclosure Policies
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| DE | CERT-Bund |  DE | [Leitlinie und Richtlinie für Sicherheitsforschende](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
-| DE | CERT-Bund |  EN | [BSI CVD guideline for security researchers](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
+| BE | CCB |  EN | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
+| BE | CCB |  FR | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
+| DE | CERT-Bund |  DE | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
+| DE | CERT-Bund |  EN | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | EU | ENISA |  EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
 | FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
+| FR | ANSSI | FR | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
 | NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline">Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)</a> |
 | SK | SK-CERT | EN | <a href="https://www.sk-cert.sk/en/vulnerability-reporting/index.html">Vulnerability Reporting Guideline (07 October 2019)</a> |
 | LU | CIRCL | EN | <a href="https://circl.lu/pub/responsible-vulnerability-disclosure/">Responsible Vulnerability Disclosure (October 2019)</a> |
