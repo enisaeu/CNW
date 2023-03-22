@@ -130,7 +130,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Vulnerability Disclosure Policies
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| DE | CERT-Bund |  DE | [CVD-Richtlinie des BSI](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
+| DE | CERT-Bund |  DE | [Leitlinie und Richtlinie für Sicherheitsforschende](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | DE | CERT-Bund |  EN | [BSI CVD guideline for security researchers](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | EU | ENISA |  EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
 | FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
