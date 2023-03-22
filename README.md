@@ -178,7 +178,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | EU | ENISA | EN | <a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material">Online Trainings Resources (Technical, Operational, Setting up a CSIRT, Legal & Cooperation)</a> |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/services/misp-malware-information-sharing-platform/">MISP - Open Source Threat Intelligence Platform</a> |
+| LU | CIRCL | EN | [MISP - Open Source Threat Intelligence Platform training materials](https://github.com/MISP/misp-training) |
 
  
  
