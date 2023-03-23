@@ -142,18 +142,20 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | LU | CIRCL | EN | <a href="https://circl.lu/pub/responsible-vulnerability-disclosure/">Responsible Vulnerability Disclosure (October 2019)</a> |
 | LV | CERT-LV | EN | <a href="https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy">Responsible Vulnerability Disclosure (September 2019)</a> |
 
-### Vulnerability Advisories 
-| Country | Organisation | Language | Material |
-| :-----: | :----------: | :------: | :------ |
-| EU | CERT-EU |  EN | <a href="https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html">CERT-EU Security Advisories</a> |
-| FR | CERT-FR |  FR | <a href="https://www.cert.ssi.gouv.fr/avis/">Avis de sécurité</a> |
-| DE | CERT-Bund |  DE | <a href="https://cert-bund.de/overview">CERT-Bund Warn- und Informationsdienste</a> |
-| NL | NCSC-NL |  NL | <a href="https://advisories.ncsc.nl/advisories">Overzicht gepubliceerde Advisories</a> |
-
 ### Vulnerability Scanning 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI |  DE | <a href="https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_007.pdf?__blob=publicationFile&v=1">Schwachstellen-Analyse in Netzen unter Einsatz von OpenVAS [PDF]</a> |
+
+## CNW Member Advisories 
+| Country | Organisation | Language | Material |
+| :-----: | :----------: | :------: | :------ |
+| AT | CERT-AT |  DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
+| AT | CERT-AT |  DE | [CERT-AT Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
+| EU | CERT-EU |  EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
+| FR | CERT-FR |  FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
+| DE | CERT-Bund |  DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
+| NL | NCSC-NL |  NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
 
 ## CNW Member Repositories
 | Country | Organisation | Language | Material |
