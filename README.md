@@ -54,7 +54,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | AT | CERT-AT |  DE | [DDoS Angriffe gegen Unternehmen in Österreich](https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich) |
-| BE | CERT-BE |  FR | [DDOS: protection et prévention [PDF]](https://cert.be/fr/paper/ddos-protection-et-prevention) |
+| BE | CERT.be |  FR | [DDOS: protection et prévention [PDF]](https://cert.be/fr/paper/ddos-protection-et-prevention) |
 | DE | BSI |  DE | [Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html) |
 | FI |	NCSC-FI | FI | [Neuvoja palvelunestohyökkäyksen estämiseksi [PDF]](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi) |
 | FR |	CERT-FR | FR | [Comprendre et anticiper les attaques DDoS [PDF]](https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/) |
@@ -152,10 +152,18 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | :-----: | :----------: | :------: | :------ |
 | AT | CERT-AT |  DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
 | AT | CERT-AT |  DE | [CERT-AT Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
-| EU | CERT-EU |  EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FR | CERT-FR |  FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
+| BE | CERT.be | FR | [CERT.be Advisories (RSS)](https://www.cert.be/fr/rss) |
 | DE | CERT-Bund |  DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
+| ES | CCN-CERT | ES | [Avisos CCN-CERT ](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert.html) |
+| ES | INCIBE | ES | [Avisos de seguridad](https://www.incibe.es/protege-tu-empresa/avisos-seguridad) |
+| EU | CERT-EU |  EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
+| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet?limit=20&offset=0&query=&sort=updated) |
+| FR | CERT-FR |  FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
+| HR | CERT.hr |  HR | [CERT.hr - Novosti](https://www.cert.hr/novosti/) |
+| IT | CERT Italia |  IT | [CERT News](https://www.csirt.gov.it/contenuti) |
 | NL | NCSC-NL |  NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
+| PT | CNCS |  PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
+| RO | DNSC |  RO | [CERT-RO ALERTĂ (RSS)](https://dnsc.ro/feed) |
 
 ## CNW Member Repositories
 | Country | Organisation | Language | Material |
@@ -179,7 +187,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ## Training Material 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA | EN | <a href="https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material">Online Trainings Resources (Technical, Operational, Setting up a CSIRT, Legal & Cooperation)</a> |
+| EU | ENISA | EN | [Online Trainings Resources (Technical, Operational, Setting up a CSIRT, Legal & Cooperation](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) |
 | LU | CIRCL | EN | [MISP - Open Source Threat Intelligence Platform training materials](https://github.com/MISP/misp-training) |
 
  
