@@ -134,8 +134,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | BE | CCB |  FR | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
 | DE | CERT-Bund |  DE | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | DE | CERT-Bund |  EN | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
-| ES | INCIBE |  EN | [Vulnerability disclosure policy](https://www.incibe-cert.es/en/what-is-incibe-cert/vulnerability-disclosure-policy) |
-| ES | INCIBE |  ES | [Política de reporte de vulnerabilidades](https://www.incibe-cert.es/sobre-incibe-cert/politica-reporte-vulnerabilidades) |
+| ES | INCIBE-CERT | EN | [Vulnerability disclosure policy](https://www.incibe-cert.es/en/what-is-incibe-cert/vulnerability-disclosure-policy) |
+| ES | INCIBE-CERT | ES | [Política de reporte de vulnerabilidades](https://www.incibe-cert.es/sobre-incibe-cert/politica-reporte-vulnerabilidades) |
 | EU | ENISA |  EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
 | FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
 | FR | ANSSI | FR | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
@@ -158,7 +158,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | BE | CERT.be | FR | [CERT.be Advisories (RSS)](https://www.cert.be/fr/rss) |
 | DE | CERT-Bund |  DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
 | ES | CCN-CERT | ES | [Avisos CCN-CERT ](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert.html) |
-| ES | INCIBE | ES | [Avisos de seguridad](https://www.incibe.es/protege-tu-empresa/avisos-seguridad) |
+| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) & [Avisos SCI](https://www.incibe-cert.es/alerta-temprana/avisos-sci) |
 | EU | CERT-EU |  EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet?limit=20&offset=0&query=&sort=updated) |
 | FR | CERT-FR |  FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
@@ -177,7 +177,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | DE | CERT-Bund | EN | [CERT-Bund Github](https://github.com/cert-bund) |
 | EE | CERT-EE | EN | [CERT-EE Github](https://github.com/cert-ee) |
 | ES | CCN-CERT | EN | [CCN-CERT Github](https://github.com/ccn-cert) |
-| ES | INCIBE | EN | [INCIBE Github](https://github.com/INTECOCERT) |
+| ES | INCIBE-CERT | EN | [INCIBE-CERT Github](https://github.com/INCIBE-CERT) |
 | EU | CERT-EU | EN | [CERT-EU Github](https://github.com/certeu) |
 | EU | CNW Tooling WG | EN | [CSIRT Tooling Github](https://github.com/csirt-tooling-org) |
 | FR | ANSSI | EN | [ANSSI Github](https://github.com/anssi-fr) |
