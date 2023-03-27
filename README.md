@@ -33,11 +33,13 @@ For more information about CSIRTs Network Members and how to get in contact plea
 
 ## Vulnerability Handling
 - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
-- [Vulnerability Advisory Sources](#vulnerability-advisories)
 - [Vulnerability Scanning](#vulnerability-scanning)
 
-## CNW Repositories
-- [CNW Member Repositories](#cnw-member-repositories)
+## CNW Member Advisories
+- [CNW Member Advisories](#cnw-member-advisories-1)
+
+## CNW Member Repositories
+- [CNW Member Repositories](#cnw-member-repositories-1)
 
 ## Trainings
 - [Training Material](#training-material)
