@@ -11,6 +11,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 - [Ransomware Guidance](ransomware.md)
 
 ## Advisory collections
+- [CNW-2023-03 - 3CX DesktopApp](advisories/CVE-2023-XXXXX-3CX DesktopApp.md)
 - [CNW-2023-02 - Microsoft Outlook for Windows](advisories/CVE-2023-23397.md)
 - [CNW-2023-01 - VMware ESXi compromises](advisories/CVE-2021-21974_VMware-ESXi.md)
 - [CNW-2022-03 - MS Exchange On-Premise "ProxyNotShell" 0-days](advisories/CVE-2022-41040_CVE-2022-41082.md)
