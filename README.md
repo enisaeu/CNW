@@ -12,6 +12,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 
 ## Advisory collections
 
+- [CNW-2023-05 - Citrix ADC and Gateway](advisories/CVE-2023-3519_Citrix_ADC_Gateway.md)
 - [CNW-2023-04 - Fortinet FortiOS](advisories/CVE-2023-27997_FortiOS.md)
 - [CNW-2023-03 - 3CX DesktopApp](advisories/CVE-2023-XXXXX_3CX-DesktopApp.md)
 - [CNW-2023-02 - Microsoft Outlook for Windows](advisories/CVE-2023-23397.md)
