@@ -1,7 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
-| [CNW-2023-07](2023/CVE-2023-35078_MobileIron.md) | 25-07-2023 | CVE-2023-35078 | MobileIron 0-day vulnerability exploited during attacks |
+| [CNW-2023-07](2023/CVE-2023-35078_MobileIron.md) | 25-07-2023 | CVE-2023-35078, CVE-2023-35081 | MobileIron 0-day vulnerability exploited during attacks |
 | [CNW-2023-06](2023/CVE-2023-3519_Citrix_ADC_Gateway.md) | 19-07-2023 | CVE-2023-3519 | Exploitation of critical Citrix ADC and Gateway vulnerability | 
 | [CNW-2023-05](2023/CVE-2023-27997_FortiOS.md) | 13-06-2023 | CVE-2023-27997 | Exploitation of critical FortiOS & FortiProxy SSL-VPN vulnerability | 
 | [CNW-2023-04](2023/CVE-2023-34362_MOVEit.md) | 01-06-2023 | CVE-2023-34362 | Exploitation of critical vulnerability in Progress MOVEit Transfer | 
