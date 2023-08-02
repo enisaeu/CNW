@@ -126,21 +126,22 @@ For more information about CSIRTs Network Members and how to get in contact plea
 
 ## Vulnerability Handling
 ### Vulnerability Disclosure Policies
-| Country | Organisation | Language | Material |
-| :-----: | :----------: | :------: | :------ |
-| BE | CCB | EN | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
-| BE | CCB | FR | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
-| DE | CERT-Bund | DE | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
-| DE | CERT-Bund | EN | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
-| ES | INCIBE-CERT | EN | [Vulnerability disclosure policy](https://www.incibe-cert.es/en/what-is-incibe-cert/vulnerability-disclosure-policy) |
-| ES | INCIBE-CERT | ES | [Política de reporte de vulnerabilidades](https://www.incibe-cert.es/sobre-incibe-cert/politica-reporte-vulnerabilidades) |
-| EU | ENISA | EN | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
-| FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
-| FR | ANSSI | FR | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
-| NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline">Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)</a> |
-| SK | SK-CERT | EN | <a href="https://www.sk-cert.sk/en/vulnerability-reporting/index.html">Vulnerability Reporting Guideline (07 October 2019)</a> |
-| LU | CIRCL | EN | <a href="https://circl.lu/pub/responsible-vulnerability-disclosure/">Responsible Vulnerability Disclosure (October 2019)</a> |
-| LV | CERT-LV | EN | <a href="https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy">Responsible Vulnerability Disclosure (September 2019)</a> |
+| Country | Organisation | Language | CNA | Policy/Reporting |
+| :-----: | :----------: | :------: | :------: | :------ |
+| BE | CCB | EN | No | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
+| BE | CCB | FR | No | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
+| DE | CERT-Bund | DE | No | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
+| DE | CERT-Bund | EN | No | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
+| ES | INCIBE-CERT | EN | Yes | [Vulnerability disclosure policy](https://www.incibe-cert.es/en/what-is-incibe-cert/vulnerability-disclosure-policy) |
+| ES | INCIBE-CERT | ES | Yes | [Política de reporte de vulnerabilidades](https://www.incibe-cert.es/sobre-incibe-cert/politica-reporte-vulnerabilidades) |
+| EU | ENISA | EN | No | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
+| FI | NCSC-FI | EN | Yes | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
+| FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
+| NL | NCSC-NL | EN | Yes | <a href="https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline">Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)</a> |
+| PL | CERT-PL | EN | Yes | [Reporting vulnerabilities to CERT Polska](https://cert.pl/en/cvd/) |
+| SK | SK-CERT | EN | Yes | <a href="https://www.sk-cert.sk/en/vulnerability-reporting/index.html">Vulnerability Reporting Guideline (07 October 2019)</a> |
+| LU | CIRCL | EN | No | <a href="https://circl.lu/pub/responsible-vulnerability-disclosure/">Responsible Vulnerability Disclosure (October 2019)</a> |
+| LV | CERT-LV | EN | No | <a href="https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy">Responsible Vulnerability Disclosure (September 2019)</a> |
 
 ### Vulnerability Scanning
 | Country | Organisation | Language | Material |
