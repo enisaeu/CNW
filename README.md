@@ -23,7 +23,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 - [Monitoring / Logging](#monitoring--logging)
 - [Email Security](#email-security)
 - [Incident Response](#incident-response)
-- [Industrial Control System Security](#industrial-control-system-security)
+- [Industrial Control System / IOT Security](#industrial-control-system--iot-security)
 - [Webserver Security](#webserver-security)
 - [Additional Best-Practices](#additional-best-practices)
 
@@ -59,7 +59,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | HU | NCSC-HU | HU | [Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf) |
 | LT | CERT-LT | LT | [APSAUGA NUO PASLAUGŲ TRIKDYMO KIBERNETINIŲ ATAKŲ [PDF] (5 November 2021)](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf) |
 | LU | CIRCL | EN | [TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)](https://www.circl.lu/pub/tr-19/) |
-| NL | NCSC-NL | NL | [Factsheet Continuïteit van online diensten](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-continuiteit-van-onlinediensten) |
+| NL | NCSC-NL | NL | [Factsheet Continuïteit van online diensten (02 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-continuiteit-van-onlinediensten) |
+| NL | NCSC-NL | NL | [Factsheet Technische maatregelen voor continuïteit voor online diensten (02 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-technische-maatregelen-voor-continuiteit-van-online-diensten) |
 | PL | KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre%20praktyki%20w%20zakresie%20przeciwdzia%C5%82ania%20atakom%20DDoS_77247.pdf) |
 | PL | KNF CSIRT | EN | [Good Practices in DDoS countermeasures [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf) |
 | SE | CERT-SE | SE | [Råd gällande förebyggande och hantering av överbelastningsangrepp (21 February 2023)](https://www.cert.se/nyckelord/DDoS/) |
@@ -67,13 +68,15 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Authentication
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL | EN | [Factsheet 'Mature authentication - use of secure authentication tools"](https://english.ncsc.nl/publications/factsheets/2022/juni/9/factsheet-mature-authentication---use-of-secure-authentication-tools) |
+| NL | NCSC-NL | EN | [Factsheet Mature authentication - use of secure authentication tools (09 June 2022)](https://english.ncsc.nl/publications/factsheets/2022/juni/9/factsheet-mature-authentication---use-of-secure-authentication-tools) |
+| NL | NCSC-NL | NL | [Factsheet Gebruik tweefactorauthenticatie (17 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-gebruik-tweefactorauthenticatie) |
 | PL | CERT-PL | PL | [Hasła - Materiałów, kierowany do wielu grup odbiorców](https://cert.pl/hasla/) |
 
 ### Network Security / Architecture
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL | EN | [Factsheet "Prepare for Zero Trust" (18 August 2021)](https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust) |
+| NL | NCSC-NL | EN | [Factsheet Prepare for Zero Trust (18 August 2021)](https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust) |
+| NL | NCSC-NL | NL | [Factsheet SOC inrichten: begin klein (03 May 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/soc-inrichten) |
 
 ### Cloud Security
 | Country | Organisation | Language | Material |
@@ -81,21 +84,21 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | DE | BSI | DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
 | FR | ANSSI | FR | [Prestataires de service d’informatique en nuage (SecNumCloud)](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/) |
 | EU | ENISA | EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
-| NL | NCSC-NL | EN | [Factscheet "5 recommendations for securely purchasing cloud services" (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
+| NL | NCSC-NL | EN | [Factscheet 5 recommendations for securely purchasing cloud services (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
 ### Monitoring / Logging
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA | EN | <a href="https://www.enisa.europa.eu/publications/proactive-detection-measures-and-information-sources">Proactive detection – Measures and information sources (26 May 2020)</a> |
+| EU | ENISA | EN | [Proactive detection – Measures and information sources (26 May 2020)](https://www.enisa.europa.eu/publications/proactive-detection-measures-and-information-sources) |
 
 ### Email Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| CZ | NÚKIB | EN | <a href="https://www.nukib.cz/download/uredni_deska/2021-10-08_OchranneOpatreni_final_ENG.pdf">Methods of increasing the protection of email systems</a> |
-| EUI | CERT-EU | EN | <a href="https://media.cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf">E-Mail Sender Adress Forgery Mitigation [PDF]</a> |
-| EUI | CERT-EU | EN | <a href="https://cert.europa.eu/static/WhitePapers/Updated-CERT-EU_Security_Whitepaper_DMARC_17-001_v1_2.pdf">DMARC — Defeating E-Mail Abuse [PDF]</a>|
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-60/">TR-60 - Phishing - Effects and precautions (26 June 2020)</a> |
-| PL | CERT-PL | PL | <a href="https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/">Mechanizmy weryfikacji nadawcy wiadomości</a> |
+| CZ | NÚKIB | EN | [Methods of increasing the protection of email systems [PDF]](https://www.nukib.cz/download/uredni_deska/2021-10-08_OchranneOpatreni_final_ENG.pdf) |
+| EUI | CERT-EU | EN | [E-Mail Sender Adress Forgery Mitigation [PDF]](https://media.cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf) |
+| EUI | CERT-EU | EN | [DMARC — Defeating E-Mail Abuse [PDF]](https://cert.europa.eu/static/WhitePapers/Updated-CERT-EU_Security_Whitepaper_DMARC_17-001_v1_2.pdf) |
+| LU | CIRCL | EN | [TR-60 - Phishing - Effects and precautions (26 June 2020)](https://www.circl.lu/pub/tr-60/) |
+| PL | CERT-PL | PL | [Mechanizmy weryfikacji nadawcy wiadomości](https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/) |
 
 ### Incident Response
 | Country | Organisation | Language | Material |
@@ -106,25 +109,27 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Webserver Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-26/">TR-26 - Security Recommendations for Web Content Management Systems and Web Servers (28 April 2015)</a> |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-66/">TR-66 - Webservers with mod_status like debug modules publicly available leak information (6 December 2021)</a> |
+| LU | CIRCL | EN | [TR-26 - Security Recommendations for Web Content Management Systems and Web Servers (28 April 2015)](https://www.circl.lu/pub/tr-26/) |
+| LU | CIRCL | EN | [TR-66 - Webservers with mod_status like debug modules publicly available leak information (6 December 2021)](https://www.circl.lu/pub/tr-66/) |
 
-### Industrial Control System Security
+### Industrial Control System / IOT Security
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| DE | BSI | EN | <a href="https://www.bsi.bund.de/EN/Topics/Industry_CI/ICS/ics_node.html">Industrial Control System Security</a> |
-| DE | BSI | DE | <a href="https://www.bsi.bund.de/ICS">Industrielle Steuerungs- und Automatisierungssysteme (ICS)</a> |
-| DE | BSI | EN | <a href="https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_005E.html">Industrial Control System Security: Top 10 threats and countermeasures 2022</a> |
-| HU | NCSC-HU & SeConSys | HU | <a href="https://nki.gov.hu/wp-content/uploads/2022/04/SeConSys_online_kezikonyv_2022_FINAL_22-03-03.pdf">Villamosenergetikai ipari felügyeleti rendszerek kiberbiztonsági kézikönyve 2022 [PDF] (3 March 2022) </a> |
+| DE | BSI | EN | [Industrial Control System Security](https://www.bsi.bund.de/EN/Topics/Industry_CI/ICS/ics_node.html) |
+| DE | BSI | DE | [Industrielle Steuerungs- und Automatisierungssysteme (ICS)](https://www.bsi.bund.de/ICS)] |
+| DE | BSI | EN | [Industrial Control System Security: Top 10 threats and countermeasures 2022](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_005E.html) |
+| HU | NCSC-HU & SeConSys | HU | [Villamosenergetikai ipari felügyeleti rendszerek kiberbiztonsági kézikönyve 2022 [PDF] (3 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/04/SeConSys_online_kezikonyv_2022_FINAL_22-03-03.pdf) |
+| NL | NCSC-NL | NL | [Basis-beveiligingsmaatregelen Slimme Apparaten (IoT) (25 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-beveilig-apparaten-gekoppeld-aan-internet) |
 
 ### Additional Best-Practices
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | CERT-EU / ENISA | EN |<a href="https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience">Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)</a>|
-| EU | CERT-EU | EN |<a href="https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf">Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)</a>|
-| FI | NCSC-FI | EN | <a href="https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work">Keeping your information secure both at home and at work (12 May 2020)</a> |
-| NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures">Guide to Cyber Security Measures (05 August 2021)</a> |
-| LU | CIRCL | EN | <a href="https://www.circl.lu/pub/tr-47/">TR-47 - Recommendations regarding Abuse handling for ISPs and registrars (23 February 2017)</a> |
+| EU | CERT-EU / ENISA | EN | [Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)](https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience) |
+| EU | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
+| FI | NCSC-FI | EN | [Keeping your information secure both at home and at work (12 May 2020)](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work) |
+| NL | NCSC-NL | EN | [Guide to Cyber Security Measures (05 August 2021)](https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures) |
+| NL | NCSC-NL | NL | [Factsheet Open Source Security (24 May 2023)](https://www.ncsc.nl/documenten/factsheets/2022/december/12/factsheet-open-source-security) |
+| LU | CIRCL | EN | [TR-47 - Recommendations regarding Abuse handling for ISPs and registrars (23 February 2017)](https://www.circl.lu/pub/tr-47/) |
 
 ## Vulnerability Handling
 ### Vulnerability Disclosure Policies
