@@ -59,6 +59,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | HU | NCSC-HU | HU | [Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf) |
 | LT | CERT-LT | LT | [APSAUGA NUO PASLAUGŲ TRIKDYMO KIBERNETINIŲ ATAKŲ [PDF] (5 November 2021)](https://www.nksc.lt/doc/biuleteniai/2021-11-05_DDoS.pdf) |
 | LU | CIRCL | EN | [TR-19 - UDP Protocols Security - Recommendations To Avoid or Limit DDoS reflection / amplification (8 July 2015)](https://www.circl.lu/pub/tr-19/) |
+| NL | NCSC-NL | NL | [Factsheet Continuïteit van online diensten](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-continuiteit-van-onlinediensten) |
 | PL | KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre%20praktyki%20w%20zakresie%20przeciwdzia%C5%82ania%20atakom%20DDoS_77247.pdf) |
 | PL | KNF CSIRT | EN | [Good Practices in DDoS countermeasures [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf) |
 | SE | CERT-SE | SE | [Råd gällande förebyggande och hantering av överbelastningsangrepp (21 February 2023)](https://www.cert.se/nyckelord/DDoS/) |
@@ -66,12 +67,13 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Authentication
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| PL | CERT-PL | PL | <a href="https://cert.pl/hasla/">Hasła - Materiałów, kierowany do wielu grup odbiorców"</a> |
+| NL | NCSC-NL | EN | [Factsheet 'Mature authentication - use of secure authentication tools"](https://english.ncsc.nl/publications/factsheets/2022/juni/9/factsheet-mature-authentication---use-of-secure-authentication-tools) |
+| PL | CERT-PL | PL | [Hasła - Materiałów, kierowany do wielu grup odbiorców](https://cert.pl/hasla/) |
 
 ### Network Security / Architecture
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL | EN | <a href="https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust">Factsheet "Prepare for Zero Trust" (18 August 2021)</a> |
+| NL | NCSC-NL | EN | [Factsheet "Prepare for Zero Trust" (18 August 2021)](https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust) |
 
 ### Cloud Security
 | Country | Organisation | Language | Material |
