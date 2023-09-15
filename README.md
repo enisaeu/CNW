@@ -139,8 +139,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | BE | CCB | FR | No | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
 | DE | CERT-Bund | DE | No | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | DE | CERT-Bund | EN | No | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
-| ES | INCIBE-CERT | EN | Yes | [Vulnerability disclosure policy](https://www.incibe-cert.es/en/what-is-incibe-cert/vulnerability-disclosure-policy) |
-| ES | INCIBE-CERT | ES | Yes | [Política de reporte de vulnerabilidades](https://www.incibe-cert.es/sobre-incibe-cert/politica-reporte-vulnerabilidades) |
+| ES | INCIBE-CERT | EN | Yes | [Vulnerability disclosure policy](https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/asignacion-publicacion-cve) |
+| ES | INCIBE-CERT | ES | Yes | [CVE Assignment and publication](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-assignment-publication) |
 | EU | ENISA | EN | No | <a href="https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu">Coordinated Vulnerability Disclosure policies in the EU</a> |
 | FI | NCSC-FI | EN | Yes | <a href="https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management">Vulnerability Coordination and Reporting</a> |
 | FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
