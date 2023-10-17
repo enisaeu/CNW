@@ -1,7 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
-| [CNW-2023-09](2023/CVE-2023-20198_Cisco-IOS-XE.md| 17-10-2023 | CVE-2023-20198 | Critical Cisco IOS XE vulnerability actively exploited |
+| [CNW-2023-09](2023/CVE-2023-20198_Cisco-IOS-XE.md)| 17-10-2023 | CVE-2023-20198 | Critical Cisco IOS XE vulnerability actively exploited |
 | [CNW-2023-08](2023/CVE-2023-4863_WebP.md) | 29-09-2023 | CVE-2023-4863 | WebP vulnerability can lead to arbitrary code execution and sensitive user data access |
 | [CNW-2023-07](2023/CVE-2023-35078_MobileIron.md) | 25-07-2023 | CVE-2023-35078 CVE-2023-35081 | MobileIron 0-day vulnerability exploited during attacks |
 | [CNW-2023-06](2023/CVE-2023-3519_Citrix_ADC_Gateway.md) | 19-07-2023 | CVE-2023-3519 | Exploitation of critical Citrix ADC and Gateway vulnerability | 
