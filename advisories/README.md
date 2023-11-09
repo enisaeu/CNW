@@ -1,6 +1,8 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2023-12](2023/CVE-2023-22518_Confluence-Data-Center-Server.md) | 04-11-2023 | CVE-2023-22518 | Altlassian Confluence Data Center and Server Vulnerability actively exploited |
+| [CNW-2023-11](2023/CVE-2023-46604_Apache-ActiveMQ.md) | 02-11-2023 | CVE-2023-46604 | Apache ActiveMQ Vulnerability actively exploited |
 | [CNW-2023-10](2023/CVE-2023-20198_Cisco-IOS-XE.md) | 17-10-2023 | CVE-2023-20198 | Critical Cisco IOS XE vulnerability actively exploited |
 | [CNW-2023-09](2023/CVE-2023-22515_Confluence-Data-Center-Server.md) | 12-10-2023 | CVE-2023-22515 | Critical Altlassian Confluence Server and Data Center vulnerability |
 | [CNW-2023-08](2023/CVE-2023-4863_WebP.md) | 29-09-2023 | CVE-2023-4863 | WebP vulnerability can lead to arbitrary code execution and sensitive user data access |
