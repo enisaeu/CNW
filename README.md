@@ -103,7 +103,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Incident Response
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | CERT-EU | EN | [Data Acquisition Guidelines for Investigation Purposes (2019)](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP2012-004.pdf) |
+| EUI | CERT-EU | EN | [Data Acquisition Guidelines for Investigation Purposes (2019)](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP2012-004.pdf) |
 | EU | ENISA | EN | [Standards and tools for exchange and processing of actionable information (19 January 2015)](https://www.enisa.europa.eu/publications/standards-and-tools-for-exchange-and-processing-of-actionable-information) |
 
 ### Webserver Security
@@ -124,8 +124,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 ### Additional Best-Practices
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | CERT-EU / ENISA | EN | [Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)](https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience) |
-| EU | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
+| EUI | CERT-EU / ENISA | EN | [Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)](https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience) |
+| EUI | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
 | FI | NCSC-FI | EN | [Keeping your information secure both at home and at work (12 May 2020)](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work) |
 | NL | NCSC-NL | EN | [Guide to Cyber Security Measures (05 August 2021)](https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures) |
 | NL | NCSC-NL | NL | [Factsheet Open Source Security (24 May 2023)](https://www.ncsc.nl/documenten/factsheets/2022/december/12/factsheet-open-source-security) |
@@ -166,7 +166,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | DE | CERT-Bund | DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
 | ES | CCN-CERT | ES | [Avisos CCN-CERT ](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert.html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) & [Avisos SCI](https://www.incibe-cert.es/alerta-temprana/avisos-sci) |
-| EU | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
+| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet?limit=20&offset=0&query=&sort=updated) |
 | FR | CERT-FR | FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
 | HR | CERT.hr | HR | [CERT.hr - Novosti](https://www.cert.hr/novosti/) |
@@ -185,7 +185,7 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | EE | CERT-EE | EN | [CERT-EE Github](https://github.com/cert-ee) |
 | ES | CCN-CERT | EN | [CCN-CERT Github](https://github.com/ccn-cert) |
 | ES | INCIBE-CERT | EN | [INCIBE-CERT Github](https://github.com/INCIBE-CERT) |
-| EU | CERT-EU | EN | [CERT-EU Github](https://github.com/certeu) |
+| EUI | CERT-EU | EN | [CERT-EU Github](https://github.com/certeu) |
 | EU | CNW Tooling WG | EN | [CSIRT Tooling Github](https://github.com/csirt-tooling-org) |
 | FR | ANSSI | EN | [ANSSI Github](https://github.com/anssi-fr) |
 | LU | CIRCL | EN | [CIRCL Github](https://github.com/CIRCL) |
