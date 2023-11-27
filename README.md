@@ -141,7 +141,8 @@ For more information about CSIRTs Network Members and how to get in contact plea
 | DE | CERT-Bund | EN | No | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | ES | INCIBE-CERT | EN | Yes | [Vulnerability disclosure policy](https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/asignacion-publicacion-cve) |
 | ES | INCIBE-CERT | ES | Yes | [CVE Assignment and publication](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-assignment-publication) |
-| EU | ENISA | EN | No | [Coordinated Vulnerability Disclosure policies in the EU](https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu) |
+| EU | ENISA | EN | No | [Coordinated Vulnerability Disclosure policies in the EU (study)](https://www.enisa.europa.eu/news/enisa-news/coordinated-vulnerability-disclosure-policies-in-the-eu) |
+| EU | ENISA | EN | No | [ENISA Coordinated vulnerability disclosure policy](ENISA_CVD_policy.md) |
 | EUI | CERT-EU | EN | No | [Coordinated vulnerability disclosure policy](https://cert.europa.eu/coordinated-vulnerability-disclosure-policy) 
 | FI | NCSC-FI | EN | Yes | [Vulnerability Coordination and Reporting](https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management) |
 | FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
