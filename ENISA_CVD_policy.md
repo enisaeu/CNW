@@ -5,7 +5,8 @@ In its role as the secretariat of the EU CSIRTs network, ENISA supports the memb
 As such, ENISA may register vulnerabilities and support vulnerability disclosure in relation to
 - vulnerabilities in IT products discovered by EU CSIRTs
 - vulnerabilities reported to EU CSIRTs for coordinated disclosure
-- vulnerabilities affecting products and components of European Union (EU) based vendors and EU based customers
+- vulnerabilities affecting products and components of EU based vendors and customers
+- vulnerabilities affecting products and components used by large numbers EU based customers
 
 as long as they don't fall under a more specific scope of an existing CNA.
 
