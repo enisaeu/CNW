@@ -1,12 +1,11 @@
-# ENISA Coordinated Vulnerability Disclosure Policy
+# Coordinated Vulnerability Disclosure Policy
 
-In general, ENISA advises to process all signalled vulnerabilities and incidents with affected manufacturers in a cooperative and coordinated manner under the principles of Responsible / Coordinated Vulnerability Disclosure. 
-In its role as the secretariat of the EU CSIRTs network, ENISA supports the members in tackling vulnerabilities detected or signalled by third parties, involving clients, peers and other companies from target groups as well as those from other CERTs and other trusted peers from scientific and research branches.
+In general, ENISA advises to process all signalled vulnerabilities and incidents with affected manufacturers in a cooperative and coordinated manner under the principles of Responsible / Coordinated Vulnerability Disclosure.
+In its role as the secretariat of the EU CSIRTs network, ENISA supports the members in tackling vulnerabilities detected or signalled by third parties, involving clients, peers and other companies from target groups as well as those from other CERTs and other trusted peers from scientific and research branches. Essentially, in scope of the process are vulnerabilities affecting products and components of EU based vendors and impacting large numbers EU based customers.
+
 As such, ENISA may register vulnerabilities and support vulnerability disclosure in relation to
 - vulnerabilities in IT products discovered by EU CSIRTs
-- vulnerabilities reported to EU CSIRTs for coordinated disclosure
-- vulnerabilities affecting products and components of EU based vendors and customers
-- vulnerabilities affecting products and components used by large numbers EU based customers
+- vulnerabilities reported to EU CSIRTs for coordinated disclosure, which are not already in another CNA’s scope
 
 as long as they don't fall under a more specific scope of an existing CNA.
 
@@ -16,7 +15,7 @@ In line with reporting a discovered vulnerability and facilitating the start of 
 EU MS national CVD policies imply a coordinating role for the designated CSIRT(s), acting as a trusted intermediary and facilitating, where necessary and upon the request of either party, the interaction between the concerned stakeholders. Those coordination tasks include identifying and contacting the entities concerned, assisting the natural or legal persons reporting a vulnerability, and negotiating disclosure timelines and managing vulnerabilities that affect multiple entities. The same provision also requires Member States to ensure that natural or legal persons are able to report, anonymously where they so request, a vulnerability to the designated CSIRT(s). The CSIRT shall ensure that diligent follow-up action is carried out with regard to the reported vulnerability, ensure the anonymity of the natural or legal person reporting the vulnerability and, where appropriate, cooperate with other CSIRTs designated as coordinators within the EU CSIRTs Network.
 
 ## Reporting of vulnerabilities 
-The most suitable contacts of EU Member States’ appointed CSIRTs are available via the published CVD policies under national framework. An overview of EU CSIRTs network members’ published CVD policies and existing CVE Numbering Authorities is available at https://github.com/enisaeu/CNW#vulnerability-disclosure-policies
+The most suitable contacts of EU Member States’ appointed CSIRTs are available via the CVD policies published under their specific national frameworks. An overview of EU CSIRTs network members’ published CVD policies and existing CVE Numbering Authorities is available at https://github.com/enisaeu/CNW#vulnerability-disclosure-policies
 
 Regarding the reporting of vulnerabilities to an EU Member States’ appointed CSIRT under a national CVD framework, a report should include at least the following information, when available:
 
