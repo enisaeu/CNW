@@ -10,12 +10,16 @@ As such, ENISA may register vulnerabilities and support vulnerability disclosure
 
 as long as they don't fall under a more specific scope of an existing CNA.
 
-In line with reporting a discovered vulnerability and facilitating the start of a vulnerability disclosure process the reporters’ first attempt would be to reaches out to the vendor or manufacturer (i.e., vulnerability owner), expecting a prompt response and a collaborative approach to address the identified vulnerability. When a situation occurs in which the vendor or manufacturer cannot be directly contacted, is not acting according to the researcher’s expectations (e.g., is not willing or not ready to remediate the reported vulnerabilities comprehensively) as well as when a reporter wants to keep its anonymity or doesn’t pay respect to responsible disclosure standards (in case the vendor or system owner affected by the discovered vulnerability already has a published organisational vulnerability disclosure policy, it is recommended to make sure the disclosure steps are compliant to these requirements), the intervention of a coordinator can help to establish and maintain a constructive relationship between the parties.
+## Procedures and capacities to support national CVD processes
+In line with reporting a discovered vulnerability and facilitating the start of a vulnerability disclosure process the reporters’ first attempt would be to reach out to the vendor or manufacturer (i.e., vulnerability owner), expecting a prompt response and a collaborative approach to address the identified vulnerability. When a situation occurs in which the vendor or manufacturer cannot be directly contacted, is not acting according to the researcher’s expectations (e.g., is not willing or not ready to remediate the reported vulnerabilities comprehensively) as well as when a reporter wants to keep its anonymity or doesn’t pay respect to responsible disclosure standards (in case the vendor or system owner affected by the discovered vulnerability already has a published organisational vulnerability disclosure policy, it is recommended to make sure the disclosure steps are compliant to these requirements), the intervention of a coordinator can help to establish and maintain a constructive relationship between the parties.
+
 EU MS national CVD policies imply a coordinating role for the designated CSIRT(s), acting as a trusted intermediary and facilitating, where necessary and upon the request of either party, the interaction between the concerned stakeholders. Those coordination tasks include identifying and contacting the entities concerned, assisting the natural or legal persons reporting a vulnerability, and negotiating disclosure timelines and managing vulnerabilities that affect multiple entities. The same provision also requires Member States to ensure that natural or legal persons are able to report, anonymously where they so request, a vulnerability to the designated CSIRT(s). The CSIRT shall ensure that diligent follow-up action is carried out with regard to the reported vulnerability, ensure the anonymity of the natural or legal person reporting the vulnerability and, where appropriate, cooperate with other CSIRTs designated as coordinators within the EU CSIRTs Network.
 
-An overview of EU CSIRTs network members’ published CVD policies and existing CVE Numbering Authorities is available at https://github.com/enisaeu/CNW#vulnerability-disclosure-policies
+## Reporting of vulnerabilities 
+The most suitable contacts of EU Member States’ appointed CSIRTs are available via the published CVD policies under national framework. An overview of EU CSIRTs network members’ published CVD policies and existing CVE Numbering Authorities is available at https://github.com/enisaeu/CNW#vulnerability-disclosure-policies
 
-Regarding the reporting of vulnerabilities to a CSIRT under a national CVD framework, a report should include at least the following information, when available:
+Regarding the reporting of vulnerabilities to an EU Member States’ appointed CSIRT under a national CVD framework, a report should include at least the following information, when available:
+
 1.	Asset or control where the vulnerability is found (web page, IP address, product or service name)
 2.	The version of the product on which the vulnerability is present, or the specific configuration of the product that is vulnerable
 3.	Discovered weakness (such as a CWE)
@@ -31,7 +35,7 @@ Regarding the reporting of vulnerabilities to a CSIRT under a national CVD frame
 9.	Contact information, including secure communication options (PGP fingerprint, etc.)
 10.	Any other important information related to the discovered vulnerability
 
-# Additional informative materials
+## Additional informative materials
 Several documents supporting CVD practices are available below:
 - Contact list of EU CSIRTs Network members, https://csirtsnetwork.eu/#network_members
 - “Guidelines on Implementing National Coordinated Vulnerability Disclosure Policies”, NIS Cooperation Group, 2023, https://ec.europa.eu/newsroom/dae/redirection/document/99973
