@@ -7,8 +7,6 @@ As such, ENISA may register vulnerabilities and support vulnerability disclosure
 - vulnerabilities in IT products discovered by EU CSIRTs
 - vulnerabilities reported to EU CSIRTs for coordinated disclosure, which are not already in another CNA’s scope
 
-as long as they don't fall under a more specific scope of an existing CNA.
-
 ## Procedures and capacities to support national CVD processes
 In line with reporting a discovered vulnerability and facilitating the start of a vulnerability disclosure process the reporters’ first attempt would be to reach out to the vendor or manufacturer (i.e., vulnerability owner), expecting a prompt response and a collaborative approach to address the identified vulnerability. When a situation occurs in which the vendor or manufacturer cannot be directly contacted, is not acting according to the researcher’s expectations (e.g., is not willing or not ready to remediate the reported vulnerabilities comprehensively) as well as when a reporter wants to keep its anonymity or doesn’t pay respect to responsible disclosure standards (in case the vendor or system owner affected by the discovered vulnerability already has a published organisational vulnerability disclosure policy, it is recommended to make sure the disclosure steps are compliant to these requirements), the intervention of a coordinator can help to establish and maintain a constructive relationship between the parties.
 
