@@ -1,7 +1,7 @@
 
 <p align="center"><img src="graphics/CSIRT_logo.7d731656.png" alt="CSIRTs Network" width="600"/></p>
 
-For more information about CSIRTs Network Members and how to get in contact please visit https://csirtsnetwork.eu/
+For more information about the EU CSIRTs network, its members and how to get in contact please visit https://csirtsnetwork.eu/
 
 *Please note that the list of publications by CSIRTs NW members and partners is currently under construction.*
 
