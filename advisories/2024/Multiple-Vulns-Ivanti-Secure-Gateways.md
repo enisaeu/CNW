@@ -36,7 +36,7 @@
 | LV | CERT.LV | LV | [Kritiskas ievainojamības Ivanti programmatūrā Ivanti Connect Secure un Ivanti Policy Secure](https://cert.lv/lv/2024/01/kritiskas-ievainojamibas-ivanti-programmatura-ivanti-connect-secure-un-ivanti-policy-secure) |
 | LU | CIRCL | EN | [TR-78 - CVE-2023-46805 (Authentication Bypass) & CVE-2024-21887 (Command Injection) for Ivanti Connect Secure and Ivanti Policy Secure Gateways](https://www.circl.lu/pub/tr-78/) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Kwetsbaarheden in Ivanti Connect Secure en Policy Secure Gateways](https://www.ncsc.nl/actueel/advisory?id=NCSC-2024-0011&version=1.00&format=plain) |
+| NL | NCSC-NL | NL | [Vier kritieke kwetsbaarheden in Ivanti Connect Secure en Policy Secure](https://www.ncsc.nl/actueel/nieuws/2024/februari/2/vier-kritieke-kwetsbaarheden-in-ivanti-connect-secure-en-policy-secure) |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
 | PT | CERT.PT | PT | [Alerta de Vulnerabilidades - Ivanti Connect Secure e Policy Secure Gateways](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135820/alerta-de-vulnerabilidades-ivanti-connect-secure-e-policy-secure-gateways) |
