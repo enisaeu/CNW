@@ -28,9 +28,9 @@
 | FI | NCSC-FI | FI | [Kriittisiä haavoittuvuuksia Fortinetin FortiOS -ohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_8/2024) |
 | FR | CERT-FR | FR | |
 | GR | GR-CSIRT | EL | |
-| HR | CERT.hr | HR | |
+| HR | CERT.hr | HR | [FORTINET KRITIČNE RANJIVOSTI](https://www.cert.hr/fortinet-kriticne-ranjivosti/) |
 | HR | CERT ZSIS | HR | |
-| HU | NCSC-HU | HU | |
+| HU | NCSC-HU | HU | | 
 | IE | CSIRT-IE | EN | |
 | IT | CSIRT-ITA | IT | [Fortinet: aggiornamenti di sicurezza FortiOS per firewall Fortigate (AL06/240208/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/fortinet-aggiornamenti-di-sicurezza-fortios-per-firewall-fortigate-al06-240208-csirt-ita) |
 | LT | CERT-LT | LT | |
@@ -39,7 +39,7 @@
 | NL | NCSC-NL | NL | [High/High advisory for FortiOS](https://www.ncsc.nl/actueel/advisory?id=NCSC-2024-0058) |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
-| PT | CERT.PT | PT | |
+| PT | CERT.PT | PT | [Alerta de Vulnerabilidades - Fortinet FortiOS](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135844/alerta-de-vulnerabilidades-fortinet-fortios) |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Kritiska RCE-sårbarheter i FortiOS](https://www.cert.se/2024/02/kritiska-rce-sarbarheter-i-fortios.html) |
 | SI | SI-CERT | SL | [SI-CERT 2024-02 / Kritične ranljivosti v FortiOS](https://www.cert.si/si-cert-2024-02/) |
