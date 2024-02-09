@@ -5,7 +5,7 @@
 | **Date** | 09-02-2024 |
 | **Number** | CNW-2024-01 | 
 | **Keywords** | Fortinet FortiOS | 
-| **CVE** | [CVE-2024-21726](https://www.fortiguard.com/psirt/FG-IR-24-015) [CVE-2024-23113](https://www.fortiguard.com/psirt/FG-IR-24-029) | 
+| **CVE** | [CVE-2024-21726](https://www.fortiguard.com/psirt/FG-IR-24-015), [CVE-2024-23113](https://www.fortiguard.com/psirt/FG-IR-24-029) | 
 | **Details** | Two newly disclosed critical vulnerabilities in FortiOS include, under CVE-2024-21762, an out-of-bounds write vulnerability in FortiOS allowing remote unauthenticated attackers to execute arbitrary code or command via specially crafted HTTP requests and, under CVE-2024-23113, an use of externally-controlled format string vulnerability in FortiOS fgfmd daemon that allows a remote unauthentified attacker to execute arbitrary code or commands via specially crafted requests. |
 | **Mitigation** | Fortinet is offering an upgrade tool to determine which version to install. If using SSL VPN in FortiOS, Fortinet recommends disabling the SSL VPN as a workaround. In addition, an incident response procedure can be advisable, reviewing all logs, and especially scrutinizing any potential access from the VPN to other internal infrastructure. For additional details please refer to the specific CNW member advisories referenced below. |
 
@@ -19,7 +19,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [Fortinet FortiOS - Aktive Ausnutzung kritischer Schwachstellen [PDF]](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-213797-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | [CCN-CERT AV 02/24 Actualizaciones de seguridad para productos Fortinet](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/12896-ccn-cert-av-02-24-actualizaciones-de-seguridad-para-productos-fortinet.html)|
