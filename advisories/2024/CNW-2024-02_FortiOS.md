@@ -22,8 +22,8 @@
 | DE | CERT-Bund | DE | |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
-| ES | CCN-CERT | ES | [Múltiples vulnerabilidades en FortiOS de Fortinet](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-fortios-de-fortinet) |
-| ES | INCIBE | ES | |
+| ES | CCN-CERT | ES | [CCN-CERT AV 02/24 Actualizaciones de seguridad para productos Fortinet](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/12896-ccn-cert-av-02-24-actualizaciones-de-seguridad-para-productos-fortinet.html)|
+| ES | INCIBE | ES | [Múltiples vulnerabilidades en FortiOS de Fortinet](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-fortios-de-fortinet) |
 | EU | CERT-EU | EN | |
 | FI | NCSC-FI | FI | [Kriittisiä haavoittuvuuksia Fortinetin FortiOS -ohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_8/2024) |
 | FR | CERT-FR | FR | |
