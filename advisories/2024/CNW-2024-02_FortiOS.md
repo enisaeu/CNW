@@ -31,7 +31,7 @@
 | HR | CERT.hr | HR | [FORTINET KRITIČNE RANJIVOSTI](https://www.cert.hr/fortinet-kriticne-ranjivosti/) |
 | HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | | 
-| IE | CSIRT-IE | EN | |
+| IE | CSIRT-IE | EN | [Critical Vulnerabilities in Fortinet FortiOS [PDF]](https://ncsc.gov.ie/pdfs/240209_FortiOS_Critical_Vulnerabilities.pdf) |
 | IT | CSIRT-ITA | IT | [Fortinet: aggiornamenti di sicurezza FortiOS per firewall Fortigate (AL06/240208/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/fortinet-aggiornamenti-di-sicurezza-fortios-per-firewall-fortigate-al06-240208-csirt-ita) |
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | [TR-81 - Critical FortiOS vulnerabilities in sslvpnd and fgfmd](https://www.circl.lu/pub/tr-81/ ) |
