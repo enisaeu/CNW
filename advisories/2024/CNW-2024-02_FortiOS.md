@@ -3,7 +3,7 @@
 |   |   |
 |---|---|
 | **Date** | 09-02-2024 |
-| **Number** | CNW-2024-01 | 
+| **Number** | CNW-2024-02 | 
 | **Keywords** | Fortinet FortiOS | 
 | **CVE** | [CVE-2024-21726](https://www.fortiguard.com/psirt/FG-IR-24-015), [CVE-2024-23113](https://www.fortiguard.com/psirt/FG-IR-24-029) | 
 | **Details** | Two newly disclosed critical vulnerabilities in FortiOS include, under CVE-2024-21762, an out-of-bounds write vulnerability in FortiOS allowing remote unauthenticated attackers to execute arbitrary code or command via specially crafted HTTP requests and, under CVE-2024-23113, an use of externally-controlled format string vulnerability in FortiOS fgfmd daemon that allows a remote unauthentified attacker to execute arbitrary code or commands via specially crafted requests. |
