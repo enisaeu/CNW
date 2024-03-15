@@ -1,4 +1,4 @@
-# CSIRTs Network - Critical Vulnerabilities in ConnectWise ScreenConnect Exploited (CVE-2024-1708, CVE-2024-1709)
+# CSIRTs Network - Critical ConnectWise ScreenConnect Vulnerabilities (CVE-2024-1708, CVE-2024-1709)
 
 |   |   |
 |---|---|
@@ -6,8 +6,8 @@
 | **Number** | CNW-2024-03 | 
 | **Keywords** | ConnectWise ScreenConnect | 
 | **CVE** | [CVE-2024-1708](https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8), CVE-2024-1709 | 
-| **Details** | The mentioned ConnectWise ScreenConnect vulnerabilities, CVE-2024-1709 (Authentication Bypass) and CVE-2024-1708 (Path Traversal), have received critical CVSS scores. Threat intelligence publications by several parties indicates threat actors are leveraging ScreenConnect access for post-exploitation, deploying ransomware, cryptocurrency coin miners, Cobalt Strike deployment, and additional remote access tools creating a significant risk to organisations (and their customers). |
-| **Mitigation** | It is strongly recommended to upgrade to the most current release of 23.9.8 or later. Further recommendations include the implementation of network controls to limit access and closely monitoring network activity. For additional details please refer to the specific CNW member advisories referenced below. |
+| **Details** | The mentioned ConnectWise ScreenConnect vulnerabilities, CVE-2024-1709 (Authentication Bypass) and CVE-2024-1708 (Path Traversal), have received critical / high CVSS scores. Threat intelligence publications by several parties indicate threat actors are leveraging ScreenConnect access for post-exploitation, deploying ransomware, cryptocurrency coin miners, Cobalt Strike deployment, and additional remote access tools creating a significant risk to organisations (and their customers). |
+| **Mitigation** | It is strongly recommended to upgrade to the most current release of 23.9.8 or later. Further recommendations include the implementation of network controls to limit access and to closely monitor network activity. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
