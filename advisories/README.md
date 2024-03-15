@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-03](2024/CNW-2024-03_ConnectWise.md) | 23-02-2024 | CVE-2024-1708, CVE-2024-1709 | Active exploitation of ConnectWise ScreenConnect Vulnerability |
 | [CNW-2024-02](2024/CNW-2024-02_FortiOS.md) | 09-02-2024 | CVE-2024-21726, CVE-2024-23113 | Critical Fortinet FortiOS vulnerabilities exploited |
 | [CNW-2024-01](2024/Multiple-Vulns-Ivanti-Secure-Gateways.md) | 10-01-2024 | CVE-2023-46805, CVE-2024-21887, CVE-2024-21888, CVE-2024-21893 | Ivanti Connect Secure and Ivanti Policy Secure Gateway 0-day vulnerabilities actively exploited |
 | [CNW-2023-13](2023/CVE-2023-22518_Confluence-Data-Center-Server.md) | 04-11-2023 | CVE-2023-22518 | Altlassian Confluence Data Center and Server Vulnerability actively exploited |
