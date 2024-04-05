@@ -13,12 +13,13 @@
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT.at | DE | [Kritische Sicherheitslücke/Hintertüre in xz-utils (CVE-2024-3094)](https://cert.at/de/warnungen/2024/3/kritische-sicherheitslucke-in-fedora-41-und-fedora-rawhide-bibliothek-xz) |
+| AT | CERT.at | DE | [Blog - Staatlich gesponserte "Entwicklung" quelloffener Software](https://cert.at/de/blog/2024/4/staatlich-gesponserte-entwicklung-quelloffener-software) |
 | BE | CERT.be | EN |[CVE-2024-3094, A BACKDOOR IN THE LINUX XZ LIBRARY VERSIONS 5.6.0 & 5.6.1, CAN LEAD TO SSH AUTHENTICATION BYPASS](https://cert.be/en/advisory/warning-cve-2024-3094-backdoor-linux-xz-library-versions-560-561-can-lead-ssh) |
 | BG | CERT Bulgaria | BG | |
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [Kritische Backdoor in XZ für Linux (2024-223608-1132)](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
@@ -43,6 +44,7 @@
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | |
 | SI | SI-CERT | SL | |
+| SK | SK-CERT | SK | [Zadné vrátka v ssh serveri, spôsobené kompresnou knižnicou XZ/LZMA – aktualizujte ihneď!](https://www.sk-cert.sk/sk/zadne-vratka-v-ssh-serveri-sposobene-kompresnou-kniznicou-xz-lzma-aktualizujte-ihned/index.html) |
 | SK | SK-CERT | SK | [SK-CERT Bezpečnostné varovanie V20240404-01](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20240404-01/index.html) |
 
  
