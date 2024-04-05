@@ -1,6 +1,8 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-04](2024/CNW-2024-06_XZ-Utils.md) | 05-04-2024 | CVE-2024-3094 | XZ Utils backdoor |
+| [CNW-2024-04](2024/CNW-2024-05_FortiEMS.md) | 05-04-2024 | CVE-2023-48788 | Active exploited of Fortinet Forticlient EMS vulnerability |
 | [CNW-2024-04](2024/CNW-2024-04_TeamCity.md) | 14-03-2024 | CVE-2024-27198, CVE-2024-27199 | Active exploited TeamCity CI/CD Vulnerabilities by multiple threat groups |
 | [CNW-2024-03](2024/CNW-2024-03_ConnectWise.md) | 23-02-2024 | CVE-2024-1708, CVE-2024-1709 | Active exploitation of ConnectWise ScreenConnect Vulnerability |
 | [CNW-2024-02](2024/CNW-2024-02_FortiOS.md) | 09-02-2024 | CVE-2024-21726, CVE-2024-23113 | Critical Fortinet FortiOS vulnerabilities exploited |
