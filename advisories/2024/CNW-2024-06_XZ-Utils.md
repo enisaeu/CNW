@@ -24,9 +24,8 @@
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | [CCN-CERT AV 06/24 Actualizaciones de seguridad para XZ Utils](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/12929-ccn-cert-av-06-24-actualizaciones-de-seguridad-para-xz-utils.html) |
 | ES | INCIBE | ES | [Inyección de código malicioso en la librería XZ Utils](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/inyeccion-de-codigo-malicioso-en-la-libreria-xz-utils) |
-| EU | CERT-EU | EN | |
-| FI | NCSC-FI | FI | [Kriittinen haavoittuvuus Linux-jakeluissa XZ Utils -tiedonpakkausohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_10/2024) |
 | EU | CERT-EU | EN | [Critical Vulnerability in XZ Utils (Security Advisory 2024-032)](https://cert.europa.eu/publications/security-advisories/2024-032/) |
+| FI | NCSC-FI | FI | [Kriittinen haavoittuvuus Linux-jakeluissa XZ Utils -tiedonpakkausohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_10/2024) |
 | FR | CERT-FR | FR | [Bulletin d’actualité CERTFR-2024-ACT-015](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-015/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
