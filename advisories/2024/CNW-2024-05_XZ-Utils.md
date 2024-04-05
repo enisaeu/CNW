@@ -22,12 +22,12 @@
 | DE | CERT-Bund | DE | [Kritische Backdoor in XZ für Linux (2024-223608-1132)](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
-| ES | CCN-CERT | ES | |
+| ES | CCN-CERT | ES | [CCN-CERT AV 06/24 Actualizaciones de seguridad para XZ Utils](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/12929-ccn-cert-av-06-24-actualizaciones-de-seguridad-para-xz-utils.html) |
 | ES | INCIBE | ES | [Inyección de código malicioso en la librería XZ Utils](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/inyeccion-de-codigo-malicioso-en-la-libreria-xz-utils) |
 | EU | CERT-EU | EN | |
 | FI | NCSC-FI | FI | [Kriittinen haavoittuvuus Linux-jakeluissa XZ Utils -tiedonpakkausohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_10/2024) |
-| EU | CERT-EU | EN | |
-| FR | CERT-FR | FR | |
+| EU | CERT-EU | EN | [Critical Vulnerability in XZ Utils (Security Advisory 2024-032)](https://cert.europa.eu/publications/security-advisories/2024-032/) |
+| FR | CERT-FR | FR | [Bulletin d’actualité CERTFR-2024-ACT-015](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-015/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | |
@@ -42,7 +42,7 @@
 | PL | CERT.PL | PL | |
 | PT | CERT.PT | PT | |
 | RO | CERT-RO | RO | |
-| SE | CERT-SE | SV | |
+| SE | CERT-SE | SV | [Kritisk sårbarhet i XZ Utils (xz/liblzma)](https://www.cert.se/2024/03/kritisk-sarbarhet-i-xz-utils.html) |
 | SI | SI-CERT | SL | |
 | SK | SK-CERT | SK | [Zadné vrátka v ssh serveri, spôsobené kompresnou knižnicou XZ/LZMA – aktualizujte ihneď!](https://www.sk-cert.sk/sk/zadne-vratka-v-ssh-serveri-sposobene-kompresnou-kniznicou-xz-lzma-aktualizujte-ihned/index.html) |
 | SK | SK-CERT | SK | [SK-CERT Bezpečnostné varovanie V20240404-01](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20240404-01/index.html) |
