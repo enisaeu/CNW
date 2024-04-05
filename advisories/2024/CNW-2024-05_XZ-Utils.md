@@ -13,7 +13,7 @@
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT.at | DE | [Kritische Sicherheitslücke/Hintertüre in xz-utils (CVE-2024-3094)](https://cert.at/de/warnungen/2024/3/kritische-sicherheitslucke-in-fedora-41-und-fedora-rawhide-bibliothek-xz) |
-| BE | CERT.be | EN | |
+| BE | CERT.be | EN |[CVE-2024-3094, A BACKDOOR IN THE LINUX XZ LIBRARY VERSIONS 5.6.0 & 5.6.1, CAN LEAD TO SSH AUTHENTICATION BYPASS](https://cert.be/en/advisory/warning-cve-2024-3094-backdoor-linux-xz-library-versions-560-561-can-lead-ssh) |
 | BG | CERT Bulgaria | BG | |
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
@@ -32,7 +32,7 @@
 | HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | |
 | IE | CSIRT-IE | EN | [Critical Vulnerability in XZ Utils (CVE-2024-3094)](https://www.ncsc.gov.ie/pdfs/2403290139_Critical_vulnerability_in_XZ_Utils.pdf) |
-| IT | CSIRT-ITA | IT | |
+| IT | CSIRT-ITA | IT |[ Rilevata backdoor in XZ Utils (AL01/240330/CSIRT-ITA) - Aggiornamento](https://www.csirt.gov.it/contenuti/rilevata-backdoor-in-xz-utils-al01-240330-csirt-ita)|
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | [TR-82 - backdoor discovered in xz-utils - CVE-2024-3094](https://circl.lu/pub/tr-82/)|
 | MT | CSIRTMalta | EN | |
@@ -43,7 +43,7 @@
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | |
 | SI | SI-CERT | SL | |
-| SK | SK-CERT | SK | |
+| SK | SK-CERT | SK | [SK-CERT Bezpečnostné varovanie V20240404-01](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20240404-01/index.html) |
 
  
 
