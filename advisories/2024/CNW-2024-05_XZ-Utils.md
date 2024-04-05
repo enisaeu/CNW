@@ -12,7 +12,7 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT.at | DE | |
+| AT | CERT.at | DE | [Kritische Sicherheitslücke/Hintertüre in xz-utils (CVE-2024-3094)](https://cert.at/de/warnungen/2024/3/kritische-sicherheitslucke-in-fedora-41-und-fedora-rawhide-bibliothek-xz) |
 | BE | CERT.be | EN | |
 | BG | CERT Bulgaria | BG | |
 | CZ | CSIRT.CZ | CS | |
@@ -22,9 +22,10 @@
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
-| ES | INCIBE | ES | |
+| ES | INCIBE | ES | [Inyección de código malicioso en la librería XZ Utils](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/inyeccion-de-codigo-malicioso-en-la-libreria-xz-utils) |
 | EU | CERT-EU | EN | |
-| FI | NCSC-FI | FI | |
+| FI | NCSC-FI | FI | [Kriittinen haavoittuvuus Linux-jakeluissa XZ Utils -tiedonpakkausohjelmistossa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_10/2024) |
+| EU | CERT-EU | EN | |
 | FR | CERT-FR | FR | |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
