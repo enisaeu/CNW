@@ -40,7 +40,7 @@
 | NL | NCSC-NL | NL | |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
-| PT | CERT.PT | PT | |
+| PT | CERT.PT | PT | [Alerta de Código Malicioso - XZ utils](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135855/alerta-de-codigo-malicioso-xz-utils) |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Kritisk sårbarhet i XZ Utils (xz/liblzma)](https://www.cert.se/2024/03/kritisk-sarbarhet-i-xz-utils.html) |
 | SI | SI-CERT | SL | |
