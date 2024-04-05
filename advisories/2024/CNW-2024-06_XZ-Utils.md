@@ -2,7 +2,7 @@
 |   |   |
 |---|---|
 | **Date** | 05-04-2024 |
-| **Number** | CNW-2024-05 | 
+| **Number** | CNW-2024-06 | 
 | **Keywords** | XZ Utils Data Compression Library, backdoor | 
 | **CVE** | [CVE-2024-3094](https://www.openwall.com/lists/oss-security/2024/03/29/4) | 
 | **Details** | While debugging some performance issue on an sshd daemon a backdoor was discovered in the xz-utils package. Xz-utils is commonly used compression utility integrated into many popular distributions of Linux, e.g. for compressing release tarballs, software packages, kernel images, initramfs images and many others. The xz-utils package includes the liblzma library used by various other software packages, including sshd. |
