@@ -41,8 +41,8 @@
 | PT | CERT.PT | PT | |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Kritisk sårbarhet i PAN-OS](https://www.cert.se/2024/04/kritisk-sarbarhet-i-pan-os.html) |
-| SI | SI-CERT | SL | |
-| SK | SK-CERT | SK | |
+| SI | SI-CERT | SL | [SI-CERT 2024-04 / Kritična ranljivost v PAN-OS](https://www.cert.si/si-cert-2024-04/) |
+| SK | SK-CERT | SK | [SK-CERT Bezpečnostné varovanie V20240411-01](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20240411-01/index.html)  |
 
  
 
