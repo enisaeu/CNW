@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-07](2024/CNW-2024-07_PAN-OS.md) | 12-04-2024 | CVE-2024-3400 | Critical PAN-OS vulnerability exploited |
 | [CNW-2024-06](2024/CNW-2024-06_XZ-Utils.md) | 05-04-2024 | CVE-2024-3094 | XZ Utils backdoor |
 | [CNW-2024-05](2024/CNW-2024-05_FortiEMS.md) | 05-04-2024 | CVE-2023-48788 | Actively exploited Fortinet Forticlient EMS vulnerability |
 | [CNW-2024-04](2024/CNW-2024-04_TeamCity.md) | 14-03-2024 | CVE-2024-27198, CVE-2024-27199 | Active exploited TeamCity CI/CD Vulnerabilities by multiple threat groups |
