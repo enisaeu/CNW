@@ -1,18 +1,16 @@
 **CSIRTs network – vulnerability on CrushFTP (CVE-2024-4040)**
 
-| Date | 26-04-2024 |
+|   |    |
 | --- | --- |
-| Number     | CNW-2024-10                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Keywords   | CrushFTP                                                                                                                                                                                                                                                                                                                                                                                                        |
-| CVE        | CVE-2024-4040                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Date | 24-04-2024 |
+| Number     | CNW-2024-10 |
+| Keywords   | CrushFTP | 
+| CVE        | CVE-2024-4040  |
 | Details    | CrushFTP file transfer server contains an unspecified sandbox escape vulnerability, affecting all versions before v10.71 and v11.1.0, on all platforms. The vulnerability allows unauthenticated remote attackers to escape the CrushFTP virtual file system (VFS), bypass authentication to gain administrative access, and perform remote code execution on the server.                                       |
 | Mitigation | After updating to version v11, unauthenticated and authenticated template injections into API responses are no longer evaluated, which appears to effectively mitigate the vulnerability. Using a Demilitarized Zone (DMZ) perimeter network in front of the main CrushFTP instance also protects against attacks. For additional details, please refer to the specific CNW member advisories referenced below. |
 
 
 **List of CSIRTs Network member alerts**
-
-_Last update on 24 April at 5.30 - 6 p.m._
-
 
 | Member State | Organisation | Language | Warnings | Advisories |
 | :-----: | :----------: | :------: | :------ | :------ | 
