@@ -1,9 +1,8 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
-
-| [CNW-2024-11](2024/CNW-2024-11_cisco-asa-ftd.md) | 26-04-2024 |  CVE-2024-20353, CVE-2024-20359, CVE-2024-20358 | Vulnerabilities in Cisco ASA and FTD Software |
-| [CNW-2024-08](2024/CNW-2024-08_batbadbut.md) | 16-04-2024 | CVE-2024-1874, CVE-2024-22423, CVE-2024-24576, CVE-2024-3566 | BatBadBut - command injection vulnerabilities  |
+| [CNW-2024-11](2024/CNW-2024-11_cisco-asa-ftd.md) | 26-04-2024 | CVE-2024-20353, CVE-2024-20359, CVE-2024-20358 | Vulnerabilities in Cisco ASA and FTD Software |
+| [CNW-2024-08](2024/CNW-2024-08_batbadbut.md) | 16-04-2024 | CVE-2024-1874, CVE-2024-22423, CVE-2024-24576, CVE-2024-3566 | BatBadBut - command injection vulnerabilities |
 | [CNW-2024-07](2024/CNW-2024-07_PAN-OS.md) | 12-04-2024 | CVE-2024-3400 | Critical PAN-OS vulnerability exploited |
 | [CNW-2024-06](2024/CNW-2024-06_XZ-Utils.md) | 05-04-2024 | CVE-2024-3094 | XZ Utils backdoor |
 | [CNW-2024-05](2024/CNW-2024-05_FortiEMS.md) | 05-04-2024 | CVE-2023-48788 | Actively exploited Fortinet Forticlient EMS vulnerability |
