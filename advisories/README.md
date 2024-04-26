@@ -3,6 +3,7 @@
 |:---|:---|:---|:---|
 | [CNW-2024-11](2024/CNW-2024-11_cisco-asa-ftd.md) | 26-04-2024 | CVE-2024-20353, CVE-2024-20359, CVE-2024-20358 | Vulnerabilities in Cisco ASA and FTD Software |
 | [CNW-2024-10](2024/CNW-2024-10_crush.md) | 24-04-2024 | CVE-2024-4040 | CrushFTP vulnerability exploited |
+| [CNW-2024-09](2024/CNW-2024-09_OpenMetadata.md) | 24-04-2024 | CVE-2024-28253, CVE-2024-28254, CVE-2024-28255, CVE-2024-28847, CVE-2024-28848 | OpenMetadata vulnerabilities exploited |
 | [CNW-2024-08](2024/CNW-2024-08_batbadbut.md) | 16-04-2024 | CVE-2024-1874, CVE-2024-22423, CVE-2024-24576, CVE-2024-3566 | BatBadBut - command injection vulnerabilities |
 | [CNW-2024-07](2024/CNW-2024-07_PAN-OS.md) | 12-04-2024 | CVE-2024-3400 | Critical PAN-OS vulnerability exploited |
 | [CNW-2024-06](2024/CNW-2024-06_XZ-Utils.md) | 05-04-2024 | CVE-2024-3094 | XZ Utils backdoor |
