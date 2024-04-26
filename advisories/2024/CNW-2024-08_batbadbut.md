@@ -1,7 +1,8 @@
 **CSIRTs network – Vulnerability affecting several programming languages (CVE-2024-1874, CVE-2024-22423, CVE-2024-24576, CVE-2024-3566)**
 
+|   |   |
+|---|---|
 | Date | 16-04-2024 |
-| --- | --- |
 | Number | CNW-2024-08 |
 | Keywords | BatBadBut, Windows applications |
 | CVE | CVE-2024-1874, CVE-2024-22423, CVE-2024-24576, CVE-2024-3566 |
