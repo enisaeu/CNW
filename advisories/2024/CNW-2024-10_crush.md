@@ -1,4 +1,4 @@
-**CSIRTs network – vulnerability on CrushFTP (CVE-2024-4040)**
+**CSIRTs network – CrushFTP vulnerability exploitation (CVE-2024-4040)**
 
 |   |    |
 | --- | --- |
