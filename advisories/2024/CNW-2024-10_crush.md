@@ -1,4 +1,4 @@
-# CSIRTs network – CrushFTP vulnerability exploitation (CVE-2024-4040)**
+# CSIRTs network – CrushFTP vulnerability exploitation (CVE-2024-4040)
 
 |   |    |
 | --- | --- |
@@ -14,8 +14,8 @@
 
 | Member State | Organisation | Language | Warnings | Advisories |
 | :-----: | :----------: | :------: | :------ | :------ | 
-| Austria          | CERT.at            | DE           | \-                                                                                                                                                                                                | \-                                                                                               |
-| Belgium          | CERT.be            | EN           | \-                                                                                                                                                                                                | [Advisory #2024-59](https://cert.be/en/advisory/warning-crushftp)                                |
+| Austria          | CERT.at            | DE           | \- | \- |
+| Belgium          | CERT.be            | EN           | \- | [Advisory #2024-59](https://cert.be/en/advisory/warning-crushftp) |
 | Bulgaria         | CERT.BG            | BG           | \-                                                                                                                                                                                                | \-                                                                                               |
 | Cyprus           | CSIRT-CY           | CY           | \-                                                                                                                                                                                                | \-                                                                                               |
 | Czech Rep.       | CSIRT.CZ           | CS           | \-                                                                                                                                                                                                | \-                                                                                               |
