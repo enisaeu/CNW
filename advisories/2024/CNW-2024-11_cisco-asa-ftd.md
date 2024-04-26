@@ -18,7 +18,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [CSW 2024-232160-1032 - Cisco ASA: Aktiv ausgenutzte Schwachstellen geschlossen](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-232160-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
