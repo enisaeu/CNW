@@ -1,4 +1,4 @@
-**CSIRTs network – CrushFTP vulnerability exploitation (CVE-2024-4040)**
+# CSIRTs network – CrushFTP vulnerability exploitation (CVE-2024-4040)**
 
 |   |    |
 | --- | --- |
@@ -10,7 +10,7 @@
 | Mitigation | After updating to version v11, unauthenticated and authenticated template injections into API responses are no longer evaluated, which appears to effectively mitigate the vulnerability. Using a Demilitarized Zone (DMZ) perimeter network in front of the main CrushFTP instance also protects against attacks. For additional details, please refer to the specific CNW member advisories referenced below. |
 
 
-**List of CSIRTs Network member alerts**
+## List of CSIRTs Network member alerts
 
 | Member State | Organisation | Language | Warnings | Advisories |
 | :-----: | :----------: | :------: | :------ | :------ | 
