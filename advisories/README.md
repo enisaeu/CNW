@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-A-12](2024/CNW-2024-A-012) | 25-05-2024 | CVE-2024-26289 | Remote Code Inclusion Vulnerability in Multiple PMB Versions |
 | [CNW-2024-11](2024/CNW-2024-11_cisco-asa-ftd.md) | 26-04-2024 | CVE-2024-20353, CVE-2024-20359, CVE-2024-20358 | Vulnerabilities in Cisco ASA and FTD Software |
 | [CNW-2024-10](2024/CNW-2024-10_crush.md) | 24-04-2024 | CVE-2024-4040 | CrushFTP vulnerability exploited |
 | [CNW-2024-09](2024/CNW-2024-09_OpenMetadata.md) | 24-04-2024 | CVE-2024-28253, CVE-2024-28254, CVE-2024-28255, CVE-2024-28847, CVE-2024-28848 | OpenMetadata vulnerabilities exploited |
