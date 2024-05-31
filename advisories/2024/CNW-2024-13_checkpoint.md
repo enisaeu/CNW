@@ -33,7 +33,7 @@
 | IE | CSIRT-IE | EN | [Vulnerability exists in multiple Check Point Quantum products [PDF]](https://www.ncsc.gov.ie/pdfs/2405290122_Check_Point_Quantum_Vulnerability.pdf) |
 | IT | CSIRT-ITA | IT | [CheckPoint: rilevato sfruttamento in rete della CVE-2024-24919 relativa ai prodotti Security Gateways](https://www.csirt.gov.it/contenuti/checkpoint-rilevato-sfruttamento-in-rete-della-cve-2024-24919-relativa-ai-prodotti-security-gateways-al03-240529-csirt-ita) |
 | LT | CERT-LT | LT | |
-| LU | CIRCL | EN | |
+| LU | CIRCL | EN | [TR-86 - Check Point VPN Information Disclosure (CVE-2024-24919) - Actively Exploited](https://www.circl.lu/pub/tr-86/) |
 | LV | CERT.lv | LV | |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | |
