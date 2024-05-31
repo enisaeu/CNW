@@ -1,4 +1,4 @@
-# CSIRTs Network - Product (CVE-XXXX-YYYY)
+# CSIRTs Network - Check Point VPN Information Disclosure Exploitation (CVE-2024-24919)
 |   |   |
 |---|---|
 | **Date** | 30-05-2024 |
