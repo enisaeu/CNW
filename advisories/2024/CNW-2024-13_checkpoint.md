@@ -42,8 +42,8 @@
 | PT | CERT.PT | PT | |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Nolldagssårbarhet i VPN-produkter från Check Point](https://cert.se/2024/05/nolldagssarbarhet-i-vpn-produkter-fran-check-point.html) |
-| SI | SI-CERT | SL | |
-| SK | SK-CERT | SK | [SI-CERT 2024-05 / Kritična ranljivost Check Point Remote Access VPN](https://www.cert.si/si-cert-2024-05/) |
+| SI | SI-CERT | SL | [SI-CERT 2024-05 / Kritična ranljivost Check Point Remote Access VPN](https://www.cert.si/si-cert-2024-05/) |
+| SK | SK-CERT | SK | [Check Point Security Gateway produkty – aktívne zneužívaná zero-day zraniteľnosť](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20240530-01-2/index.html) |
 
  
 
