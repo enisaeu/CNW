@@ -25,7 +25,7 @@
 | ES | INCIBE | ES | [Vulnerabilidad de divulgación de información en productos de Check Point](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/vulnerabilidad-de-divulgacion-de-informacion-en-productos-de-check-point) |
 | EU | CERT-EU | EN | |
 | FI | NCSC-FI | FI | [Vakava haavoittuvuus Check Point Quantum Gateway -tuotteissa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_15/2024) |
-| FR | CERT-FR | FR | |
+| FR | CERT-FR | FR | [CERTFR-2024-ALE-008 - Vulnérabilité dans les produits Check Point](https://cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | |
