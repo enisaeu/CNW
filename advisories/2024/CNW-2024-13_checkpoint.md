@@ -39,7 +39,7 @@
 | NL | NCSC-NL | NL | |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
-| PT | CERT.PT | PT | |
+| PT | CERT.PT | PT | [Alerta de Vulnerabilidades - Check Point](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135867/alerta-de-vulnerabilidades-check-point) |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Nolldagssårbarhet i VPN-produkter från Check Point](https://cert.se/2024/05/nolldagssarbarhet-i-vpn-produkter-fran-check-point.html) |
 | SI | SI-CERT | SL | [SI-CERT 2024-05 / Kritična ranljivost Check Point Remote Access VPN](https://www.cert.si/si-cert-2024-05/) |
