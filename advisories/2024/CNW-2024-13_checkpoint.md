@@ -18,7 +18,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [WID-SEC-2024-1261 Check Point Security Gateway: Schwachstelle ermöglicht Offenlegung von Informationen](https://wid.cert-bund.de/portal/wid/securityadvisory?uuid=852033d1-12d0-46d1-991e-71fb1f2494a1) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
@@ -37,7 +37,7 @@
 | LV | CERT.lv | LV | |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | |
-| NL | CSIRT-DSP | NL | |
+| NL | CSIRT-DSP | NL | [Kwetsbaarheid verholpen in Check Point VPN producten](https://www.ncsc.nl/actueel/advisory?id=NCSC-2024-0238)|
 | PL | CERT.PL | PL | |
 | PT | CERT.PT | PT | [Alerta de Vulnerabilidades - Check Point](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135867/alerta-de-vulnerabilidades-check-point) |
 | RO | CERT-RO | RO | |
