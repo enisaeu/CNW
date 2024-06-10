@@ -77,6 +77,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | :-----: | :----------: | :------: | :------ |
 | NL | NCSC-NL | EN | [Factsheet Prepare for Zero Trust (18 August 2021)](https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust) |
 | NL | NCSC-NL | NL | [Factsheet SOC inrichten: begin klein (03 May 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/soc-inrichten) |
+| NL | NCSC-NL | EN | [Factsheet Managing edge devices (10 June 2024)](https://english.ncsc.nl/publications/factsheets/2024/june/10/factsheet-managing-edge-devices) |
+| NL | NCSC-NL | NL | [Kennisproduct Omgaan met edge devices (10 June 2024)](https://www.ncsc.nl/documenten/factsheets/2024/juni/10/kennisproduct-omgaan-met-edge-devices) |
 
 ### Cloud Security
 | Country | Organisation | Language | Material |
