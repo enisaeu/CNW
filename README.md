@@ -63,7 +63,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | NL | NCSC-NL | NL | [Factsheet Technische maatregelen voor continuïteit voor online diensten (02 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-technische-maatregelen-voor-continuiteit-van-online-diensten) |
 | PL | KNF CSIRT | PL | [Dobre praktyki w zakresieprzeciwdziałania atakom DDoS [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Dobre%20praktyki%20w%20zakresie%20przeciwdzia%C5%82ania%20atakom%20DDoS_77247.pdf) |
 | PL | KNF CSIRT | EN | [Good Practices in DDoS countermeasures [PDF]](https://www.knf.gov.pl/knf/pl/komponenty/img/Good_practice_against_DDoS_EN_78023.pdf) |
-| SE | CERT-SE | SE | [Råd gällande förebyggande och hantering av överbelastningsangrepp (21 February 2023)](https://www.cert.se/nyckelord/DDoS/) |
+| SE | CERT-SE | SE | [Råd gällande förebyggande och hantering av överbelastningsangrepp (21 February 2023)](https://www.cert.se/tema/ddos/) |
 
 ### Authentication
 | Country | Organisation | Language | Material |
