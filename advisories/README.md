@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-14](2024/CNW-2024-14_moveit.md) | 01-07-2024 | CVE-2024-5805, CVE-2024-5806 | Critical Progress MOVEit vulnerability |
 | [CNW-2024-13](2024/CNW-2024-13_checkpoint.md) | 30-05-2024 | CVE-2024-24919 | Check Point VPN Information Disclosure Actively Exploited |
 | [CNW-2024-A-12](2024/CNW-2024-A-12.md) | 25-05-2024 | CVE-2024-26289 | Remote Code Inclusion Vulnerability in Multiple PMB Versions |
 | [CNW-2024-11](2024/CNW-2024-11_cisco-asa-ftd.md) | 26-04-2024 | CVE-2024-20353, CVE-2024-20359, CVE-2024-20358 | Vulnerabilities in Cisco ASA and FTD Software |
