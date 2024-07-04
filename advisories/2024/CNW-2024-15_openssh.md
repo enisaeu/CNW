@@ -43,7 +43,7 @@
 | RO | CERT-RO | RO | [Vulnerabilitate critică de securitate cibernetică identificată la nivelul aplicației OpenSSH](https://dnsc.ro/citeste/alerta-vulnerabilitate-critica-de-securitate-cibernetica-identificata-la-nivelul-aplicatiei-openssh) |
 | SE | CERT-SE | SV | [Allvarlig RCE-sårbarhet i OpenSSH](https://www.cert.se/2024/07/kritisk-rce-sarbarhet-i-openssh.html) |
 | SI | SI-CERT | SL | |
-| SK | SK-CERT | SK | |
+| SK | SK-CERT | SK | [Varovanie pred kritickou zraniteľnosťou v OpenSSH](https://www.sk-cert.sk/sk/varovanie-pred-kritickou-zranitelnostou-v-openssh/index.html) |
 
  
 
