@@ -5,7 +5,7 @@
 | **Number** | CNW-2024-15 | 
 | **Keywords** | OpenSSH | 
 | **CVE** | [CVE-2024-6387](https://www.openssh.com/txt/release-9.8) | 
-| **Details** | RCE in OpenSSH's server, on glibc-based Linux systems |
+| **Details** | Arbitrary Code Execution vulnerability in OpenSSH's server on glibc-based Linux systems. An unauthenticated remote attacker may be able to trigger a race condition by failing to authenticate within a set time period. |
 | **Mitigation** | Upgrade to the latest available version. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
