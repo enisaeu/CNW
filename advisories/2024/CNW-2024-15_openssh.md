@@ -18,7 +18,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [[WID-SEC-2024-1486] OpenSSH: Schwachstelle ermöglicht Codeausführung](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1486) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
@@ -40,7 +40,7 @@
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
 | PT | CERT.PT | PT | |
-| RO | CERT-RO | RO | |
+| RO | CERT-RO | RO | [Vulnerabilitate critică de securitate cibernetică identificată la nivelul aplicației OpenSSH](https://dnsc.ro/citeste/alerta-vulnerabilitate-critica-de-securitate-cibernetica-identificata-la-nivelul-aplicatiei-openssh) |
 | SE | CERT-SE | SV | [Allvarlig RCE-sårbarhet i OpenSSH](https://www.cert.se/2024/07/kritisk-rce-sarbarhet-i-openssh.html) |
 | SI | SI-CERT | SL | |
 | SK | SK-CERT | SK | |
