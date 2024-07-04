@@ -11,7 +11,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 - [Ransomware Guidance](ransomware.md)
 
 ## Advisory collections
-- [CNW Advisory Collections](advisories/README.md)
+- [CNW Advisories](advisories/README.md)
 
 ## Security best-practices
 - [Business Continuity](#business-continuity)
