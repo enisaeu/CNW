@@ -85,6 +85,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI | DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
 | FR | ANSSI | FR | [Prestataires de service d’informatique en nuage (SecNumCloud)](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/) |
+| FR | ANSSI | FR | [RECOMMANDATIONS POUR L’HÉBERGEMENT DANS LE CLOUD DES SYSTÈMES D’INFORMATION SENSIBLES [PDF]](https://cyber.gouv.fr/sites/default/files/document/recommandations_hebergement_cloud_systemes_information_sensible.pdf) |
 | EU | ENISA | EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
 | NL | NCSC-NL | EN | [Factscheet 5 recommendations for securely purchasing cloud services (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
