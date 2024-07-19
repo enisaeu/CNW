@@ -6,7 +6,7 @@
 | **Keywords** | CrowdStrike Falcon | 
 | **CVE** | - | 
 | **Details** | Faulty CrowdStrike update causing blue screen loops worldwide (BSOD). The problems caused by the update of the Crowdstrike agent only occur on Windows systems. Linux and Mac systems are not affected. |
-| **Mitigation** | According to CrowdStrike, the faulty channel file 291 has been reverted which may mitigate further expansion. Some systems are rebooting to a normal working state and may automatically pick the new channel file. Loop crashing system might need a manual intervention. For additional details please refer to the specific CNW member advisories referenced below. |
+| **Mitigation** | According to CrowdStrike, the faulty channel file 291 has been reverted which may mitigate further expansion. Some systems are rebooting to a normal working state and may automatically pick the new channel file. Loop crashing systems might need a manual intervention. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
