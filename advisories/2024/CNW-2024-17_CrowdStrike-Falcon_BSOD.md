@@ -40,7 +40,7 @@
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
 | PT | CERT.PT | PT | [Falha Crítica - Crowdstrike](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135881/falha-critica-crowdstrike) |
-| RO | CERT-RO | RO | |
+| RO | CERT-RO | RO | [COMUNICAT DE PRESĂ cu privire la o problemă funcțională a unui produs CrowdStrike](https://dnsc.ro/citeste/comunicat-presa-crowstrike-problema-functionalitate) |
 | SE | CERT-SE | SV | [Allvarliga störningar i CrowdStrike påverkar många organisationers it-miljöer](https://www.cert.se/2024/07/allvarliga-storningar-i-crowdstrike-paverkar-manga-organisationers-it-miljoer.html) |
 | SI | SI-CERT | SL | |
 | SK | SK-CERT | SK | [Modrá obrazovka na počítačoch so známym EDR produktom – ako postupovať](https://www.sk-cert.sk/sk/modra-obrazovka-na-pocitacoch-so-znamym-edr-produktom-ako-postupovat/index.html) |
