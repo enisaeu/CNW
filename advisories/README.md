@@ -1,7 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
-| [CNW-2024-17](2024/CNW-2024-17_CrowdStrike-Falcon_BSOD.md) | 19-07-2024 | - | CrowdStrike Falcon Updated causing BSOD |
+| [CNW-2024-17](2024/CNW-2024-17_CrowdStrike-Falcon_BSOD.md) | 19-07-2024 | - | CrowdStrike Falcon Update causing BSOD |
 | [CNW-2024-16](2024/CNW-2024-16_Cisco-Email-GW_SSM-On-Prem.md) | 19-07-2024 | CVE-2024-20401, CVE-2024-20419 | Critical Cisco Secure Email Gateway and SSM On-Prem vulnerabilities |
 | [CNW-2024-15](2024/CNW-2024-15_openssh.md) | 02-07-2024 | CVE-2024-6387 | Critical vulnerability in OpenSSH server |
 | [CNW-2024-14](2024/CNW-2024-14_moveit.md) | 01-07-2024 | CVE-2024-5805, CVE-2024-5806 | Critical Progress MOVEit vulnerability |
