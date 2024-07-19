@@ -26,9 +26,9 @@
 | EU | CERT-EU | EN | |
 | FI | NCSC-FI | FI | [CrowdStriken päivitys aiheuttanut häiriöitä Windows-laitteissa](https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/crowdstriken-paivitys-aiheuttanut-hairioita-windows-laitteissa) |
 | FR | CERT-FR | FR | [Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/) |
-| GR | GR-CSIRT | EL | |
-| HR | CERT.hr | HR | |
-| HR | CERT ZSIS | HR | [Prva pomoć za ispad uzrokovan CrowdStrike ažuriranjem](https://www.cert.hr/prva-pomoc-za-ispad-uzrokovan-crowdstrike-azuriranjem/) |
+| GR | GR-CSIRT | EN | [Latest Crowdstrike Update Causes Blue Screen of Death on Microsoft Windo](https://csirt.cd.mil.gr/latest-crowdstrike-update-causes-blue-screen-of-death-on-microsoft-windows/) |
+| HR | CERT.hr | HR | [Prva pomoć za ispad uzrokovan CrowdStrike ažuriranjem](https://www.cert.hr/prva-pomoc-za-ispad-uzrokovan-crowdstrike-azuriranjem/) |
+| HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | [TÁJÉKOZTATÁS MICROSOFT WINDOWS RENDSZEREKEN TAPASZTALHATÓ RENDSZERINDÍTÁSI HIBÁRÓL](https://nki.gov.hu/figyelmeztetesek/tajekoztatas/tajekoztatas-microsoft-windows-rendszereken-tapasztalhato-rendszerinditasi-hibarol/ ) |
 | IE | CSIRT-IE | EN | [CrowdStrike BSOD Loop Issue [PDF]](https://www.ncsc.gov.ie/pdfs/CrowdStrike_BSOD_Loop_Issue.pdf) |
 | IT | CSIRT-ITA | IT | [Problematiche relative ad aggiornamento CrowdStrike (BL01/240719/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/problematiche-relative-ad-aggiornamento-crowdstrike-bl01-240719-csirt-ita) |
