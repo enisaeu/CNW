@@ -25,7 +25,7 @@
 | ES | INCIBE | ES | [Caída de sistemas de operadores de sectores críticos y estratégicos por un fallo de software conocido como la Pantalla Azul de la Muerte (BSOD)](https://www.incibe.es/incibe/sala-de-prensa/caida-de-sistemas-de-operadores-de-sectores-criticos-y-estrategicos-por-un) |
 | EU | CERT-EU | EN | |
 | FI | NCSC-FI | FI | [CrowdStriken päivitys aiheuttanut häiriöitä Windows-laitteissa](https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/crowdstriken-paivitys-aiheuttanut-hairioita-windows-laitteissa) |
-| FR | CERT-FR | FR | |
+| FR | CERT-FR | FR | [Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | |
