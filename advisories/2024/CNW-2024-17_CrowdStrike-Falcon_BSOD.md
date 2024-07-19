@@ -15,8 +15,8 @@
 | AT | CERT.at | DE | [CrowdStrike Agent erzeugt Bluescreen of Death (BSOD) Dauer-Schleife auf Windows Systemen - Fehlerhaftes Update für Falcon Sensor](https://www.cert.at/de/aktuelles/2024/7/crowdstrike-agent-erzeugt-bluescreen-of-death-bsod-dauer-schleife-auf-windows-systemen-fehlerhaftes-update-fur-falcon-sensor) |
 | BE | CERT.be | EN | [FLASH ALERT: LATEST UPDATE OF CROWDSTRIKE AGENT CAUSING BSOD LOOP ON WINDOWS!](https://ccb.belgium.be/en/news/serious-it-problems-belgian-companies-implementing-crowdstrike-update) |
 | BG | CERT Bulgaria | BG | |
-| CZ | CSIRT.CZ | CS | |
-| CZ | GovCERT.CZ | CS | |
+| CZ | CSIRT.CZ | CS | [Masivní výpadek systémů Windows způsobila chyba aktualizace bezpečnostního softwaru společnosti Crowdstrike](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/masivni-vypadek-systemu-windows-zpusobila-chyba-aktualizace-bezpecnostniho-softwaru-spolecnosti-crowdstrike/) |
+| CZ | GovCERT.CZ | CS | [Vyjádření NÚKIB ke globálním výpadkům IT systémů](https://nukib.gov.cz/cs/infoservis/aktuality/2142-vyjadreni-nukib-ke-globalnim-vypadkum-it-systemu/) |
 | CY | CSIRT-CY | EN | |
 | DE | CERT-Bund | DE | [Fehlerhaftes Update von Crowdstrike Falcon](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-257485-10F1.pdf) |
 | DK | CFCS | DA | |
@@ -28,13 +28,13 @@
 | FR | CERT-FR | FR | [Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
-| HR | CERT ZSIS | HR | |
+| HR | CERT ZSIS | HR | [Prva pomoć za ispad uzrokovan CrowdStrike ažuriranjem](https://www.cert.hr/prva-pomoc-za-ispad-uzrokovan-crowdstrike-azuriranjem/) |
 | HU | NCSC-HU | HU | |
 | IE | CSIRT-IE | EN | [CrowdStrike BSOD Loop Issue [PDF]](https://www.ncsc.gov.ie/pdfs/CrowdStrike_BSOD_Loop_Issue.pdf) |
 | IT | CSIRT-ITA | IT | |
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | [TR-87 - CrowdStrike Agent causing BSOD loop on Windows - Faulty Update on Falcon Sensor](https://www.circl.lu/pub/tr-87/) |
-| LV | CERT.lv | LV | |
+| LV | CERT.lv | LV | [IT darbības traucējumi saistībā ar "CrowdStrike" publicētiem atjauninājumiem Latvijā šobrīd netiek novēroti](https://cert.lv/lv/2024/07/it-darbibas-traucejumi-saistiba-ar-crowdstrike-publicetiem-atjauninajumiem-latvija-sobrid-netiek-noveroti) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Update wereldwijde storing Crowdstrike](https://www.ncsc.nl/actueel/nieuws/2024/juli/19/wereldwijde-storing) |
 | NL | CSIRT-DSP | NL | |
