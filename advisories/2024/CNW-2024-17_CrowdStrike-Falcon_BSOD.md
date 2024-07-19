@@ -29,9 +29,9 @@
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | [Prva pomoć za ispad uzrokovan CrowdStrike ažuriranjem](https://www.cert.hr/prva-pomoc-za-ispad-uzrokovan-crowdstrike-azuriranjem/) |
-| HU | NCSC-HU | HU | |
+| HU | NCSC-HU | HU | [TÁJÉKOZTATÁS MICROSOFT WINDOWS RENDSZEREKEN TAPASZTALHATÓ RENDSZERINDÍTÁSI HIBÁRÓL](https://nki.gov.hu/figyelmeztetesek/tajekoztatas/tajekoztatas-microsoft-windows-rendszereken-tapasztalhato-rendszerinditasi-hibarol/ ) |
 | IE | CSIRT-IE | EN | [CrowdStrike BSOD Loop Issue [PDF]](https://www.ncsc.gov.ie/pdfs/CrowdStrike_BSOD_Loop_Issue.pdf) |
-| IT | CSIRT-ITA | IT | |
+| IT | CSIRT-ITA | IT | [Problematiche relative ad aggiornamento CrowdStrike (BL01/240719/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/problematiche-relative-ad-aggiornamento-crowdstrike-bl01-240719-csirt-ita) |
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | [TR-87 - CrowdStrike Agent causing BSOD loop on Windows - Faulty Update on Falcon Sensor](https://www.circl.lu/pub/tr-87/) |
 | LV | CERT.lv | LV | [IT darbības traucējumi saistībā ar "CrowdStrike" publicētiem atjauninājumiem Latvijā šobrīd netiek novēroti](https://cert.lv/lv/2024/07/it-darbibas-traucejumi-saistiba-ar-crowdstrike-publicetiem-atjauninajumiem-latvija-sobrid-netiek-noveroti) |
