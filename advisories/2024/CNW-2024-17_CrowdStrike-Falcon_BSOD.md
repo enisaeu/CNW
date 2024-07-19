@@ -5,7 +5,7 @@
 | **Number** | CNW-2024-15 | 
 | **Keywords** | CrowdStrike Falcon Agent | 
 | **CVE** | - | 
-| **Details** | Faulty update for csagent.sys from CrowdStrike is causing blue screen loops (BSOD). As a result businesses and organisations worldwide are experiencing IT problems. |
+| **Details** | Faulty CrowdStrike update is causing blue screen loops (BSOD). The problems caused by the update of the Crowdstrike agent only occur on Windows systems. Linux and Mac systems are not affected. |
 | **Mitigation** | According to CrowdStrike, the faulty channel file 291 has been reverted which may mitigate further expansion. Some systems are rebooting to a normal working state and may automatically pick the new channel file. Loop crashing system might need a manual intervention. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
@@ -39,7 +39,7 @@
 | NL | NCSC-NL | NL | [Update wereldwijde storing Crowdstrike](https://www.ncsc.nl/actueel/nieuws/2024/juli/19/wereldwijde-storing) |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
-| PT | CERT.PT | PT | |
+| PT | CERT.PT | PT | [Falha Crítica - Crowdstrike](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135881/falha-critica-crowdstrike) |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | [Allvarliga störningar i CrowdStrike påverkar många organisationers it-miljöer](https://www.cert.se/2024/07/allvarliga-storningar-i-crowdstrike-paverkar-manga-organisationers-it-miljoer.html) |
 | SI | SI-CERT | SL | |
