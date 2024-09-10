@@ -25,7 +25,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 - [Incident Response](#incident-response)
 - [Industrial Control System / IOT Security](#industrial-control-system--iot-security)
 - [Webserver Security](#webserver-security)
-- [Additional Best-Practices](#additional-best-practices)
+- [Additional Publications](#additional-publications)
 
 ## Vulnerability Handling
 - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
@@ -86,6 +86,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | DE | BSI | DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
 | FR | ANSSI | FR | [Prestataires de service d’informatique en nuage (SecNumCloud)](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/) |
 | FR | ANSSI | FR | [RECOMMANDATIONS POUR L’HÉBERGEMENT DANS LE CLOUD DES SYSTÈMES D’INFORMATION SENSIBLES [PDF]](https://cyber.gouv.fr/sites/default/files/document/recommandations_hebergement_cloud_systemes_information_sensible.pdf) |
+| FR | ANSSI | FR | [Recommendations on hosting sensitive IS in the cloud](https://cyber.gouv.fr/sites/default/files/document/anssi_Recommendations%20on%20hosting%20sensitive%20IS%20in%20the%20cloud.pdf) |
 | EU | ENISA | EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
 | NL | NCSC-NL | EN | [Factscheet 5 recommendations for securely purchasing cloud services (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
@@ -124,9 +125,10 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | HU | NCSC-HU & SeConSys | HU | [Villamosenergetikai ipari felügyeleti rendszerek kiberbiztonsági kézikönyve 2022 [PDF] (3 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/04/SeConSys_online_kezikonyv_2022_FINAL_22-03-03.pdf) |
 | NL | NCSC-NL | NL | [Basis-beveiligingsmaatregelen Slimme Apparaten (IoT) (25 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-beveilig-apparaten-gekoppeld-aan-internet) |
 
-### Additional Best-Practices
+### Additional Publications
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
+| FI | NCSC-FI | EN | [Applying artificial intelligence in cybersecurity [PDF] (13 March 2024)](https://www.kyberturvallisuuskeskus.fi/sites/default/files/media/file/Applying%20AI%20in%20cybersecurity_EN.pdf) |
 | EUI | CERT-EU / ENISA | EN | [Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)](https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience) |
 | EUI | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
 | FI | NCSC-FI | EN | [Keeping your information secure both at home and at work (12 May 2020)](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work) |
