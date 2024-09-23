@@ -1,6 +1,8 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2024-19](2024/CNW-2024-19_Ivanti.md) | 20-09-2024 | CVE-2024-8963, CVE-2024-8190 | Ivanti Cloud Services Appliance Exploitation |
+| [CNW-2024-18](2024/CNW-2024-18_SonicWall.md) | 06-09-2024 | CVE-2024-40766 | SonicOS - Critical improper access control vulnerability |
 | [CNW-2024-17](2024/CNW-2024-17_CrowdStrike-Falcon_BSOD.md) | 19-07-2024 | - | CrowdStrike Falcon Update causing BSOD |
 | [CNW-2024-16](2024/CNW-2024-16_Cisco-Email-GW_SSM-On-Prem.md) | 19-07-2024 | CVE-2024-20401, CVE-2024-20419 | Critical Cisco Secure Email Gateway and SSM On-Prem vulnerabilities |
 | [CNW-2024-15](2024/CNW-2024-15_openssh.md) | 02-07-2024 | CVE-2024-6387 | Critical vulnerability in OpenSSH server |
