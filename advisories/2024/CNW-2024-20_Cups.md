@@ -1,4 +1,4 @@
-# CSIRTs Network - Product (CVE-XXXX-YYYY)
+# CSIRTs Network - CUPS (CVE-2024-47176, CVE-2024-47076, CVE-2024-47175, CVE-2024-47177)
 |   |   |
 |---|---|
 | **Date** | 27-09-2024 |
