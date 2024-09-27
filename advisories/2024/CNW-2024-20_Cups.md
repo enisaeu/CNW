@@ -6,7 +6,7 @@
 | **Keywords** | CUPS, cups-browsed | 
 | **CVE** | [CVE-2024-47176, CVE-2024-47076, CVE-2024-47175, CVE-2024-47177](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/) | 
 | **Details** | Chaining a set of vulnerabilities in multiple components of the CUPS open-source printing system arbitrary code execution can be remotely triggered on vulnerable machines. |
-| **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
+| **Mitigation** | When made available, patches from Linux distributions should be applied without delay. In addition, it is recommended to disable the cups-browsed service where printing is not needed or if patches are not yet available. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
@@ -23,7 +23,7 @@
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
 | ES | INCIBE | ES | [Múltiples vulnerabilidades en OpenPrinting CUPS](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-openprinting-cups) |
-| EU | CERT-EU | EN | |
+| EU | CERT-EU | EN | [Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/) |
 | FI | NCSC-FI | FI | [CUPS-tulostusjärjestelmän haavoittuvuudet mahdollistavat mielivaltaisen koodin suorittamisen](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_23/2024) |
 | FR | CERT-FR | FR | |
 | GR | GR-CSIRT | EL | |
@@ -36,7 +36,7 @@
 | LU | CIRCL | EN | |
 | LV | CERT.lv | LV | |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | |
+| NL | NCSC-NL | NL | [NCSC-2024-0384 Kwetsbaarheden ontdekt in CUPS](https://advisories.ncsc.nl/advisory?id=NCSC-2024-0384) |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | [Podatność w usłudze serwera wydruku CUPS w systemach Linux, *BSD, macOS pozwala na zdalne przejęcie kontroli nad urządzeniem](https://x.com/CERT_Polska/status/1839397252433051901) |
 | PT | CERT.PT | PT | |
