@@ -31,7 +31,7 @@
 | HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | |
 | IE | CSIRT-IE | EN | [Critical Vulnerabilities in Red Hat Enterprise Linux OpenPrinting CUPS [PDF]](https://www.ncsc.gov.ie/pdfs/2409260163_OpenPrinting_CUPS_vulns.pdf) |
-| IT | CSIRT-ITA | IT | |
+| IT | CSIRT-ITA | IT | [OpenPrinting: rilevata vulnerabilità in CUPS (AL01/240927/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/openprinting-rilevata-vulnerabilita-in-cups-al01-240927-csirt-ita) |
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | |
 | LV | CERT.lv | LV | |
