@@ -27,7 +27,7 @@
 | FI | NCSC-FI | FI | [CUPS-tulostusjärjestelmän haavoittuvuudet mahdollistavat mielivaltaisen koodin suorittamisen](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_23/2024) |
 | FR | CERT-FR | FR | |
 | GR | GR-CSIRT | EL | |
-| HR | CERT.hr | HR | |
+| HR | CERT.hr | HR | [Kritične ranjivosti CUPS sustava (Common UNIX Printing System)](https://www.cert.hr/kriticne-ranjivosti-cups-sustava-common-unix-printing-system/) |
 | HR | CERT ZSIS | HR | |
 | HU | NCSC-HU | HU | |
 | IE | CSIRT-IE | EN | [Critical Vulnerabilities in Red Hat Enterprise Linux OpenPrinting CUPS [PDF]](https://www.ncsc.gov.ie/pdfs/2409260163_OpenPrinting_CUPS_vulns.pdf) |
