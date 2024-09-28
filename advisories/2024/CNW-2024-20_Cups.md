@@ -18,7 +18,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [[WID-SEC-2024-2240] CUPS: Mehrere Schwachstellen ermöglichen Ausführung von beliebigem Programmcode](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2240) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
