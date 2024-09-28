@@ -25,7 +25,7 @@
 | ES | INCIBE | ES | [Múltiples vulnerabilidades en OpenPrinting CUPS](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-openprinting-cups) |
 | EU | CERT-EU | EN | [Critical Vulnerabilities in CUPS](https://cert.europa.eu/publications/security-advisories/2024-103/) |
 | FI | NCSC-FI | FI | [CUPS-tulostusjärjestelmän haavoittuvuudet mahdollistavat mielivaltaisen koodin suorittamisen](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_23/2024) |
-| FR | CERT-FR | FR | |
+| FR | CERT-FR | FR | [CERTFR-2024-ALE-012 Vulnérabilités affectant OpenPrinting CUPS](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-012/) |
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | [Kritične ranjivosti CUPS sustava (Common UNIX Printing System)](https://www.cert.hr/kriticne-ranjivosti-cups-sustava-common-unix-printing-system/) |
 | HR | CERT ZSIS | HR | |
