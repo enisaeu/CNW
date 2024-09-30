@@ -33,7 +33,7 @@
 | IE | CSIRT-IE | EN | [Critical Vulnerabilities in Red Hat Enterprise Linux OpenPrinting CUPS [PDF]](https://www.ncsc.gov.ie/pdfs/2409260163_OpenPrinting_CUPS_vulns.pdf) |
 | IT | CSIRT-ITA | IT | [OpenPrinting: rilevata vulnerabilità in CUPS (AL01/240927/CSIRT-ITA)](https://www.csirt.gov.it/contenuti/openprinting-rilevata-vulnerabilita-in-cups-al01-240927-csirt-ita) |
 | LT | CERT-LT | LT | |
-| LU | CIRCL | EN | |
+| LU | CIRCL | EN | [CUPS Vulnerabilities - 2024](https://vulnerability.circl.lu/bundle/19c15eba-7fb7-4f1e-8fdd-f5871d05e797) |
 | LV | CERT.lv | LV | |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [NCSC-2024-0384 Kwetsbaarheden ontdekt in CUPS](https://advisories.ncsc.nl/advisory?id=NCSC-2024-0384) |
