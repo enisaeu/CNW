@@ -18,7 +18,7 @@
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
 | CY | CSIRT-CY | EN | |
-| DE | CERT-Bund | DE | |
+| DE | CERT-Bund | DE | [Fortinet FortiManager: Schwachstelle ermöglicht Codeausführung](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3260) |
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
@@ -29,11 +29,11 @@
 | GR | GR-CSIRT | EL | |
 | HR | CERT.hr | HR | |
 | HR | CERT ZSIS | HR | |
-| HU | NCSC-HU | HU | |
+| HU | NCSC-HU | HU | [CVE-2024-47575](https://cve.cert.hr/cve/CVE-2024-47575) |
 | IE | CSIRT-IE | EN | [Critical Vulnerability in Fortinet FortiManager [PDF]](https://www.ncsc.gov.ie/pdfs/2410170128_Critical_Vuln_Fortinet_FortiManager.pdf) |
 | IT | CSIRT-ITA | IT | |
 | LT | CERT-LT | LT | |
-| LU | CIRCL | EN | |
+| LU | CIRCL | EN | [CVE-2024-47575](https://vulnerability.circl.lu/vuln/CVE-2024-47575) |
 | LV | CERT.lv | LV | |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | |
