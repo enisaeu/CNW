@@ -12,7 +12,7 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT.at | DE | |
+| AT | CERT.at | DE | [Kritische Zero-Day Schwachstelle in FortiManager wird aktiv ausgenutzt - Update verfügbar](https://www.cert.at/de/warnungen/2024/10/kritische-zero-day-schwachstelle-in-fortimanager-wird-aktiv-ausgenutzt-update-verfugbar) |
 | BE | CERT.be | EN | |
 | BG | CERT Bulgaria | BG | |
 | CZ | CSIRT.CZ | CS | |
