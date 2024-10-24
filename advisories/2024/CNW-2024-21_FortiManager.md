@@ -22,7 +22,7 @@
 | DK | CFCS | DA | |
 | EE | CERT-EE | EE | |
 | ES | CCN-CERT | ES | |
-| ES | INCIBE | ES | |
+| ES | INCIBE | ES | [Vulnerabilidad 0day de ejecución de código remoto en FortiManager de Fortinet](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/vulnerabilidad-0day-de-ejecucion-de-codigo-remoto-en-fortimanager-de-fortinet) |
 | EU | CERT-EU | EN | [Critical 0-day Vulnerability in Fortinet FortiManager](https://www.cert.europa.eu/publications/security-advisories/2024-113/) |
 | FI | NCSC-FI | FI | [Fortinetin FortiManager-tuotteessa kriittinen haavoittuvuus](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_25/2024) |
 | FR | CERT-FR | FR | |
