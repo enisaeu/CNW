@@ -32,7 +32,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 - [Vulnerability Scanning](#vulnerability-scanning)
 
 ## CNW Member Advisories
-- [CNW Member Advisories](#cnw-member-advisories-1)
+- [CNW Member Advisories](#cnw-member-warning-and-advisories-1)
 
 ## CNW Member Repositories
 - [CNW Member Repositories](#cnw-member-repositories-1)
@@ -162,7 +162,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | DE | BSI | DE | [Schwachstellen-Analyse in Netzen unter Einsatz von OpenVAS [PDF]](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_007.pdf?__blob=publicationFile&v=1) |
 | PL | CERT-PL | EN | [Artemis vulnerability scanner is now open source](https://cert.pl/en/posts/2023/02/artemis-open-source/) |
 
-## CNW Member Warnings & Advisories
+## CNW Member Warnings and Advisories
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
