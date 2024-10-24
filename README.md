@@ -32,7 +32,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 - [Vulnerability Scanning](#vulnerability-scanning)
 
 ## CNW Member Warnings and Advisories
-- [CNW Member Advisories](#cnw-member-warnings-and-advisories)
+- [CNW Member Advisories](#cnw-member-warnings-and-advisories-1)
 
 ## CNW Member Repositories
 - [CNW Member Repositories](#cnw-member-repositories-1)
