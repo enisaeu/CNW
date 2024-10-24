@@ -25,13 +25,13 @@
 | ES | INCIBE | ES | [Vulnerabilidad 0day de ejecución de código remoto en FortiManager de Fortinet](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/vulnerabilidad-0day-de-ejecucion-de-codigo-remoto-en-fortimanager-de-fortinet) |
 | EU | CERT-EU | EN | [Critical 0-day Vulnerability in Fortinet FortiManager](https://www.cert.europa.eu/publications/security-advisories/2024-113/) |
 | FI | NCSC-FI | FI | [Fortinetin FortiManager-tuotteessa kriittinen haavoittuvuus](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_25/2024) |
-| FR | CERT-FR | FR | |
+| FR | CERT-FR | FR | [Vulnérabilité dans Fortinet FortiManager](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/) |
 | GR | GR-CSIRT | EL | |
-| HR | CERT.hr | HR | |
-| HR | CERT ZSIS | HR | |
-| HU | NCSC-HU | HU | [CVE-2024-47575](https://cve.cert.hr/cve/CVE-2024-47575) |
+| HR | CERT.hr | HR | [CVE-2024-47575](https://cve.cert.hr/cve/CVE-2024-47575) |
+| HR | CERT ZSIS | HR | [Kritična ranjivost nultog dana u Fortinet FortiManageru](https://www.zsis.hr/default.aspx?id=629) |
+| HU | NCSC-HU | HU | |
 | IE | CSIRT-IE | EN | [Critical Vulnerability in Fortinet FortiManager [PDF]](https://www.ncsc.gov.ie/pdfs/2410170128_Critical_Vuln_Fortinet_FortiManager.pdf) |
-| IT | CSIRT-ITA | IT | |
+| IT | CSIRT-ITA | IT | [Fortinet: rilevato sfruttamento in rete della CVE-2024-47575](https://www.csirt.gov.it/contenuti/fortinet-rilevato-sfruttamento-in-rete-della-cve-2024-47575-al01-241024-csirt-ita) |
 | LT | CERT-LT | LT | |
 | LU | CIRCL | EN | [CVE-2024-47575](https://vulnerability.circl.lu/vuln/CVE-2024-47575) |
 | LV | CERT.lv | LV | |
