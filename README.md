@@ -162,23 +162,43 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | DE | BSI | DE | [Schwachstellen-Analyse in Netzen unter Einsatz von OpenVAS [PDF]](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_007.pdf?__blob=publicationFile&v=1) |
 | PL | CERT-PL | EN | [Artemis vulnerability scanner is now open source](https://cert.pl/en/posts/2023/02/artemis-open-source/) |
 
-## CNW Member Advisories
+## CNW Member Warnings & Advisories
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
 | AT | CERT-AT | DE | [CERT-AT Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
-| BE | CERT.be | FR | [CERT.be Advisories (RSS)](https://www.cert.be/fr/rss) |
+| BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
+| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
+| CZ | CERT.cz | CZ | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
+| CZ | GovCERT.CZ | CZ | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
 | DE | CERT-Bund | DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
-| ES | CCN-CERT | ES | [Avisos CCN-CERT ](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert.html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) & [Avisos SCI](https://www.incibe-cert.es/alerta-temprana/avisos-sci) |
+| DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
+| EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
+| ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
+| ES | CCN-CERT | ES | [Avisos CCN-CERT](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert.html) |
+| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
+| ES | INCIBE-CERT | ES | [Avisos SCI](https://www.incibe-cert.es/alerta-temprana/avisos-sci) |
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet?limit=20&offset=0&query=&sort=updated) |
+| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
+| FI | NCSC-FI | EN | [Alerts](https://www.kyberturvallisuuskeskus.fi/en/varoitukset) |
+| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
 | FR | CERT-FR | FR | [Avis de sécurité](https://www.cert.ssi.gouv.fr/avis/) |
-| HR | CERT.hr | HR | [CERT.hr - Novosti](https://www.cert.hr/novosti/) |
+| GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
+| HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
+| HR | ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
+| HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
+| IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
 | IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
+| LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
+| LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
+| LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
+| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
-| RO | DNSC | RO | [CERT-RO ALERTĂ (RSS)](https://dnsc.ro/feed) |
+| RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
+| SE | CERT-SE | SE | [Nyheter](https://www.cert.se/nyheter/) |
+| SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
+| SI | SI-CERT | SI | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 
 ## CNW Member Repositories
 | Country | Organisation | Language | Material |
