@@ -31,8 +31,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
 - [Vulnerability Scanning](#vulnerability-scanning)
 
-## CNW Member Advisories
-- [CNW Member Advisories](#cnw-member-warning-and-advisories-1)
+## CNW Member Warnings and Advisories
+- [CNW Member Advisories](#cnw-member-warnings-and-advisories)
 
 ## CNW Member Repositories
 - [CNW Member Repositories](#cnw-member-repositories-1)
