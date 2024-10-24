@@ -13,7 +13,7 @@
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT.at | DE | [Kritische Zero-Day Schwachstelle in FortiManager wird aktiv ausgenutzt - Update verfügbar](https://www.cert.at/de/warnungen/2024/10/kritische-zero-day-schwachstelle-in-fortimanager-wird-aktiv-ausgenutzt-update-verfugbar) |
-| BE | CERT.be | EN | |
+| BE | CERT.be | EN | [MISSING AUTHENTICATION IN FORTIMANAGER IS BEING EXPLOITED FOR ARBITRARY CODE EXECUTION, PATCH IMMEDIATELY!](https://cert.be/en/advisory/warning-missing-authentication-fortimanager-being-exploited-arbitrary-code-execution-patch) |
 | BG | CERT Bulgaria | BG | |
 | CZ | CSIRT.CZ | CS | |
 | CZ | GovCERT.CZ | CS | |
