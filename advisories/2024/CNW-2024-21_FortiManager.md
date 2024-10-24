@@ -5,7 +5,7 @@
 | **Number** | CNW-2024-21 | 
 | **Keywords** | FortiManager | 
 | **CVE** | [CVE-2024-47575](https://www.fortiguard.com/psirt/FG-IR-24-423) | 
-| **Details** | [Exploited in the wild](https://cloud.google.com/blog/topics/threat-intelligence/fortimanager-zero-day-exploitation-cve-2024-47575), missing authentication for critical function vulnerability in FortiManager fgfmd daemon may allows remote unauthenticated attackers to execute arbitrary code or commands via specially crafted requests. |
+| **Details** | [Exploited in the wild](https://cloud.google.com/blog/topics/threat-intelligence/fortimanager-zero-day-exploitation-cve-2024-47575), a missing authentication for critical function vulnerability in the FortiManager fgfmd daemon may allow remote unauthenticated attackers to execute arbitrary code or commands via specially crafted requests. |
 | **Mitigation** | Users are strongly recommended to apply the available updates. When not possible, it is recommended to apply the workarounds and search for evidence of a potential compromise. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
