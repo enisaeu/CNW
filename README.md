@@ -169,8 +169,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | AT | CERT-AT | DE | [CERT-AT Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
 | BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
-| CZ | CERT.cz | CZ | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
-| CZ | GovCERT.CZ | CZ | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
+| CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
+| CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
 | DE | CERT-Bund | DE | [WID - Aktuelle Sicherheitshinweise](https://wid.cert-bund.de/portal/wid/kurzinformationen) |
 | DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
@@ -196,9 +196,9 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SE | [Nyheter](https://www.cert.se/nyheter/) |
+| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
-| SI | SI-CERT | SI | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
+| SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 
 ## CNW Member Repositories
 | Country | Organisation | Language | Material |
