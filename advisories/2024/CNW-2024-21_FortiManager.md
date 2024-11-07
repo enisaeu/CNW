@@ -39,7 +39,7 @@
 | NL | NCSC-NL | NL | |
 | NL | CSIRT-DSP | NL | |
 | PL | CERT.PL | PL | |
-| PT | CERT.PT | PT | |
+| PT | CERT.PT | PT | [Alerta de Vulnerabilidades - FortiManager](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135895/alerta-de-vulnerabilidades-fortimanager) |
 | RO | CERT-RO | RO | |
 | SE | CERT-SE | SV | |
 | SI | SI-CERT | SL | |
