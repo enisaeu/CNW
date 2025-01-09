@@ -30,7 +30,7 @@
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [09-01-2025 Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)]([https://www.ncsc.gov.ie/news/](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
+| IE | NCSC-IE | EN | [Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
 | IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
