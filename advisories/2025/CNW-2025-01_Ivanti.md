@@ -18,16 +18,16 @@
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
-| DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
+| DE | BSI | DE | [Ivanti Connect Secure: Zero-Day Angriffe beobachtet](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-213156-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [Critical Vulnerabilities in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2025-001/) |
+| ES | INCIBE-CERT | ES | [Múltiples vulnerabilidades en productos de Ivanti](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-ivanti-1) |
+| EUI | CERT-EU | EN | [**Critical Vulnerabilities in Ivanti Products**](https://cert.europa.eu/publications/security-advisories/2025-001/) |
 | FI | NCSC-FI | FI | [Ivanti Connect Secure -haavoittuvuuden hyväksikäyttöä havaittu](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_2/2025) |
 | FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
-| HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
+| HR | CERT.hr | HR | [CVE-2025-0282](https://cve.cert.hr/cve/CVE-2025-0282) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
 | IE | NCSC-IE | EN | [Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
