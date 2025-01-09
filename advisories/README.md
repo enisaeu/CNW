@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2025-01](2025/CNW-2025-01_Ivanti.md) | 09-01-2025 | CVE-2025-0282, CVE-2025-0283 | Ivanti Connect Secure Vulnerability Exploitation |
 | [CNW-2024-21](2024/CNW-2024-21_FortiManager.md) | 24-10-2024 | CVE-2024-47575 | FortiManager Zero-Day Exploitation |
 | [CNW-2024-20](2024/CNW-2024-20_Cups.md) | 27-09-2024 | CVE-2024-47176, CVE-2024-47076, CVE-2024-47175, CVE-2024-47177 | Critical CUPS vulnerability affecting Unix systems |
 | [CNW-2024-19](2024/CNW-2024-19_Ivanti.md) | 20-09-2024 | CVE-2024-8963, CVE-2024-8190 | Ivanti Cloud Services Appliance Exploitation |
