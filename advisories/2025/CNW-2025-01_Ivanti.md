@@ -23,14 +23,14 @@
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
+| EUI | CERT-EU | EN | [Critical Vulnerabilities in Ivanti Products](https://cert.europa.eu/publications/security-advisories/2025-001/) |
 | FI | NCSC-FI | FI | [Ivanti Connect Secure -haavoittuvuuden hyväksikäyttöä havaittu](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_2/2025) |
 | FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [09-01-2025 Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)]([https://www.ncsc.gov.ie/news/](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf)) |
+| IE | NCSC-IE | EN | [09-01-2025 Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)]([https://www.ncsc.gov.ie/news/](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
 | IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
