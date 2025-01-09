@@ -21,7 +21,7 @@
 | DE | BSI | DE | [**Ivanti Connect Secure: Zero-Day Angriffe beobachtet**](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-213156-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
-| ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
+| ES | CCN-CERT | ES | [**CCN-CERT AL 01/25 Explotación activa de vulnerabilidad de productos de Ivanti**](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13038-ccn-cert-al-01-25-explotacion-activa-de-vulnerabilidad-de-productos-de-ivanti.html) |
 | ES | INCIBE-CERT | ES | [**Múltiples vulnerabilidades en productos de Ivanti**](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-ivanti-1) |
 | EUI | CERT-EU | EN | [**Critical Vulnerabilities in Ivanti Products**](https://cert.europa.eu/publications/security-advisories/2025-001/) |
 | FI | NCSC-FI | FI | [**Ivanti Connect Secure -haavoittuvuuden hyväksikäyttöä havaittu**](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_2/2025) |
