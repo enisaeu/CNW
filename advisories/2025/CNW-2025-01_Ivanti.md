@@ -5,8 +5,8 @@
 | **Number** | CNW-2025-01 | 
 | **Keywords** | Ivanti Connect Secure, Policy Secure & ZTA Gateways | 
 | **CVE** | [CVE-2025-0282, CVE-2025-0283](https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283?language=en_US) | 
-| **Details** | Short description of confirmed details related to the event |
-| **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
+| **Details** | Ivanti disclosed two vulnerabilities, CVE-2025-0282 and CVE-2025-0283, impacting Ivanti Connect Secure VPN appliances. [Mandiant has identified zero-day exploitation of CVE-2025-0282 in the wild beginning mid-December 2024](https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day). CVE-2025-0282 is an unauthenticated stack-based buffer overflow. Successful exploitation could result in unauthenticated remote code execution, leading to potential downstream compromise of a victim network, according to Mandiant. |
+| **Mitigation** | For additional details please refer to vendor advisory and the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
@@ -36,8 +36,8 @@
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
+| NL | NCSC-NL | NL | [Kwetsbaarheden verholpen in Ivanti Connect Secure en Policy Secure](https://advisories.ncsc.nl/advisory?id=NCSC-2025-0005) |
+| PL | CERT-PL | PL | [Kategoria CVE](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
 | SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
