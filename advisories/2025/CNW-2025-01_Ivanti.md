@@ -25,13 +25,13 @@
 | ES | INCIBE-CERT | ES | [**Múltiples vulnerabilidades en productos de Ivanti**](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-ivanti-1) |
 | EUI | CERT-EU | EN | [**Critical Vulnerabilities in Ivanti Products**](https://cert.europa.eu/publications/security-advisories/2025-001/) |
 | FI | NCSC-FI | FI | [**Ivanti Connect Secure -haavoittuvuuden hyväksikäyttöä havaittu**](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_2/2025) |
-| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
+| FR | CERT-FR | FR | CERTFR-2025-ALE-001 -	Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-001/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [**CVE-2025-0282**](https://cve.cert.hr/cve/CVE-2025-0282) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
 | IE | NCSC-IE | EN | [**Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)**](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
-| IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
+| IT | CERT Italia | IT | [**Ivanti: rilasciati aggiornamenti di sicurezza**](https://www.acn.gov.it/portale/w/ivanti-rilasciati-aggiornamenti-di-sicurezza) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
@@ -40,7 +40,7 @@
 | PL | CERT-PL | PL | [Kategoria CVE](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
+| SE | CERT-SE | SV | [**Kritisk sårbarhet i Ivanti Connect Secure, Policy Secure och ZTA Gateways**](https://www.cert.se/2025/01/kritisk-sarbarhet-ivanti-connect-secure-policy-secure-och-zta-gateways.html) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
 
