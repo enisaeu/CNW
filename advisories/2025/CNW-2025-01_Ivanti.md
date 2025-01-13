@@ -1,11 +1,11 @@
 # CSIRTs Network - Ivanti Connect Secure Vulnerability Exploitation (CVE-2025-0282)
 |   |   |
 |---|---|
-| **Date** | 09-01-2025 |
+| **Date** | 09-01-2025 (updated 13-01-2025) |
 | **Number** | CNW-2025-01 | 
 | **Keywords** | Ivanti Connect Secure, Policy Secure & ZTA Gateways | 
 | **CVE** | [CVE-2025-0282, CVE-2025-0283](https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-0282-CVE-2025-0283?language=en_US) | 
-| **Details** | Ivanti disclosed two vulnerabilities, CVE-2025-0282 and CVE-2025-0283, impacting Ivanti Connect Secure VPN appliances. [Mandiant has identified zero-day exploitation of CVE-2025-0282 in the wild beginning mid-December 2024](https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day). CVE-2025-0282 is an unauthenticated stack-based buffer overflow. Successful exploitation could result in unauthenticated remote code execution, leading to potential downstream compromise of a victim network, according to Mandiant. |
+| **Details** | Two vulnerabilities are impacting Ivanti Connect Secure VPN appliances. Zero-day exploitation of CVE-2025-0282, an unauthenticated stack-based buffer overflow vulnerability, was detected in the wild by mid-December 2024, [according to Mandiant](https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day). Successful exploitation can result in unauthenticated remote code execution, leading to potential downstream compromise of a victim network. |
 | **Mitigation** | For additional details please refer to vendor advisory and the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
@@ -28,7 +28,7 @@
 | FR | CERT-FR | FR | CERTFR-2025-ALE-001 -	Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-001/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [**CVE-2025-0282**](https://cve.cert.hr/cve/CVE-2025-0282) |
-| HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
+| HR | CERT ZSIS | HR | [Ivanti upozorava na kritične ranjivosti](https://www.cert.hr/ivanti-upozorava-na-kriticne-ranjivosti/) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
 | IE | NCSC-IE | EN | [**Critical Vulnerabilities in Ivanti Connect Secure, Policy Secure & ZTA Gateways (PDF)**](https://www.ncsc.gov.ie/pdfs/2501080153_Vulns_Ivanti_Products.pdf) |
 | IT | CERT Italia | IT | [**Ivanti: rilasciati aggiornamenti di sicurezza**](https://www.acn.gov.it/portale/w/ivanti-rilasciati-aggiornamenti-di-sicurezza) |
