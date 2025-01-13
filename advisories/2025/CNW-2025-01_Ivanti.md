@@ -25,7 +25,7 @@
 | ES | INCIBE-CERT | ES | [**Múltiples vulnerabilidades en productos de Ivanti**](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-ivanti-1) |
 | EUI | CERT-EU | EN | [**Critical Vulnerabilities in Ivanti Products**](https://cert.europa.eu/publications/security-advisories/2025-001/) |
 | FI | NCSC-FI | FI | [**Ivanti Connect Secure -haavoittuvuuden hyväksikäyttöä havaittu**](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_2/2025) |
-| FR | CERT-FR | FR | CERTFR-2025-ALE-001 -	Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-001/) |
+| FR | CERT-FR | FR | [CERTFR-2025-ALE-001 -	Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-001/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [**CVE-2025-0282**](https://cve.cert.hr/cve/CVE-2025-0282) |
 | HR | CERT ZSIS | HR | [Ivanti upozorava na kritične ranjivosti](https://www.cert.hr/ivanti-upozorava-na-kriticne-ranjivosti/) |
