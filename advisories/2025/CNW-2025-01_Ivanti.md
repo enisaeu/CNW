@@ -14,7 +14,7 @@
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
-| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
+| BE | CERT.be | EN | [**Critical and high Buffer Overflow in ivanti connect secure and policy secure and neurons, Patch Immediately**](https://cert.be/en/advisory/warning-critical-and-high-buffer-overflow-ivanti-connect-secure-and-policy-secure-and) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
