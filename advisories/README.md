@@ -1,6 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2025-02](2025/CNW-2025-02_Fortinet.md) | 14-01-2025 | CVE-2024-55591 | Critical Vulnerability in Fortinet affecting FortiOS and FortiProxy |
 | [CNW-2025-01](2025/CNW-2025-01_Ivanti.md) | 09-01-2025 | CVE-2025-0282, CVE-2025-0283 | Ivanti Connect Secure Vulnerability Exploitation |
 | [CNW-2024-21](2024/CNW-2024-21_FortiManager.md) | 24-10-2024 | CVE-2024-47575 | FortiManager Zero-Day Exploitation |
 | [CNW-2024-20](2024/CNW-2024-20_Cups.md) | 27-09-2024 | CVE-2024-47176, CVE-2024-47076, CVE-2024-47175, CVE-2024-47177 | Critical CUPS vulnerability affecting Unix systems |
