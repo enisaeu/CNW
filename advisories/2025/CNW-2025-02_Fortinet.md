@@ -5,8 +5,7 @@
 | **Number** | CNW-2025-02 | 
 | **Keywords** | Fortinet FortiOS and FortiProxy | 
 | **CVE** | [CVE-2024-55591](https://fortiguard.fortinet.com/psirt/FG-IR-24-535) | 
-| **Details** | An authentication bypass using an alternate path or channel vulnerability affects FortiOS version 7.0 and FortiProxy version 7.0 and 7.2 allows remote attackers to gain super-admin privileges
-via crafted requests sent to the Node.js websocket module currently exploited in the wild. |
+| **Details** | An authentication bypass using an alternate path or channel vulnerability affects FortiOS version 7.0 and FortiProxy version 7.0 and 7.2 allows remote attackers to gain super-admin privileges via crafted requests sent to the Node.js websocket module currently exploited in the wild. |
 | **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
