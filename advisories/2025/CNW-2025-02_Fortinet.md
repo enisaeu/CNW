@@ -1,12 +1,12 @@
-# CSIRTs Network - Fortinet FortiOS and FortiProxy exploited in the wild (CVE-2024-55591)
+# CSIRTs Network - Fortinet FortiOS and FortiProxy exploitation (CVE-2024-55591)
 |   |   |
 |---|---|
 | **Date** | 14-01-2025 |
 | **Number** | CNW-2025-02 | 
 | **Keywords** | Fortinet FortiOS and FortiProxy | 
 | **CVE** | [CVE-2024-55591](https://fortiguard.fortinet.com/psirt/FG-IR-24-535) | 
-| **Details** | An authentication bypass using an alternate path or channel vulnerability affects FortiOS version 7.0 and FortiProxy version 7.0 and 7.2 allows remote attackers to gain super-admin privileges via crafted requests sent to the Node.js websocket module currently exploited in the wild. |
-| **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
+| **Details** | An authentication bypass using an alternate path or channel vulnerability affecting FortiOS version 7.0 and FortiProxy version 7.0 and 7.2 allows remote attackers to gain super-admin privileges via crafted requests sent to the Node.js websocket module. The vulnerability is reportedly used as an initial attack vector for ransomware attacks. Details on the vulnerability and IOCs can also be found in a [blog](https://arcticwolf.com/resources/blog/console-chaos-targets-fortinet-fortigate-firewalls/). |
+| **Mitigation** | Companies and organisations using an outdated version of FortiOS/FortiProxy are strongly advised to apply the available security updates, restrict access to the management interfaces and forensically examine affected systems. For information on the recommended measures, please refer to the [manufacturer's advisory](https://fortiguard.fortinet.com/psirt/FG-IR-24-535). For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
