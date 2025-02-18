@@ -14,7 +14,7 @@
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [**Ransomware nutzt Sicherheitslücke in FortiOS/FortiProxy Management-Interfaces**](https://www.cert.at/de/aktuelles/2025/2/ransomware-nutzt-sicherheitslucke-in-fortiosfortiproxy-management-interfaces) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
-| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
+| BE | CERT.be | EN | [**FORTINET PATCHED CRITICAL VULNERABILITIES, ONE OF WHICH IS ALREADY BEING ACTIVELY EXPLOITED, PATCH IMMEDIATELY!**](https://cert.be/en/advisory/warning-fortinet-patched-critical-vulnerabilities-one-which-already-being-actively) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
