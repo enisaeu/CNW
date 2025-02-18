@@ -2,7 +2,7 @@
 |   |   |
 |---|---|
 | **Date** | 19-07-2024 |
-| **Number** | CNW-2024-15 | 
+| **Number** | CNW-2024-17 | 
 | **Keywords** | CrowdStrike Falcon | 
 | **CVE** | - | 
 | **Details** | Faulty CrowdStrike update causing blue screen loops worldwide (BSOD). The problems caused by the update of the Crowdstrike agent only occur on Windows systems. Linux and Mac systems are not affected. |
