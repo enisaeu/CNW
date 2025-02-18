@@ -21,9 +21,9 @@
 | DE | BSI | DE | [**CSW-Nr. 2025-213432-1032 - Fortinet FortiOS und FortiProxy: Aktive Ausnutzung einer Zero-Day Schwachstelle**](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-213432-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
-| ES | CCN-CERT | ES | [**Múltiples vulnerabilidades en productos Fortinet**](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-fortinet-1) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
+| ES | CCN-CERT | ES | [**CCN-CERT AL 03/25 Vulnerabilidad crítica en FortiOS y FortiProxy**](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13042-ccn-cert-al-03-25-vulnerabilidad-critica-en-fortios-y-fortiproxy.html)|
+| ES | INCIBE-CERT | ES | [**Múltiples vulnerabilidades en productos Fortinet**](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-fortinet-1) |
+| EUI | CERT-EU | EN | [**Critical Vulnerabilities in Fortinet Products**](https://cert.europa.eu/publications/security-advisories/2025-003/) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
 | FR | CERT-FR | FR | [**CERTFR-2025-ALE-002 - Vulnérabilité dans les produits Fortinet**](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-002/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
@@ -40,7 +40,7 @@
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [**ALERTĂ: Vulnerabilități critice de securitate cibernetică identificate la nivelul unor produse Fortinet**](https://dnsc.ro/citeste/alerta-vulnerabilitati-critice-de-securitate-cibernetica-identificate-la-nivelul-unor-produse-fortinet) |
-| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
+| SE | CERT-SE | SV | [**Kritisk sårbarhet i FortiOS utnyttjas aktivt Sårbarhet Fortinet FortiOS**](https://www.cert.se/2025/01/Kritisk-sarbarhet-i-FortiOS-utnyttjas-aktivt.html) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
 
