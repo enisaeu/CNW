@@ -12,7 +12,7 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
+| AT | CERT-AT | DE | [**Ransomware nutzt Sicherheitslücke in FortiOS/FortiProxy Management-Interfaces**](https://www.cert.at/de/aktuelles/2025/2/ransomware-nutzt-sicherheitslucke-in-fortiosfortiproxy-management-interfaces) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
 | BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
