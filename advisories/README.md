@@ -1,7 +1,7 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
-| [CNW-2025-04](2025/CNW-2025-01_IvantiConnect-Secure.md) | 03-04-2025 | CVE-2025-22457 | Ivanti Connect Secure, Policy Secure & ZTA Gateways |
+| [CNW-2025-04](2025/CNW-2025-04_IvantiConnect-Secure.md) | 03-04-2025 | CVE-2025-22457 | Ivanti Connect Secure, Policy Secure & ZTA Gateways |
 | [CNW-2025-03](2025/CNW-2025-03_Wiz.md) | 25-03-2025 | CVE-2025-1974 | IngressNightmare: 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX |
 | [CNW-2025-02](2025/CNW-2025-02_Fortinet.md) | 14-01-2025 | CVE-2024-55591 | Critical Vulnerability in Fortinet affecting FortiOS and FortiProxy |
 | [CNW-2025-01](2025/CNW-2025-01_Ivanti.md) | 09-01-2025 | CVE-2025-0282, CVE-2025-0283 | Ivanti Connect Secure Vulnerability Exploitation |
