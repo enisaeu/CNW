@@ -1,4 +1,4 @@
-# CSIRTs Network - Product (CVE-2025-22457)
+# CSIRTs Network - Ivanti Connect Secure, Policy Secure & ZTA Gateways (CVE-2025-22457)
 |   |   |
 |---|---|
 | **Date** | 03-04-2025 |
