@@ -5,7 +5,7 @@
 | **Number** | CNW-2025-04 | 
 | **Keywords** | Pulse Connect Secure, Ivanti Connect Secure, Policy Secure and Neurons for ZTA gateways | 
 | **CVE** | [CVE-2025-22457](https://www.ivanti.com/blog/security-update-pulse-connect-secure-ivanti-connect-secure-policy-secure-and-neurons-for-zta-gateways) | 
-| **Details** | A stack-based buffer overflow in Ivanti Connect Secure before version 22.7R2.6, Ivanti Policy Secure before version 22.7R1.4, and Ivanti ZTA Gateways before version 22.8R2.2 allows a remote unauthenticated attacker to achieve remote code execution. [read the relevant security advisory](https://forums.ivanti.com/s/article/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457?language=en_US)  |
+| **Details** | A stack-based buffer overflow in Ivanti Connect Secure before version 22.7R2.6, Ivanti Policy Secure before version 22.7R1.4, and Ivanti ZTA Gateways before version 22.8R2.2 allows a remote unauthenticated attacker to achieve remote code execution. Additional details are available [via the vendor's security advisory](https://forums.ivanti.com/s/article/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457?language=en_US). |
 | **Mitigation** | Customers are suffering a significantly reduced risk from this vulnerability if they are running their appliances on a supported version and on the latest version. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
