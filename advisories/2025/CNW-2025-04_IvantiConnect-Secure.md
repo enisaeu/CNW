@@ -4,7 +4,7 @@
 | **Date** | 03-04-2025 |
 | **Number** | CNW-2025-04 | 
 | **Keywords** | Pulse Connect Secure, Ivanti Connect Secure, Policy Secure and Neurons for ZTA gateways | 
-| **CVE** | [CVE-2025-22457)](https://www.ivanti.com/blog/security-update-pulse-connect-secure-ivanti-connect-secure-policy-secure-and-neurons-for-zta-gateways) | 
+| **CVE** | [CVE-2025-22457](https://www.ivanti.com/blog/security-update-pulse-connect-secure-ivanti-connect-secure-policy-secure-and-neurons-for-zta-gateways) | 
 | **Details** | A stack-based buffer overflow in Ivanti Connect Secure before version 22.7R2.6, Ivanti Policy Secure before version 22.7R1.4, and Ivanti ZTA Gateways before version 22.8R2.2 allows a remote unauthenticated attacker to achieve remote code execution. [read the relevant security advisory](https://forums.ivanti.com/s/article/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457?language=en_US)  |
 | **Mitigation** | Customers have a significantly reduced risk from this vulnerability if they are running appliances on supported versions and in accordance with Ivanti's guidance:  Ivanti always encourages customers to remain on the latest version of a solution so they can benefit from important security and product enhancements. For additional details please refer to the specific CNW member advisories referenced below." |
 
@@ -14,7 +14,7 @@
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
-| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
+| BE | CERT.be | EN | [Warning: Actively Exploited Critical Remote Code Execution vulnerability in Ivanti Products, Patch Immediately!](https://cert.be/en/advisories-0](https://ccb.belgium.be/advisories/warning-actively-exploited-critical-remote-code-execution-vulnerability-ivanti-products) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
