@@ -18,7 +18,7 @@
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
-| DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
+| DE | BSI | DE | [Ivanti Connect Secure: Kritische Schwachstelle in End-of-Support und ungepatchten Systemen ausgenutzt](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-238620-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Explotación activa de vulnerabilidad crítica en producto de Ivanti](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13066-ccn-cert-al-04-25-explotacion-activa-de-vulnerabilidad-critica-en-producto-de-ivanti.html) |
@@ -28,7 +28,7 @@
 | FR | CERT-FR | FR | [[MàJ] Vulnérabilité dans les produits Ivanti](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
-| HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
+| HR | CERT ZSIS | HR | [Security announcement for CVE-2025-224](https://cve.cert.hr/cve/CVE-2025-22457) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
 | IE | NCSC-IE | EN | [Critical Vulnerabilities in Ivanti: ZTA Gateways, Connect Secure, and Policy Secure](https://www.ncsc.gov.ie/pdfs/2504040119_Critical_Vulnerabilities_in_Ivanti.pdf) |
 | IT | CERT Italia | IT | [Ivanti: rilevato sfruttamento attivo della CVE-2025-22457](https://www.acn.gov.it/portale/w/ivanti-rilevato-sfruttamento-attivo-della-cve-2025-22457) |
