@@ -1,14 +1,17 @@
 # CSIRTs Network - Log4Shell Cooperation
 
-## CSIRTs Network supported Log4Shell information hub:
+|   |   |
+|---|---|
+| **Date** | 13-12-2021 |
+| **Number** | CNW-2021-01 |
+| **CVE** | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228), [CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046), [CVE-2021-4104](https://www.cve.org/CVERecord?id=CVE-2021-4104), [CVE-2021-45105](https://www.cve.org/CVERecord?id=CVE-2021-45105) |
+| **Details** | The vulnerability, catalogued as CVE-2021-44228, is an unauthenticated Remote Code Execution (RCE) vulnerability in the widely used Log4j framework. This vulnerability also has an impact on default configurations of multiple Apache frameworks, including Apache Struts2, Apache Solr, Apache Druid, Apache Flink, etc. |
 
-CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more: 
-https://github.com/NCSC-NL/log4shell
 
 ## List of CSIRTs Network member alerts:
 
 | Country | Organisation | Language | Warning |
-| :-----: | :----------: | :------: | :------ | 
+| :-----: | :----------: | :------: | :------ |
 | AT | CERT.at | DE | <a href="https://cert.at/de/warnungen/2021/12/kritische-0-day-sicherheitslucke-in-apache-log4j-bibliothek">Kritische 0-day Sicherheitslücke in Apache Log4j Bibliothek - Updates und Workarounds verfügbar</a> |
 | BE | CERT.be | EN | <a href="https://www.cert.be/nl/warning-active-exploitation-0-day-rce-log4j">Warning : Active exploitation of a 0-day RCE in Log4j</a> |
 | BG | CERT Bulgaria | BG | <a href="https://www.govcert.bg/BG/NAW/Pages/Анализ-на-уязвимостта---CVE-2021-44228-–-Apache-Log4j-2.aspx">Анализ на уязвимостта - CVE-2021-44228 (Log4Shell)– Apache Log4j 2</a> |
@@ -45,6 +48,12 @@ https://github.com/NCSC-NL/log4shell
 | SI | SI-CERT | SL | <a href="https://www.cert.si/si-cert-2021-06/">Kritična ranljivost Java knjižnice Apache Log4j</a> |
 | SK | SK-CERT | SK |  <a href="https://www.sk-cert.sk/sk/urgent-0-day-zranitelnost-v-log4j-verzia-2/index.html">URGENT: 0-day zraniteľnosť v log4j (zraniteľné verzie 2 a vyššie)</a> |
 
- 
 
-For more information on the CSIRTs Network Members please visit https://csirtsnetwork.eu/ 
+For more information on the CSIRTs Network Members please visit https://csirtsnetwork.eu/
+
+---
+
+## CSIRTs Network supported Log4Shell information hub:
+
+CSIRTs Network supported information hub by NCSC-NL on (non) vulnerable products, vulnerable services detection, IoCs, hunting rules and more:
+https://github.com/NCSC-NL/log4shell

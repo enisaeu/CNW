@@ -8,7 +8,7 @@
 | [CNW-2024-19](2024/CNW-2024-19_Ivanti.md) | 20-09-2024 | CVE-2024-8963, CVE-2024-8190 | Ivanti Cloud Services Appliance Exploitation |
 | [CNW-2024-18](2024/CNW-2024-18_SonicWall.md) | 06-09-2024 | CVE-2024-40766 | SonicOS - Critical improper access control vulnerability |
 | [CNW-2024-17](2024/CNW-2024-17_CrowdStrike-Falcon_BSOD.md) | 19-07-2024 | - | CrowdStrike Falcon Update causing BSOD |
-| [CNW-2024-16](2024/CNW-2024-16_Cisco-Email-GW_SSM-On-Prem.md.md) | 19-07-2024 | CVE-2024-20401, CVE-2024-20419 | Critical Cisco Secure Email Gateway and SSM On-Prem vulnerabilities |
+| [CNW-2024-16](2024/CNW-2024-16_Cisco-Email-GW_SSM-On-Prem.md) | 19-07-2024 | CVE-2024-20401, CVE-2024-20419 | Critical Cisco Secure Email Gateway and SSM On-Prem vulnerabilities |
 | [CNW-2024-15](2024/CNW-2024-15_openssh.md) | 02-07-2024 | CVE-2024-6387 | Critical vulnerability in OpenSSH server |
 | [CNW-2024-14](2024/CNW-2024-14_moveit.md) | 01-07-2024 | CVE-2024-5805, CVE-2024-5806 | Critical Progress MOVEit vulnerability |
 | [CNW-2024-13](2024/CNW-2024-13_checkpoint.md) | 30-05-2024 | CVE-2024-24919 | Check Point VPN Information Disclosure Actively Exploited |
