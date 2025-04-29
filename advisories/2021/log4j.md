@@ -2,7 +2,7 @@
 
 |   |   |
 |---|---|
-| **Date** | 13-12-2021 |
+| **Date** | 10-12-2021 |
 | **Number** | CNW-2021-01 |
 | **CVE** | [CVE-2021-44228](https://www.cve.org/CVERecord?id=CVE-2021-44228), [CVE-2021-45046](https://www.cve.org/CVERecord?id=CVE-2021-45046), [CVE-2021-4104](https://www.cve.org/CVERecord?id=CVE-2021-4104), [CVE-2021-45105](https://www.cve.org/CVERecord?id=CVE-2021-45105) |
 | **Details** | The vulnerability, catalogued as CVE-2021-44228, is an unauthenticated Remote Code Execution (RCE) vulnerability in the widely used Log4j framework. This vulnerability also has an impact on default configurations of multiple Apache frameworks, including Apache Struts2, Apache Solr, Apache Druid, Apache Flink, etc. |
