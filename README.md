@@ -29,6 +29,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ## Vulnerability Handling
 - [Vulnerability Disclosure Policies](#vulnerability-disclosure-policies)
 - [Vulnerability Scanning](#vulnerability-scanning)
+- [Known Exploited Vulnerabilities](kev.csv)
 
 ## CNW Member Warnings and Advisories
 - [CNW Member Warnings and Advisories](#cnw-member-warnings-and-advisories-1)
