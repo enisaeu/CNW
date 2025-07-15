@@ -7,8 +7,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 
 # CSIRTs Network - Security Guidance
 ## Guidance publications
-- [Heightened Threat Level Guidance](heightened.md)
-- [Ransomware Guidance](ransomware.md)
+- [CNW Guidance](guidance/README.md)
 
 ## Advisory collections
 - [CNW Advisories](advisories/README.md)
