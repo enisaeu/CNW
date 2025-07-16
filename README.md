@@ -161,7 +161,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | DE | BSI | DE | [Schwachstellen-Analyse in Netzen unter Einsatz von OpenVAS [PDF]](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_007.pdf?__blob=publicationFile&v=1) |
-| PL | CERT-PL | EN | [Artemis vulnerability scanner is now open source](https://cert.pl/en/posts/2023/02/artemis-open-source/) |
+| PL | CERT-PL | EN | [The Artemis security scanner](https://cert.pl/en/posts/2024/01/artemis-security-scanner/) |
 
 ## CNW Member Warnings and Advisories
 | Country | Organisation | Language | Material |
