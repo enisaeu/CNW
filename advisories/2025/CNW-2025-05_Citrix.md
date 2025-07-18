@@ -18,29 +18,29 @@
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
-| DE | BSI | DE | [Citrix NetScaler ADC und NetScaler Gateway: Kritische Sicherheitslücken geschlossen und teils aktiv ausgenutzt](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-254480-1032.pdf?__blob=publicationFile) |
+| DE | BSI | DE | **[Citrix NetScaler ADC und NetScaler Gateway: Kritische Sicherheitslücken geschlossen und teils aktiv ausgenutzt](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-254480-1032.pdf?__blob=publicationFile)** |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [Severe Vulnerabilities in Citrix Products](https://cert.europa.eu/publications/security-advisories/2025-022/)) |
-| FI | NCSC-FI | FI | [Kriittinen ja hyväksikäytetty haavoittuvuus NetScaler ADC ja NetScaler Gateway -tuotteissa ](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_13/2025) |
-| FR | CERT-FR | FR | [Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/) |
+| EUI | CERT-EU | EN | **[Severe Vulnerabilities in Citrix Products](https://cert.europa.eu/publications/security-advisories/2025-022/)** |
+| FI | NCSC-FI | FI | **[Kriittinen ja hyväksikäytetty haavoittuvuus NetScaler ADC ja NetScaler Gateway -tuotteissa ](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_13/2025)** |
+| FR | CERT-FR | FR | **[Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/)** |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [Critical Vulnerabilities in Citrix NetScaler ADC & Gateway CVE-2025-5777, CVE-2025-5349](https://www.ncsc.gov.ie/pdfs/2506190185_CVE-2025-5777.pdf) |
-| IT | CERT Italia | IT | [CitrixBleed2: dettagli e mitigazioni per la CVE-2025-5777 relativa a Citrix NetScaler ADC e Gateway](https://www.acn.gov.it/portale/w/citrixbleed2-dettagli-e-mitigazioni-per-la-cve-2025-5777-relativa-a-citrix-netscaler-adc-e-gateway) |
+| IE | NCSC-IE | EN | **[Critical Vulnerabilities in Citrix NetScaler ADC & Gateway CVE-2025-5777, CVE-2025-5349](https://www.ncsc.gov.ie/pdfs/2506190185_CVE-2025-5777.pdf)** |
+| IT | CERT Italia | IT | **[CitrixBleed2: dettagli e mitigazioni per la CVE-2025-5777 relativa a Citrix NetScaler ADC e Gateway](https://www.acn.gov.it/portale/w/citrixbleed2-dettagli-e-mitigazioni-per-la-cve-2025-5777-relativa-a-citrix-netscaler-adc-e-gateway)** |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Kwetsbaarheden verholpen in Citrix NetScaler ADC en NetScaler Gateway](https://advisories.ncsc.nl/advisory?id=NCSC-2025-0196) |
+| NL | NCSC-NL | NL | **[Kwetsbaarheden verholpen in Citrix NetScaler ADC en NetScaler Gateway](https://advisories.ncsc.nl/advisory?id=NCSC-2025-0196)** |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SV | [Sårbarheter i Citrix NetScaler](https://cert.se/2025/06/sarbarheter-i-citrix-netscaler.html) |
+| SE | CERT-SE | SV | **[Sårbarheter i Citrix NetScaler](https://cert.se/2025/06/sarbarheter-i-citrix-netscaler.html)** |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
 
