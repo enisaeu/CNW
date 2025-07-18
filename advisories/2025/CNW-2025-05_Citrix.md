@@ -1,4 +1,4 @@
-# CSIRTs Network - Citrix Vulnerabilities Exploited (CVE-2025-6543 and CVE-2025-5777)
+# CSIRTs Network - Citrix NetScaler ADC and NetScaler Gateway Vulnerability Exploitation (CVE-2025-6543 and CVE-2025-5777)
 |   |   |
 |---|---|
 | **Date** | 18-07-2025 |
