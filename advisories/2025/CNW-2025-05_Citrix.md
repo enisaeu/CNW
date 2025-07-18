@@ -4,8 +4,8 @@
 | **Date** | 18-07-2025 |
 | **Number** | CNW-2025-05 | 
 | **Keywords** | Citrix Bleed 2 | 
-| **CVE** | [CVE-2025-6543](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-6543),[CVE-2025-5777](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5777),[CVE-2025-5349](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5349) | 
-| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. As of publication of this CNW members have observed exploitation in their constituency as well. |
+| **CVE** | [CVE-2025-6543](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-6543),[CVE-2025-5777](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5777) | 
+| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. As of publication of this advisory page CNW members have reportedly observed exploitation of these vulnerabilities. |
 | **Mitigation** | For users operating affected NetScaler ADC builds configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server, immediate installation of the recommended builds is critically advised due to identified vulnerabilities. There are no available mitigations. After upgrading all NetScaler appliances in an HA pair or cluster, it is also recommended to terminate all active ICA and PCoIP sessions by running the commands kill icaconnection -all and kill pcoipConnection -all. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
@@ -25,13 +25,13 @@
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
 | EUI | CERT-EU | EN | [Severe Vulnerabilities in Citrix Products](https://cert.europa.eu/publications/security-advisories/2025-022/)) |
 | FI | NCSC-FI | FI | [Kriittinen ja hyväksikäytetty haavoittuvuus NetScaler ADC ja NetScaler Gateway -tuotteissa ](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_13/2025) |
-| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
+| FR | CERT-FR | FR | [Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
-| IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
+| IE | NCSC-IE | EN | [Critical Vulnerabilities in Citrix NetScaler ADC & Gateway CVE-2025-5777, CVE-2025-5349](https://www.ncsc.gov.ie/pdfs/2506190185_CVE-2025-5777.pdf) |
+| IT | CERT Italia | IT | [CitrixBleed2: dettagli e mitigazioni per la CVE-2025-5777 relativa a Citrix NetScaler ADC e Gateway](https://www.acn.gov.it/portale/w/citrixbleed2-dettagli-e-mitigazioni-per-la-cve-2025-5777-relativa-a-citrix-netscaler-adc-e-gateway) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
