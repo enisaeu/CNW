@@ -13,3 +13,6 @@ CVE-2023-48788,EUVD-2023-52821,Fortinet,FortiClientEMS,-,23/01/25,cnw,-,ransomwa
 CVE-2020-1472,EUVD-2020-12346,Microsoft,Netlogon (ZeroLogon),-,23/01/25,cnw,-,ransomware,-,-,-
 CVE-2020-0787,EUVD-2020-2274,Microsoft,Windows BITS26,-,23/01/25,cnw,-,ransomware,-,-,-
 CVE-2017-0144,EUVD-2017-0511,Microsoft,Windows (SMBv1 - EternalBlue),-,23/01/25,cnw,-,ransomware,-,-,-
+CVE-2024-8963,EUVD-2024-49510,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,cnw,-,-,-,-,-
+CVE 2024-8190,-,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,cnw,-,-,-,-,-
+CVE-2024-9380,EUVD-2024-49898,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,cnw,-,-,-,-,-
