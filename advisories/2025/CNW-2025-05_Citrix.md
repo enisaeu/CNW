@@ -1,11 +1,11 @@
-# CSIRTs Network - Citrix Vulnerabilities Security Updates for CVE-2025-6543 and CVE-2025-5777 (CVE-2025-6543,CVE-2025-5777,CVE-2025-5349)
+# CSIRTs Network - Citrix Vulnerabilities Security Updates for CVE-2025-6543 and CVE-2025-5777
 |   |   |
 |---|---|
 | **Date** | 18-07-2025 |
 | **Number** | CNW-2025-05 | 
 | **Keywords** | Citrix Bleed 2 | 
 | **CVE** | [CVE-2025-6543](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-6543),[CVE-2025-5777](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5777),[CVE-2025-5349](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5349) | 
-| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. |
+| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. CNW members have observed exploitation in their constituency as well. |
 | **Mitigation** | For users operating affected NetScaler ADC builds configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server, immediate installation of the recommended builds is critically advised due to identified vulnerabilities. There are no available mitigations. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
@@ -40,7 +40,7 @@
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
+| SE | CERT-SE | SV | [Sårbarheter i Citrix NetScaler](https://cert.se/2025/06/sarbarheter-i-citrix-netscaler.html) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
 
