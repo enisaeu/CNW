@@ -1,12 +1,12 @@
-# CSIRTs Network - Citrix Vulnerabilities Security Updates for CVE-2025-6543 and CVE-2025-5777
+# CSIRTs Network - Citrix Vulnerabilities Exploited (CVE-2025-6543 and CVE-2025-5777)
 |   |   |
 |---|---|
 | **Date** | 18-07-2025 |
 | **Number** | CNW-2025-05 | 
 | **Keywords** | Citrix Bleed 2 | 
 | **CVE** | [CVE-2025-6543](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-6543),[CVE-2025-5777](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5777),[CVE-2025-5349](https://euvd.enisa.europa.eu/vulnerability/CVE-2025-5349) | 
-| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. CNW members have observed exploitation in their constituency as well. |
-| **Mitigation** | For users operating affected NetScaler ADC builds configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server, immediate installation of the recommended builds is critically advised due to identified vulnerabilities. There are no available mitigations. For additional details please refer to the specific CNW member advisories referenced below. |
+| **Details** | Citrix acknowledges active exploitation of CVE-2025-6543 and are providing limited technical details to assist customers in assessing potential compromise. On July 11 CISA added CVE-2025-5777 to its Known Exploited Vulnerabilities Catalog. As of publication of this CNW members have observed exploitation in their constituency as well. |
+| **Mitigation** | For users operating affected NetScaler ADC builds configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server, immediate installation of the recommended builds is critically advised due to identified vulnerabilities. There are no available mitigations. After upgrading all NetScaler appliances in an HA pair or cluster, it is also recommended to terminate all active ICA and PCoIP sessions by running the commands kill icaconnection -all and kill pcoipConnection -all. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
@@ -23,8 +23,8 @@
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
+| EUI | CERT-EU | EN | [Severe Vulnerabilities in Citrix Products](https://cert.europa.eu/publications/security-advisories/2025-022/)) |
+| FI | NCSC-FI | FI | [Kriittinen ja hyväksikäytetty haavoittuvuus NetScaler ADC ja NetScaler Gateway -tuotteissa ](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_13/2025) |
 | FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
