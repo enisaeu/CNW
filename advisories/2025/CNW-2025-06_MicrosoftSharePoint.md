@@ -6,7 +6,6 @@
 | **Keywords** | Microsoft, SharePoint | 
 | **CVE/EUVD** | [CVE-2025-53770](https://www.cve.org/CVERecord?id=CVE-2025-53770)] [EUVD-2025-21981](https://euvd.enisa.europa.eu/enisa/EUVD-2025-21981)
 | **Details** | Microsoft acknowledges active exploitation of CVE-2025-53770 and provided technical details to assist customers in assessing potential compromise. On July 20 CISA added CVE-2025-53770 to its Known Exploited Vulnerabilities Catalog. As of publication of this advisory page CNW members have reportedly observed exploitation of these vulnerabilities.
-
 | **Mitigation** | For users operating affected SharePoint on-remises server, immediate installation of the released patches is critically advised due to identified vulnerabilities. After upgrading all SharePoint servers, it is recommended to rotate the ASP.NET machine keys of the SharePoint Server and restart IIS on all SharePoint servers. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
