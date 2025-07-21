@@ -39,7 +39,7 @@
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
-| PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
+| PT | CNCS | PT | [Alerta de Vulnerabilidade - SharePoint](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135941/alerta-de-vulnerabilidade-sharepoint) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
 | SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
