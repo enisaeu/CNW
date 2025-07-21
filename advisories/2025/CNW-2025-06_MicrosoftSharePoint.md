@@ -22,7 +22,7 @@
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
+| ES | INCIBE-CERT | ES | [Explotación activa de una vulnerabilidad crítica en Microsoft SharePoint Server](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13088-ccn-cert-al-06-25-explotacion-activa-de-una-vulnerabilidad-critica-en-microsoft-sharepoint-server.html)|
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
 | FR | CERT-FR | FR | [Vulnérabilité dans Microsoft SharePoint](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/)|
@@ -34,7 +34,7 @@
 | IT | CERT Italia | IT | [ToolShell: rilevato sfruttamento in rete di vulnerabilità in SharePoint](https://www.acn.gov.it/portale/en/w/toolshell-rilevato-sfruttamento-in-rete-di-vulnerabilita-in-sharepoint)|
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [TR-95 - Critical vulnerability](https://www.circl.lu/pub/tr-95/) |
-| LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
+| LV | CERT-LV | LV | [Kritiska Microsoft SharePoint ievainojamība](https://cert.lv/lv/2025/07/kritiska-microsoft-sharepoint-ievainojamiba-cve-2025-53770)|
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
