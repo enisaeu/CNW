@@ -13,36 +13,36 @@
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [Kritische Sicherheitslücke in Microsoft SharePoint - aktiv ausgenützt, Updates verfügbar](https://www.cert.at/de/warnungen/2025/7/kritische-sicherheitslucke-in-microsoft-sharepoint-aktiv-ausgenutzt-updates-verfugbar) |
-| BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
-| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
-| CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
-| CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
-| CZ | GovCERT.CZ | CS | [Hrozby a zranitelnosti](https://nukib.gov.cz/cs/infoservis/hrozby/) |
+| BG | CERT.bg | BG |   |
+| BE | CERT.be | EN |  |
+| CY | CSIRT-CY | EN | |
+| CZ | CERT.cz | CS |  |
+| CZ | GovCERT.CZ | CS |  |
 | DE | BSI | DE | [Version 1.0: Microsoft SharePoint - Massive Ausnutzung einer Zero-Day Schwachstelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-262781-1032.pdf) |
-| DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
-| EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
+| DK | CFCS | DA |  |
+| EE | CERT-EE | EE |   |
 | ES | CCN-CERT | ES | [Explotación activa de una vulnerabilidad crítica en Microsoft SharePoint Server](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13088-ccn-cert-al-06-25-explotacion-activa-de-una-vulnerabilidad-critica-en-microsoft-sharepoint-server.html)| |
 | ES | INCIBE-CERT | ES | [Ejecución remota de código en SharePoint Server de Microsoft ](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/ejecucion-remota-de-codigo-en-sharepoint-server-de-microsoft)|
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
+| EUI | CERT-EU | EN |   |
+| FI | NCSC-FI | FI |  |
 | FR | CERT-FR | FR | [Vulnérabilité dans Microsoft SharePoint](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/)|
-| GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
-| HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
-| HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
-| HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
+| GR | GR-CSIRT | EN | |
+| HR | CERT.hr | HR |  |
+| HR | CERT ZSIS | HR |  |
+| HU | NCSC-HU | HU |   |
 | IE | NCSC-IE | EN | [Critical Vulnerability in Microsoft SharePoint Enterprise Server 2016, SharePoint Server Subscription Edition, SharePoint Server 2019](https://www.ncsc.gov.ie/pdfs/2507200119_CVE-2025-53770.pdf) |
 | IT | CERT Italia | IT | [ToolShell: rilevato sfruttamento in rete di vulnerabilità in SharePoint](https://www.acn.gov.it/portale/en/w/toolshell-rilevato-sfruttamento-in-rete-di-vulnerabilita-in-sharepoint)|
-| LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
+| LT | CERT LT | LT |  |
 | LU | CIRCL | EN | [TR-95 - Critical vulnerability](https://www.circl.lu/pub/tr-95/) |
 | LV | CERT-LV | LV | [Kritiska Microsoft SharePoint ievainojamība](https://cert.lv/lv/2025/07/kritiska-microsoft-sharepoint-ievainojamiba-cve-2025-53770)|
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
+| NL | NCSC-NL | NL | |
 | PL | CERT-PL | PL | [Aktywnie wykorzystywana krytyczna podatność narzędzia SharePoint Server](https://moje.cert.pl/komunikaty/2025/15/aktywnie-wykorzystywana-krytyczna-podatnosc-narzedzia-sharepoint-server/) |
 | PT | CNCS | PT | [Alerta de Vulnerabilidade - SharePoint](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135941/alerta-de-vulnerabilidade-sharepoint) |
-| RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
-| SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
-| SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
+| RO | DNSC | RO |   |
+| SE | CERT-SE | SV |  |
+| SI | SI-CERT | SL | |
+| SK | SK-CERT | SK | |
 
 
 
