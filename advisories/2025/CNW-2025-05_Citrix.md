@@ -33,8 +33,8 @@
 | IE | NCSC-IE | EN | **[Critical Vulnerabilities in Citrix NetScaler ADC & Gateway CVE-2025-5777, CVE-2025-5349](https://www.ncsc.gov.ie/pdfs/2506190185_CVE-2025-5777.pdf)** |
 | IT | CERT Italia | IT | **[CitrixBleed2: dettagli e mitigazioni per la CVE-2025-5777 relativa a Citrix NetScaler ADC e Gateway](https://www.acn.gov.it/portale/w/citrixbleed2-dettagli-e-mitigazioni-per-la-cve-2025-5777-relativa-a-citrix-netscaler-adc-e-gateway)** |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
-| LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
-| LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
+| LU | CIRCL | EN | **[TR-95 - Critical vulnerability - Deserialization of untrusted data in on-premises Microsoft SharePoint Server allows an unauthorized attacker to execute code over a network. CVE-2025-53770 - CVE-2025-53771](https://www.circl.lu/pub/tr-95/)** |
+| LV | CERT-LV | LV | **[Kritiska Microsoft SharePoint ievainojamība (CVE-2025-53770)](https://cert.lv/lv/2025/07/kritiska-microsoft-sharepoint-ievainojamiba-cve-2025-53770)** |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | **[Kwetsbaarheden verholpen in Citrix NetScaler ADC en NetScaler Gateway](https://advisories.ncsc.nl/advisory?id=NCSC-2025-0196)** |
 | PL | CERT-PL | PL | [Aktywnie wykorzystywane krytyczne podatności narzędzia Citrix NetScaler](https://moje.cert.pl/komunikaty/2025/17/aktywnie-wykorzystywane-krytyczne-podatnosci-narzedzia-citrix-netscaler/) |
