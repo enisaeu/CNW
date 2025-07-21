@@ -30,7 +30,7 @@
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
+| IE | NCSC-IE | EN | [Critical Vulnerability in Microsoft SharePoint Enterprise Server 2016, SharePoint Server Subscription Edition, SharePoint Server 2019](https://www.ncsc.gov.ie/pdfs/2507200119_CVE-2025-53770.pdf) |
 | IT | CERT Italia | IT | [ToolShell: rilevato sfruttamento in rete di vulnerabilità in SharePoint](https://www.acn.gov.it/portale/en/w/toolshell-rilevato-sfruttamento-in-rete-di-vulnerabilita-in-sharepoint)|
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [TR-95 - Critical vulnerability](https://www.circl.lu/pub/tr-95/) |
