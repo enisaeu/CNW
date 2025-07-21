@@ -22,7 +22,7 @@
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
+| ES | INCIBE-CERT | ES | [Múltiples vulnerabilidades en NetScaler ADC y NetScaler Gateway de Citrix](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-netscaler-adc-y-netscaler-gateway-de-citrix) |
 | EUI | CERT-EU | EN | **[Severe Vulnerabilities in Citrix Products](https://cert.europa.eu/publications/security-advisories/2025-022/)** |
 | FI | NCSC-FI | FI | **[Kriittinen ja hyväksikäytetty haavoittuvuus NetScaler ADC ja NetScaler Gateway -tuotteissa ](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_13/2025)** |
 | FR | CERT-FR | FR | **[Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/)** |
