@@ -21,8 +21,8 @@
 | DE | BSI | DE | [Version 1.0: Microsoft SharePoint - Massive Ausnutzung einer Zero-Day Schwachstelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-262781-1032.pdf) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
-| ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Explotación activa de una vulnerabilidad crítica en Microsoft SharePoint Server](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13088-ccn-cert-al-06-25-explotacion-activa-de-una-vulnerabilidad-critica-en-microsoft-sharepoint-server.html)|
+| ES | CCN-CERT | ES | [Explotación activa de una vulnerabilidad crítica en Microsoft SharePoint Server](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13088-ccn-cert-al-06-25-explotacion-activa-de-una-vulnerabilidad-critica-en-microsoft-sharepoint-server.html)| |
+| ES | INCIBE-CERT | ES | [Ejecución remota de código en SharePoint Server de Microsoft ](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/ejecucion-remota-de-codigo-en-sharepoint-server-de-microsoft)|
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
 | FR | CERT-FR | FR | [Vulnérabilité dans Microsoft SharePoint](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/)|
