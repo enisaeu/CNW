@@ -33,7 +33,7 @@
 | IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
 | IT | CERT Italia | IT | [ToolShell: rilevato sfruttamento in rete di vulnerabilità in SharePoint](https://www.acn.gov.it/portale/en/w/toolshell-rilevato-sfruttamento-in-rete-di-vulnerabilita-in-sharepoint)|
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
-| LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
+| LU | CIRCL | EN | [TR-95 - Critical vulnerability](https://www.circl.lu/pub/tr-95/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
