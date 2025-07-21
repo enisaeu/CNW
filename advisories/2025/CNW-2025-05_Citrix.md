@@ -37,7 +37,7 @@
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | **[Kwetsbaarheden verholpen in Citrix NetScaler ADC en NetScaler Gateway](https://advisories.ncsc.nl/advisory?id=NCSC-2025-0196)** |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
+| PL | CERT-PL | PL | [Aktywnie wykorzystywane krytyczne podatności narzędzia Citrix NetScaler](https://moje.cert.pl/komunikaty/2025/17/aktywnie-wykorzystywane-krytyczne-podatnosci-narzedzia-citrix-netscaler/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
 | SE | CERT-SE | SV | **[Sårbarheter i Citrix NetScaler](https://cert.se/2025/06/sarbarheter-i-citrix-netscaler.html)** |
