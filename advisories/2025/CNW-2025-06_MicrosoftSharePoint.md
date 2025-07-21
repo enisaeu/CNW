@@ -37,7 +37,7 @@
 | LV | CERT-LV | LV | [Kritiska Microsoft SharePoint ievainojamība](https://cert.lv/lv/2025/07/kritiska-microsoft-sharepoint-ievainojamiba-cve-2025-53770)|
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
+| PL | CERT-PL | PL | [Aktywnie wykorzystywana krytyczna podatność narzędzia SharePoint Server](https://moje.cert.pl/komunikaty/2025/15/aktywnie-wykorzystywana-krytyczna-podatnosc-narzedzia-sharepoint-server/) |
 | PT | CNCS | PT | [Alerta de Vulnerabilidade - SharePoint](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135941/alerta-de-vulnerabilidade-sharepoint) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
 | SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
