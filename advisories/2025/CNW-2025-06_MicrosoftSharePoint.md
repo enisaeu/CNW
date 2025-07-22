@@ -1,4 +1,4 @@
-# CSIRTs Network - Product (CVE-2025-53770)
+# CSIRTs Network - SharePoint  (CVE-2025-53770)
 |   |   |
 |---|---|
 | **Date** | 19-07-2025 |
