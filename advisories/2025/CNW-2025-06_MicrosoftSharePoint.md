@@ -14,7 +14,7 @@
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [Kritische Sicherheitslücke in Microsoft SharePoint - aktiv ausgenützt, Updates verfügbar](https://www.cert.at/de/warnungen/2025/7/kritische-sicherheitslucke-in-microsoft-sharepoint-aktiv-ausgenutzt-updates-verfugbar) |
 | BG | CERT.bg | BG |   |
-| BE | CERT.be | EN |  |
+| BE | CERT.be | EN | [Warning: Emergency Patch for Exploited Remote Code Execution Vulnerability in SharePoint On-Premises, Patch Immediately!](https://ccb.belgium.be/advisories/warning-emergency-patch-exploited-remote-code-execution-vulnerability-sharepoint) |
 | CY | CSIRT-CY | EN | |
 | CZ | CERT.cz | CS |  |
 | CZ | GovCERT.CZ | CS |  |
