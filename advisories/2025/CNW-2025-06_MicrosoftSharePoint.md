@@ -39,7 +39,7 @@
 | NL | NCSC-NL | NL | |
 | PL | CERT-PL | PL | [Aktywnie wykorzystywana krytyczna podatność narzędzia SharePoint Server](https://moje.cert.pl/komunikaty/2025/15/aktywnie-wykorzystywana-krytyczna-podatnosc-narzedzia-sharepoint-server/) |
 | PT | CNCS | PT | [Alerta de Vulnerabilidade - SharePoint](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135941/alerta-de-vulnerabilidade-sharepoint) |
-| RO | DNSC | RO |   |
+| RO | DNSC | RO |  [ALERTĂ: CVE-2025-53770 Vulnerabilitate critică de securitate cibernetică identificată la nivelul Microsoft Sharepoint](https://www.dnsc.ro/citeste/alerta-cve-2025-53770-vulnerabilitate-critica-de-securitate-cibernetica-identificata-la-nivelul-microsoft-sharepoint)  |
 | SE | CERT-SE | SV |  |
 | SI | SI-CERT | SL | |
 | SK | SK-CERT | SK | |
