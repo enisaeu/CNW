@@ -17,7 +17,7 @@
 | BE | CERT.be | EN | [Warning: Emergency Patch for Exploited Remote Code Execution Vulnerability in SharePoint On-Premises, Patch Immediately!](https://ccb.belgium.be/advisories/warning-emergency-patch-exploited-remote-code-execution-vulnerability-sharepoint) |
 | CY | CSIRT-CY | EN | |
 | CZ | CERT.cz | CS |  |
-| CZ | GovCERT.CZ | CS |  |
+| CZ | GovCERT.CZ | CS | [Kritická zranitelnost v produktu SharePoint](https://portal.nukib.gov.cz/informacni-servis/aktualne/687e47dd4f74773d710da32b) |
 | DE | BSI | DE | [Version 1.0: Microsoft SharePoint - Massive Ausnutzung einer Zero-Day Schwachstelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-262781-1032.pdf) |
 | DK | CFCS | DA |  |
 | EE | CERT-EE | EE |   |
