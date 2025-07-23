@@ -42,7 +42,7 @@
 | RO | DNSC | RO |  [ALERTĂ: CVE-2025-53770 Vulnerabilitate critică de securitate cibernetică identificată la nivelul Microsoft Sharepoint](https://www.dnsc.ro/citeste/alerta-cve-2025-53770-vulnerabilitate-critica-de-securitate-cibernetica-identificata-la-nivelul-microsoft-sharepoint)  |
 | SE | CERT-SE | SV |  |
 | SI | SI-CERT | SL | |
-| SK | SK-CERT | SK | |
+| SK | SK-CERT | SK | [SK-CERT Bezpečnostné varovanie V20250722-02](https://www.sk-cert.sk/threat/sk-cert-bezpecnostne-varovanie-v20250722-02/index.html) |
 
 
 
