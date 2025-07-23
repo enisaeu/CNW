@@ -23,7 +23,7 @@
 | EE | CERT-EE | EE |   |
 | ES | CCN-CERT | ES | [Explotación activa de una vulnerabilidad crítica en Microsoft SharePoint Server](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13088-ccn-cert-al-06-25-explotacion-activa-de-una-vulnerabilidad-critica-en-microsoft-sharepoint-server.html)| |
 | ES | INCIBE-CERT | ES | [Ejecución remota de código en SharePoint Server de Microsoft ](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/ejecucion-remota-de-codigo-en-sharepoint-server-de-microsoft)|
-| EUI | CERT-EU | EN |  [Critical Vulnerabilities in Microsoft SharePoint](https://cert.europa.eu/publications/security-advisories/2025-027/) |
+| EUI | CERT-EU | EN | [Critical Vulnerabilities in Microsoft SharePoint](https://www.cert.europa.eu/publications/security-advisories/2025-027/)   |
 | FI | NCSC-FI | FI |  |
 | FR | CERT-FR | FR | [Vulnérabilité dans Microsoft SharePoint](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/)|
 | GR | GR-CSIRT | EN | |
