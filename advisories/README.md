@@ -1,6 +1,8 @@
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2025-07](2025/CNW-2025-07_SonicWallGen7Firewalls.md) | 05-08-2025 | - | Exploitation of Suspected SonicWall Firewall Vulnerability |
+| [CNW-2025-06](2025/CNW-2025-06_MicrosoftSharePoint.md) | 19-07-2025 | CVE-2025-53770 | Exploitation of SharePoint vulnerability |
 | [CNW-2025-05](2025/CNW-2025-05_Citrix.md) | 18-07-2025 | CVE-2025-6543, CVE-2025-5777 | Exploitation of Citrix NetScaler ADC and NetScaler Gateway vulnerabilities |
 | [CNW-2025-04](2025/CNW-2025-04_IvantiConnect-Secure.md) | 03-04-2025 | CVE-2025-22457 | Ivanti Connect Secure, Policy Secure & ZTA Gateways |
 | [CNW-2025-03](2025/CNW-2025-03_Wiz.md) | 25-03-2025 | CVE-2025-1974 | Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX |
