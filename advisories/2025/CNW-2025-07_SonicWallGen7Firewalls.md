@@ -6,7 +6,7 @@
 | **Keywords** | SonicWall Gen 7 Firewalls, Akira Ransomware | 
 | **CVE** | Unassigned | 
 | **Details** |  Several sources have reported a notable increase in reported cyber incidents involving Gen 7 SonicWall firewalls with enabled SSLVPN. |
-| **Mitigation** | [Among other critical steps listed by the vendor](https://www.sonicwall.com/support/notices/gen-7-sonicwall-firewalls-sslvpn-recent-threat-activity/250804095336430) SonicWall strongly advises to disable SSL VPN Services . For additional details please refer to the specific CNW member advisories referenced below. |
+| **Mitigation** | [Among other critical steps mentioned in a customer notification](https://www.sonicwall.com/support/notices/gen-7-sonicwall-firewalls-sslvpn-recent-threat-activity/250804095336430) SonicWall strongly advises to disable SSL VPN Services. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
