@@ -24,7 +24,7 @@
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
 | EUI | CERT-EU | EN | **[https://cert.europa.eu/publications/security-advisories/2025-029/](https://cert.europa.eu/publications/security-advisories/2025-029/)** |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
+| FI | NCSC-FI | FI | **[https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_17/2025](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_17/2025)** |
 | FR | CERT-FR | FR | **[https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-011/](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-011/)** |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
