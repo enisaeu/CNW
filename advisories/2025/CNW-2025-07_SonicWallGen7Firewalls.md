@@ -22,7 +22,7 @@
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Vulnerabilidad 0day en firewalls de SonicWall Gen 7](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/vulnerabilidad-0day-en-firewalls-de-sonicwall-gen-7) |
+| ES | INCIBE-CERT | ES | **[Vulnerabilidad 0day en firewalls de SonicWall Gen 7](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/vulnerabilidad-0day-en-firewalls-de-sonicwall-gen-7)** |
 | EUI | CERT-EU | EN | **[https://cert.europa.eu/publications/security-advisories/2025-029/](https://cert.europa.eu/publications/security-advisories/2025-029/)** |
 | FI | NCSC-FI | FI | **[https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_17/2025](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_17/2025)** |
 | FR | CERT-FR | FR | **[https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-011/](https://cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-011/)** |
