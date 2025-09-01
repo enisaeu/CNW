@@ -1,3 +1,4 @@
+Vulnerabilities added to this list are of significant interest to CSIRTs taking part in the EU CSIRTs network.
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
