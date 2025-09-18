@@ -5,7 +5,7 @@ CVE-2010-0738,EUVD-2010-0764,Red Hat,JBoss Application Server,-,14/07/25,tbc,CER
 CVE-2011-4085,EUVD-2011-4036,Red Hat,JBoss Application Server,-,14/07/25,tbc,CERT Italia,some management interfaces remain accessible and lack effective access control mechanisms,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
 CVE-2015-7501,EUVD-2022-3799,Apache,Commons Collections library,-,14/07/25,tbc,CERT Italia,the system accepts serialized objects without verifying their origin or reliability allowing an attacker to send specially crafted payloads that are then deserialized and executed,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
 CVE-2017-12149,EUVD-2017-3733,Red Hat,JBoss Application Server,-,14/07/25,tbc,CERT Italia,the servlet exposes an endpoint that allows you to invoke Java Management Extensions (JMX) operations without any authentication or access control,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
-CVE-2024-55591,EUVD-2024-52819,Fortinet,FortiOS/FortiProxy,-,13/02/25,tbc,cnw,authentication bypass using an alternate path or channel vulnerability,ransomware,-,CWE-288-
+CVE-2024-55591,EUVD-2024-52819,Fortinet,FortiOS/FortiProxy,-,13/02/25,tbc,cnw,authentication bypass using an alternate path or channel vulnerability,ransomware,-,CWE-288,-
 CVE-2023-3519,EUVD-2023-44176,Citrix,Citrix ADC and Citrix Gateway,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
 CVE-2023-27997,EUVD-2023-31722,Fortinet,FortiOS and FortiProxy,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
 CVE-2023-46604,EUVD-2023-2719,Apache,ActiveMQ,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
