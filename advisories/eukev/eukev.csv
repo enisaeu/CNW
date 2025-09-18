@@ -1,0 +1,20 @@
+cveID,euvdID,vendorProject,product,vulnerabilityName,dateReported,patchedSince,originSource,shortDescription,exploitationType,threatActorsExploiting,cwes,notes
+CVE-2025-25231,EUVD-2025-24160,Omnissa,Omnissa Workspace ONE UEM,-,09/09/25,tbc,CERT-PL,Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints,-,-,-,https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/
+CVE-2025-6543,EUVD-2025-19085,Citrix,Citrix ADC and Citrix Gateway,-,18/07/25,tbc,cnw,-,-,-,-,-
+CVE-2010-0738,EUVD-2010-0764,Red Hat,JBoss Application Server,-,14/07/25,tbc,CERT Italia,this management interface allows administrative operations to be performed without adequate access controls allowing a remote attacker to interact with the system in an unauthorized manner,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
+CVE-2011-4085,EUVD-2011-4036,Red Hat,JBoss Application Server,-,14/07/25,tbc,CERT Italia,some management interfaces remain accessible and lack effective access control mechanisms,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
+CVE-2015-7501,EUVD-2022-3799,Apache,Commons Collections library,-,14/07/25,tbc,CERT Italia,the system accepts serialized objects without verifying their origin or reliability allowing an attacker to send specially crafted payloads that are then deserialized and executed,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
+CVE-2017-12149,EUVD-2017-3733,Red Hat,JBoss Application Server,-,14/07/25,tbc,CERT Italia,the servlet exposes an endpoint that allows you to invoke Java Management Extensions (JMX) operations without any authentication or access control,-,-,-,https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note
+CVE-2024-55591,EUVD-2024-52819,Fortinet,FortiOS/FortiProxy,-,13/02/25,tbc,cnw,authentication bypass using an alternate path or channel vulnerability,ransomware,-,CWE-288-
+CVE-2023-3519,EUVD-2023-44176,Citrix,Citrix ADC and Citrix Gateway,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2023-27997,EUVD-2023-31722,Fortinet,FortiOS and FortiProxy,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2023-46604,EUVD-2023-2719,Apache,ActiveMQ,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2023-22515,EUVD-2023-26655,Atlassian,Confluence Server and Data Server,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2023-46747,EUVD-2023-50916,F5,BIG-IP,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2023-48788,EUVD-2023-52821,Fortinet,FortiClientEMS,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2020-1472,EUVD-2020-12346,Microsoft,Netlogon (ZeroLogon),-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2020-0787,EUVD-2020-2274,Microsoft,Windows BITS26,-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2017-0144,EUVD-2017-0511,Microsoft,Windows (SMBv1 - EternalBlue),-,23/01/25,tbc,cnw,-,ransomware,-,-,-
+CVE-2024-8963,EUVD-2024-49510,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,tbc,cnw,-,-,-,-,-
+CVE-2024-8190,EUVD-2024-49004,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,tbc,cnw,-,-,-,-,-
+CVE-2024-9380,EUVD-2024-49898,Ivanti,CSA (Cloud Services Appliance),-,17/01/25,tbc,cnw,-,-,-,-,-
