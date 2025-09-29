@@ -2,6 +2,7 @@ Vulnerabilities added to this list are of significant interest to CSIRTs taking 
 
 | Number | Date | ID | Title | 
 |:---|:---|:---|:---|
+| [CNW-2025-08](2025/CNW-2025-08_Cisco-ASA-FTD.md) | 29-09-2025 | CVE-2025-20333, CVE-2025-20362 | Widespread and ongoing exploitation campaign targeting Cisco ASA |
 | [CNW-2025-07](2025/CNW-2025-07_SonicWallGen7Firewalls.md) | 05-08-2025 | CVE-2024-40766 | Exploitation of Suspected SonicWall Firewall Vulnerability |
 | [CNW-2025-06](2025/CNW-2025-06_MicrosoftSharePoint.md) | 19-07-2025 | CVE-2025-53770 | Exploitation of SharePoint vulnerability |
 | [CNW-2025-05](2025/CNW-2025-05_Citrix.md) | 18-07-2025 | CVE-2025-6543, CVE-2025-5777 | Exploitation of Citrix NetScaler ADC and NetScaler Gateway vulnerabilities |
