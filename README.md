@@ -224,7 +224,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ## Training Material
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EU | ENISA | EN | [AR-in-a-Box - a comprehensive solution for cybersecurity awareness activities](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) |
+| EU | ENISA | EN | [AR-in-a-Box - a comprehensive solution for cybersecurity awareness activities](https://www.enisa.europa.eu/topics/awareness-and-cyber-hygiene/ar-in-a-box) |
 | LU | CIRCL | EN | [MISP - Open Source Threat Intelligence Platform training materials](https://github.com/MISP/misp-training) |
 
 
