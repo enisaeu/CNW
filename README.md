@@ -140,7 +140,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ### Vulnerability Disclosure Policies
 | Country | Organisation | Language | CNA | Policy/Reporting |
 | :-----: | :----------: | :------: | :------: | :------ |
-| AT | - | DE | No | [Nationale Policy für die koordinierte Offenlegung von Schwachstellen (CVD)](https://www.cert.at/de/spezielles/2025/5/nationale-cvd-policy) |
+| AT | CERT.at | DE | No | [Nationale Policy für die koordinierte Offenlegung von Schwachstellen (CVD)](https://www.cert.at/de/spezielles/2025/5/nationale-cvd-policy) |
 | BE | CCB | EN | No | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
 | BE | CCB | FR | No | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
 | DE | CERT-Bund | DE | No | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
