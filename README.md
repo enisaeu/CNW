@@ -51,7 +51,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 #### DDoS protection
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| AT | CERT-AT | DE | [DDoS Angriffe gegen Unternehmen in Österreich](https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich) |
+| AT | CERT.at | DE | [DDoS Angriffe gegen Unternehmen in Österreich](https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich) |
 | BE | CERT.be | FR | [DDOS: protection et prévention [PDF]](https://cert.be/fr/paper/ddos-protection-et-prevention) |
 | DE | BSI | DE | [Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html) |
 | FI | NCSC-FI | FI | [Neuvoja palvelunestohyökkäyksen estämiseksi [PDF]](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi) |
@@ -167,8 +167,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ## CNW Member Warnings and Advisories
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
-| AT | CERT-AT | DE | [CERT-AT Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
+| AT | CERT.at | DE | [CERT.at Warnungen](https://cert.at/de/meldungen/warnungen/) |
+| AT | CERT.at | DE | [CERT.at Aktuelles](https://cert.at/de/meldungen/aktuelles/) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
 | BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
 | CZ | CERT.cz | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
@@ -205,7 +205,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ## CNW Member Repositories
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| AT | CERT-AT | EN | [CERT-AT Github](https://github.com/certat) |
+| AT | CERT.at | EN | [CERT.at Github](https://github.com/certat) |
 | CZ | NÚKIB | EN/CS | [NÚKIB GitHub](https://github.com/NUKIB) |
 | DE | BSI | EN | [BSI Github](https://github.com/bsi-bund) |
 | DE | CERT-Bund | EN | [CERT-Bund Github](https://github.com/cert-bund) |
