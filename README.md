@@ -155,7 +155,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | NL | NCSC-NL | EN | Yes | [Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)](https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline) |
 | PL | CERT-PL | EN | Yes | [Reporting vulnerabilities to CERT Polska](https://cert.pl/en/cvd/) |
 | SK | SK-CERT | EN | Yes | [Vulnerability Reporting Guideline (07 October 2019)](https://www.sk-cert.sk/en/vulnerability-reporting/index.html) |
-| LU | CIRCL | EN | No | [Responsible Vulnerability Disclosure (October 2019)](https://circl.lu/pub/responsible-vulnerability-disclosure/) |
+| LU | CIRCL | EN | No | [Coordinated Vulnerability Disclosure (CVD) Policy](https://circl.lu/pub/coordinated-vulnerability-disclosure/) |
 | LV | CERT-LV | EN | No | [Responsible Vulnerability Disclosure (September 2019)](https://cert.lv/en/2016/09/cert-lv-responsible-disclosure-policy) |
 
 ### Vulnerability Scanning
