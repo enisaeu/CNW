@@ -3,7 +3,7 @@
 |---|---|
 | **Date** | 05-12-2025 |
 | **Number** | CNW-2025-09 | 
-| **Keywords** | React Server Components[React2Shell](https://react2shell.com/) | 
+| **Keywords** | React Server Components, React2Shell | 
 | **CVE** | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | 
 | **Details** | The critical security vulnerability in React Server Components (RSC), designed to solve performance and security issues often encountered in web applications and widely used by organisations globally, commonly referred to as React2Shell, enables an unauthenticated attacker to craft a malicious HTTP request that, when processed, executes arbitrary code on the server. Exploitation attempts are reported to be actively conducted by various intrusion sets. A public Proof of Concept (PoC) is available for this vulnerability. For additional details please refer to the specific CNW member advisories referenced below. |
 
