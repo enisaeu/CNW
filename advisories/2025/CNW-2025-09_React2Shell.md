@@ -5,7 +5,7 @@
 | **Number** | CNW-2025-09 | 
 | **Keywords** | React Server Components[React2Shell](https://react2shell.com/) | 
 | **CVE** | [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) | 
-| **Details** | The critical security vulnerability in React Server Components (RSC), designed to solve performance and security issues often encountered in web applications and widely used by organisations globally, commonly referred to as React2Shell, enables an unauthenticated attacker to craft a malicious HTTP request that, when processed, executes arbitrary code on the server. Exploitation attempts are reported to be actively conducted by various intrusion sets. A public Proof of Concept (PoC) is available for this vulnerability. For additional details please refer to the specific CNW member advisories referenced below." |
+| **Details** | The critical security vulnerability in React Server Components (RSC), designed to solve performance and security issues often encountered in web applications and widely used by organisations globally, commonly referred to as React2Shell, enables an unauthenticated attacker to craft a malicious HTTP request that, when processed, executes arbitrary code on the server. Exploitation attempts are reported to be actively conducted by various intrusion sets. A public Proof of Concept (PoC) is available for this vulnerability. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
@@ -32,14 +32,14 @@
 | IE | NCSC-IE | EN | [Critical Security Vulnerability in React Server Components](https://www.ncsc.gov.ie/pdfs/2512040177_CVE-2025-55182.pdf) |
 | IT | CERT Italia | IT | [Vulnerabilità in React: Next.js nella lista dei progetti interessati](https://www.acn.gov.it/portale/w/vulnerabilita-in-react-next.js-nella-lista-dei-progetti-interessati) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
-| LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
-| LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
+| LU | CIRCL | EN | [CVE-2025-55182 (GCVE-0-2025-55182)](https://vulnerability.circl.lu/vuln/CVE-2025-55182#bundles) |
+| LV | CERT-LV | LV | [Atklāta kritiska ievainojamība React servera komponentēs](https://www.acn.gov.it/portale/w/vulnerabilita-in-react-next.js-nella-lista-dei-progetti-interessati) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
-| PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
+| NL | NCSC-NL | NL | [Kwetsbaarheden verholpen in React Server Components](https://advisories.ncsc.nl/2025/ncsc-2025-0380.html) |
+| PL | CERT-PL | PL | [Kategoria CVE](https://cert.pl/cve/) |
+| PT | CNCS | PT | [Alerta de Vulnerabilidade - React Server Components](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/135974/alerta-de-vulnerabilidade-react-server-components) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
-| SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
+| SE | CERT-SE | SV | [Kritisk sårbarhet i React Server Components (RSC)](https://www.cert.se/2025/12/kritisk-sarbarhet-i-react.html) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
 | SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/threat/index.html) |
 
