@@ -11,26 +11,26 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
+| AT | CERT-AT | DE | [React2Shell - Angriffe gegen verwundbare Anwendungen auf von Basis React.JS und weiterer Frameworks](https://www.cert.at/de/warnungen/2025/12/react2shell-angriffe-gegen-verwundbare-anwendungen-auf-basis-reactjs-und-weiterer-frameworks) |
 | BG | CERT.bg | BG | [Warnings](https://www.govcert.bg/en/category/warnings/) |
-| BE | CERT.be | EN | [CERT.be Advisories](https://cert.be/en/advisories-0) |
+| BE | CERT.be | EN | [Warning: Critical vulnerability in React Server Components can lead to unauthenticated remote code execution (RCE), Patch Immediately!](https://ccb.belgium.be/advisories/warning-critical-vulnerability-react-server-components-can-lead-unauthenticated-remote) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CSIRT.CZ | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Upozornění a hrozby](https://portal.nukib.gov.cz/informacni-servis/aktualne?categories=Upozornění+a+hrozby) |
-| DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
+| DE | BSI | DE | [React Server Components: Kritische Schwachstelle bedroht zahlreiche Webanwendungen](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2025/2025-304569-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
-| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
+| ES | INCIBE-CERT | ES | [Ejecución remota de código en React Server Components](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/ejecucion-remota-de-codigo-en-react-server-components) |
+| EUI | CERT-EU | EN | [Critical Security Vulnerability in React Server Components](https://cert.europa.eu/publications/security-advisories/2025-041/) |
+| FI | NCSC-FI | FI | [Kriittinen haavoittuvuus Reactin React Server Components -toiminnallisuudessa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus_23/2025) |
+| FR | CERT-FR | FR | [Vulnérabilité dans React Server Components](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-014/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
-| HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
+| HR | CERT.hr | HR | [CVE-2025-55182](https://cve.cert.hr/cve/CVE-2025-55182) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
-| IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
+| IE | NCSC-IE | EN | [Critical Security Vulnerability in React Server Components](https://www.ncsc.gov.ie/pdfs/2512040177_CVE-2025-55182.pdf) |
+| IT | CERT Italia | IT | [Vulnerabilità in React: Next.js nella lista dei progetti interessati](https://www.acn.gov.it/portale/w/vulnerabilita-in-react-next.js-nella-lista-dei-progetti-interessati) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
