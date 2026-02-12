@@ -33,7 +33,7 @@
     "cveID": "CVE-2025-59718",
     "euvdID": "EUVD-2025-202198",
     "vendorProject": "Fortinet",
-    "product": "Fortiweb",
+    "product": "FortiOS,FortiProxy,FortiSwitchManager",
     "vulnerabilityName": "-",
     "dateReported": "27/01/26",
     "patchedSince": "tbc",
