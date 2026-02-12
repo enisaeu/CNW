@@ -54,6 +54,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | AT | CERT.at | DE | [DDoS Angriffe gegen Unternehmen in Österreich](https://cert.at/de/warnungen/2021/6/ddos-angriffe-gegen-unternehmen-in-osterreich) |
 | BE | CERT.be | FR | [DDOS: protection et prévention [PDF]](https://cert.be/fr/paper/ddos-protection-et-prevention) |
 | DE | BSI | DE | [Praktische Informationen zur Vermeidung von DDoS-Anfällen und Hilfestellungen bei der Reaktion](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Informationen-und-Empfehlungen/Empfehlungen-nach-Gefaehrdungen/DDoS/ddos_node.html) |
+| EUI | CERT-EU | EN | [DDoS Overview and Response Guide](https://cert.europa.eu/publications/security-guidance/CERT-EU_Security_Whitepaper_DDoS_17-003/) |
 | FI | NCSC-FI | FI | [Neuvoja palvelunestohyökkäyksen estämiseksi [PDF]](https://www.kyberturvallisuuskeskus.fi/fi/julkaisut/neuvoja-palvelunestohyokkayksen-estamiseksi) |
 | FR | CERT-FR | FR | [Comprendre et anticiper les attaques DDoS [PDF]](https://www.ssi.gouv.fr/administration/guide/comprendre-et-anticiper-les-attaques-ddos/) |
 | HU | NCSC-HU | HU | [Védekezés a szolgáltatás megtagadásra irányuló DOS támadások ellen [PDF] (10 March 2022)](https://nki.gov.hu/wp-content/uploads/2022/03/DOS_tamadasok_elleni_vedekezes-1.pdf) |
@@ -68,17 +69,16 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ### Authentication
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL | EN | [Factsheet Mature authentication - use of secure authentication tools (09 June 2022)](https://english.ncsc.nl/publications/factsheets/2022/juni/9/factsheet-mature-authentication---use-of-secure-authentication-tools) |
+| NL | NCSC-NL | NL| [Volwassen authenticeren](https://www.ncsc.nl/multifactor-authenticatie/volwassen-authenticeren) |
 | NL | NCSC-NL | NL | [Factsheet Gebruik tweefactorauthenticatie (17 March 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/factsheet-gebruik-tweefactorauthenticatie) |
 | PL | CERT-PL | PL | [Hasła - Materiałów, kierowany do wielu grup odbiorców](https://cert.pl/hasla/) |
 
 ### Network Security / Architecture
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| NL | NCSC-NL | EN | [Factsheet Prepare for Zero Trust (18 August 2021)](https://english.ncsc.nl/publications/factsheets/2021/augustus/18/factsheet-prepare-for-zero-trust) |
-| NL | NCSC-NL | NL | [Factsheet SOC inrichten: begin klein (03 May 2023)](https://www.ncsc.nl/documenten/factsheets/2019/juni/01/soc-inrichten) |
-| NL | NCSC-NL | EN | [Factsheet Managing edge devices (10 June 2024)](https://english.ncsc.nl/publications/factsheets/2024/june/10/factsheet-managing-edge-devices) |
-| NL | NCSC-NL | NL | [Kennisproduct Omgaan met edge devices (10 June 2024)](https://www.ncsc.nl/documenten/factsheets/2024/juni/10/kennisproduct-omgaan-met-edge-devices) |
+| NL | NCSC-NL | NL | [Zero Trust](https://www.ncsc.nl/zero-trust) |
+| NL | NCSC-NL | NL | [SOC inrichten: begin klein](https://www.ncsc.nl/detectie/soc-inrichten) |
+| NL | NCSC-NL | NL | [Kennisproduct Omgaan met edge devices](https://www.ncsc.nl/api/media/sites/default/files/NCSC%20Kennisproduct%20Omgaan%20met%20edge%20devices.pdf) |
 
 ### Cloud Security
 | Country | Organisation | Language | Material |
@@ -86,9 +86,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | DE | BSI | DE | [Cloud Computing Grundlagen](https://www.bsi.bund.de/dok/6622124) |
 | FR | ANSSI | FR | [Prestataires de service d’informatique en nuage (SecNumCloud)](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/) |
 | FR | ANSSI | FR | [RECOMMANDATIONS POUR L’HÉBERGEMENT DANS LE CLOUD DES SYSTÈMES D’INFORMATION SENSIBLES [PDF]](https://cyber.gouv.fr/sites/default/files/document/recommandations_hebergement_cloud_systemes_information_sensible.pdf) |
-| FR | ANSSI | FR | [Recommendations on hosting sensitive IS in the cloud](https://cyber.gouv.fr/sites/default/files/document/anssi_Recommendations%20on%20hosting%20sensitive%20IS%20in%20the%20cloud.pdf) |
+| FR | ANSSI | FR | [RECOMMENDATIONS ON HOSTING SENSITIVE INFORMATION SYSTEMS IN THE CLOUD](https://cyber.gouv.fr/sites/default/files/document/anssi_Recommendations%20on%20hosting%20sensitive%20IS%20in%20the%20cloud.pdf) |
 | EU | ENISA | EN | [Cloud Security - Publication Node](https://www.enisa.europa.eu/topics/cloud-and-big-data/cloud-security) |
-| NL | NCSC-NL | EN | [Factscheet 5 recommendations for securely purchasing cloud services (31 December 2020)](https://english.ncsc.nl/publications/factsheets/2020/december/31/factsheet-5-recommendations-for-securely-purchasing-cloud-services) |
 
 ### Monitoring / Logging
 | Country | Organisation | Language | Material |
@@ -107,7 +106,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 ### Incident Response
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
-| EUI | CERT-EU | EN | [Data Acquisition Guidelines for Investigation Purposes (2019)](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP2012-004.pdf) |
+| EUI | CERT-EU | EN | [Security White Paper 2017-002_Detecting Lateral Movements in Windows Infrastructure](https://cert.europa.eu/publications/security-guidance/CERT-EU_SWP_17-002_Lateral_Movements/) |
+| EUI | CERT-EU | EN | [Security White Paper 2011-003 - Windows Malware Detection (Incident Response Methodology)](https://cert.europa.eu/publications/security-guidance/CERT-EU-SWP_11_003_v2/) |
 | EU | ENISA | EN | [Standards and tools for exchange and processing of actionable information (19 January 2015)](https://www.enisa.europa.eu/publications/standards-and-tools-for-exchange-and-processing-of-actionable-information) |
 
 ### Webserver Security
@@ -141,8 +141,8 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | Country | Organisation | Language | CNA | Policy/Reporting |
 | :-----: | :----------: | :------: | :------: | :------ |
 | AT | CERT.at | DE | No | [Nationale Policy für die koordinierte Offenlegung von Schwachstellen (CVD)](https://www.cert.at/de/spezielles/2025/5/nationale-cvd-policy) |
-| BE | CCB | EN | No | [Vulnerability reporting to the CCB (15 February 2023)](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
-| BE | CCB | FR | No | [Signalement des vulnérabilités au CCB (15 février 2023)](https://ccb.belgium.be/fr/signalement-des-vuln%C3%A9rabilit%C3%A9s-au-ccb) |
+| BE | CCB | EN | No | [Legal procedure for reporting vulnerabilities to the CCB](https://ccb.belgium.be/en/vulnerability-reporting-ccb) |
+| BE | CCB | FR | No | [Procédure légale de signalement de vulnérabilités au CCB](https://ccb.belgium.be/cert/vulnerability-reporting-ccb) |
 | DE | CERT-Bund | DE | No | [Leitlinie und Richtlinie für Sicherheitsforschende (Dezember 2022)](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | DE | CERT-Bund | EN | No | [BSI CVD guideline for security researchers (December 2022)](https://www.bsi.bund.de/EN/IT-Sicherheitsvorfall/IT-Schwachstellen/it-schwachstellen_node.html) |
 | ES | INCIBE-CERT | EN | Yes | [Vulnerability disclosure policy](https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/asignacion-publicacion-cve) |
@@ -152,7 +152,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | FI | NCSC-FI | EN | Yes | [Vulnerability Coordination and Reporting](https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management) |
 | FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
 | MT | CIPD | EN | No | [National Coordinated Vulnerability Disclosure Policy](https://www.mdia.gov.mt/ncvdp/) |
-| NL | NCSC-NL | EN | Yes | [Coordinated Vulnerability Disclosure: the Guideline (02 October 2018)](https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline) |
+| NL | NCSC-NL | EN | Yes | [Guideline and form to submit a vulnerability](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncsc.nl/en/services/Report-a-vulnerability&ved=2ahUKEwio_eaFo9SSAxXe1QIHHZGJMSYQFnoECBgQAQ&usg=AOvVaw1jyuScegI9LpTr84ccco8T) |
 | PL | CERT-PL | EN | Yes | [Reporting vulnerabilities to CERT Polska](https://cert.pl/en/cvd/) |
 | SK | SK-CERT | EN | Yes | [Vulnerability Reporting Guideline (07 October 2019)](https://www.sk-cert.sk/en/vulnerability-reporting/index.html) |
 | LU | CIRCL | EN | No | [Coordinated Vulnerability Disclosure (CVD) Policy](https://circl.lu/pub/coordinated-vulnerability-disclosure/) |
