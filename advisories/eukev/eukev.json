@@ -1,20 +1,5 @@
 [
-  {
-    "cveID": "CVE-2025-25231",
-    "euvdID": "EUVD-2025-24160",
-    "vendorProject": "Omnissa",
-    "product": "Omnissa Workspace ONE UEM",
-    "vulnerabilityName": "-",
-    "dateReported": "09/09/25",
-    "patchedSince": "tbc",
-    "originSource": "CERT-PL",
-    "shortDescription": "Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints",
-    "exploitationType": "-",
-    "threatActorsExploiting": "-",
-    "cwes": "-",
-    "notes": "https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/"
-  },
-  {
+    {
     "cveID": "CVE-2025-59719",
     "euvdID": "EUVD-2025-202191",
     "vendorProject": "Fortinet",
@@ -29,7 +14,7 @@
     "cwes": "-",
     "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
   },
-    {
+  {
     "cveID": "CVE-2025-59718",
     "euvdID": "EUVD-2025-202198",
     "vendorProject": "Fortinet",
@@ -43,6 +28,21 @@
     "threatActorsExploiting": "-",
     "cwes": "-",
     "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
+  },
+  {
+    "cveID": "CVE-2025-25231",
+    "euvdID": "EUVD-2025-24160",
+    "vendorProject": "Omnissa",
+    "product": "Omnissa Workspace ONE UEM",
+    "vulnerabilityName": "-",
+    "dateReported": "09/09/25",
+    "patchedSince": "tbc",
+    "originSource": "CERT-PL",
+    "shortDescription": "Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "-",
+    "notes": "https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/"
   },
   {
     "cveID": "CVE-2025-6543",
