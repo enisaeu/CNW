@@ -15,6 +15,36 @@
     "notes": "https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/"
   },
   {
+    "cveID": "CVE-2025-59719",
+    "euvdID": "EUVD-2025-202191",
+    "vendorProject": "Fortinet",
+    "product": "Fortiweb",
+    "vulnerabilityName": "-",
+    "dateReported": "27/01/26",
+    "patchedSince": "tbc",
+    "originSource": "CERT-AT",
+    "shortDescription": "An improper verification of cryptographic signature vulnerability in Fortinet FortiWeb may allow an unauthenticated attacker to bypass the FortiCloud SSO login authentication via a crafted SAML response message.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "-",
+    "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
+  },
+    {
+    "cveID": "CVE-2025-59718",
+    "euvdID": "EUVD-2025-202198",
+    "vendorProject": "Fortinet",
+    "product": "Fortiweb",
+    "vulnerabilityName": "-",
+    "dateReported": "27/01/26",
+    "patchedSince": "tbc",
+    "originSource": "CERT-AT",
+    "shortDescription": "A improper verification of cryptographic signature vulnerability in Fortinet FortiOS, FortiProxy, FortiSwitchManager allows an unauthenticated attacker to bypass the FortiCloud SSO login authentication via a crafted SAML response message.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "-",
+    "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
+  },
+  {
     "cveID": "CVE-2025-6543",
     "euvdID": "EUVD-2025-19085",
     "vendorProject": "Citrix",
