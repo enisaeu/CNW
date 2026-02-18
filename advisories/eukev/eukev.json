@@ -1,5 +1,36 @@
 [
-    {
+  {
+    "cveID": "CVE-2026-1281",
+    "euvdID": "EUVD-2026-4940",
+    "vendorProject": "Ivanti",
+    "product": "Endpoint Manager Mobile",
+    "vulnerabilityName": "-",
+    "dateReported": "29/01/26",
+    "patchedSince": "tbc",
+    "originSource": "cnw",
+    "shortDescription": "A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "-",
+    "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
+  },
+  {
+    "cveID": "CVE-2026-1340",
+    "euvdID": "EUVD-2026-4936",
+    "vendorProject": "Ivanti",
+    "product": "Endpoint Manager Mobile",
+    "vulnerabilityName": "-",
+    "dateReported": "29/01/26",
+    "patchedSince": "tbc",
+    "originSource": "cnw",
+    "shortDescription": "A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "-",
+    "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
+  },
+    
+  {
     "cveID": "CVE-2025-59719",
     "euvdID": "EUVD-2025-202191",
     "vendorProject": "Fortinet",
