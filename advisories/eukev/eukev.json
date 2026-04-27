@@ -1,5 +1,33 @@
 [
   {
+    "cveID": "CVE-2024-42009",
+    "euvdID": "EUVD-2024-39391",
+    "vendorProject": "RoundCube",
+    "product": "Webmail",
+    "dateReported": "27/04/26",
+    "patchedSince": "04/08/2024",
+    "originSource": "CERT-PL",
+    "shortDescription": "A Cross-Site Scripting vulnerability in Roundcube through 1.5.7 and 1.6.x through 1.6.7 allows a remote attacker to steal and send emails of a victim via a crafted e-mail message that abuses a Desanitization issue in message_body() in program/actions/mail/show.php.",
+    "exploitationType": "APT",
+    "threatActorsExploiting": "UNC1151",
+    "cwes": "CWE-79",
+    "notes": "https://cert.pl/en/posts/2025/06/unc1151-campaign-roundcube/"
+  },
+  {
+    "cveID": "CVE-2026-20963",
+    "euvdID": "EUVD-2026-2114",
+    "vendorProject": "Microsoft",
+    "product": "Microsoft SharePoint",
+    "vulnerabilityName": "-",
+    "dateReported": "12/03/26",
+    "patchedSince": "13/02/2026",
+    "originSource": "cnw",
+    "shortDescription": "Deserialization of untrusted data in Microsoft Office SharePoint allows an authorized attacker to execute code over a network.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "cwe-502",
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20963"
+  },{
     "cveID": "CVE-2026-1281",
     "euvdID": "EUVD-2026-4940",
     "vendorProject": "Ivanti",
