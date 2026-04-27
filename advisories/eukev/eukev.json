@@ -27,7 +27,8 @@
     "threatActorsExploiting": "-",
     "cwes": "cwe-502",
     "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20963"
-  },{
+  },
+  {
     "cveID": "CVE-2026-1281",
     "euvdID": "EUVD-2026-4940",
     "vendorProject": "Ivanti",
@@ -56,8 +57,7 @@
     "threatActorsExploiting": "-",
     "cwes": "-",
     "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
-  },
-    
+  },    
   {
     "cveID": "CVE-2025-59719",
     "euvdID": "EUVD-2025-202191",
