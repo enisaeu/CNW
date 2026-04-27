@@ -195,7 +195,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
+| PL | CERT-PL | PL | [Komunikaty moje.cert.pl](https://moje.cert.pl/komunikaty/), [Category CVE](https://cert.pl/en/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
 | SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
