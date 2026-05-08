@@ -9,6 +9,7 @@
     "originSource": "CERT-PL",
     "shortDescription": "cPanel and WHM versions after 11.40 contain an authentication bypass vulnerability in the login flow that allows unauthenticated remote attackers to gain unauthorized access to the control panel.",
     "exploitationType": "ransomware",
+    "threatActorsExploiting": "-",
     "cwes": "CWE-306",
     "notes": "https://support.cpanel.net/hc/en-us/articles/40073787579671-Security-CVE-2026-41940-cPanel-WHM-WP2-Security-Update-04-28-2026"
   },
