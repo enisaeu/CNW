@@ -70,8 +70,7 @@
     "threatActorsExploiting": "-",
     "cwes": "-",
     "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
-  },
-    
+  },    
   {
     "cveID": "CVE-2025-59719",
     "euvdID": "EUVD-2025-202191",
