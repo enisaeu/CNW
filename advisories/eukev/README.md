@@ -21,7 +21,7 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | cwes                    | optional | Common Weakness Enumeration (CWE) codes associated with this vulnerability. CWEs are in the format CWE-NNNN; note that the number portion can have any number of digits |
 | notes                   | optional | Additional notes related to the vulnerability |
 
-The EU KEV list is ordered by `dateReported` and new entries should be added to the top of the list. By default, the list is appended only. Confirmed errors may be corrected and need to be communicated to the CVD WG.
+The EU KEV list is ordered by `dateReported` and new entries should be added to the top of the list. By default, the list is appended only.
 
 ## EU KEV Publication
 ### Public repository
