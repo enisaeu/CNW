@@ -9,7 +9,7 @@
     "originSource": "CERT-PL",
     "shortDescription": "cPanel and WHM versions after 11.40 contain an authentication bypass vulnerability in the login flow that allows unauthenticated remote attackers to gain unauthorized access to the control panel.",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-306",
     "notes": "https://support.cpanel.net/hc/en-us/articles/40073787579671-Security-CVE-2026-41940-cPanel-WHM-WP2-Security-Update-04-28-2026"
   },
@@ -38,7 +38,7 @@
     "originSource": "cnw",
     "shortDescription": "Flaw in how React decodes payloads sent to React Server Function endpoints enabled unauthenticated remote code execution. Apps supporting React Server Components may still be vulnerable even if not implementing any React Server Function endpoints.",
     "exploitationType": "APT",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components#update-instructions"
   },
@@ -53,7 +53,7 @@
     "originSource": "cnw",
     "shortDescription": "High severity vulnerability. Successful exploitation may lead to unauthenticated remote code execution when chained together with CVE-2025-4427.",
     "exploitationType": "APT",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-502",
     "notes": "-"
   },
@@ -68,7 +68,7 @@
     "originSource": "cnw",
     "shortDescription": "High severity vulnerability. Successful exploitation may lead to unauthenticated remote code execution when chained together with CVE-2025-4427.",
     "exploitationType": "APT",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-94",
     "notes": "https://ccb.belgium.be/advisories/warning-actively-exploited-zero-day-vulnerabilities-ivanti-endpoint-manager-mobile-epmm"
   },
@@ -83,7 +83,7 @@
     "originSource": "cnw",
     "shortDescription": "Medium severity vulnerability. Successful exploitation may lead to unauthenticated remote code execution when chained together with CVE-2025-4428.",
     "exploitationType": "APT",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-288",
     "notes": "https://ccb.belgium.be/advisories/warning-actively-exploited-zero-day-vulnerabilities-ivanti-endpoint-manager-mobile-epmm"
   },
@@ -98,7 +98,7 @@
     "originSource": "cnw",
     "shortDescription": "Evidence of active exploitation in the wild against ICS 9.X (end of life) and 22.7R2.5 and earlier versions since April 2025.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -113,7 +113,7 @@
     "originSource": "cnw",
     "shortDescription": "Deserialization of untrusted data in Microsoft Office SharePoint allows an authorized attacker to execute code over a network.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-502",
     "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20963"
   },
@@ -128,7 +128,7 @@
     "originSource": "cnw",
     "shortDescription": "A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
   },
@@ -143,7 +143,7 @@
     "originSource": "cnw",
     "shortDescription": "A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.ncsc.nl/alert/casus-kwetsbaarheden-ivanti-epmm-systemen"
   },
@@ -159,7 +159,7 @@
     "originSource": "CERT-AT",
     "shortDescription": "An improper verification of cryptographic signature vulnerability in Fortinet FortiWeb may allow an unauthenticated attacker to bypass the FortiCloud SSO login authentication via a crafted SAML response message.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
   },
@@ -174,7 +174,7 @@
     "originSource": "CERT-AT",
     "shortDescription": "A improper verification of cryptographic signature vulnerability in Fortinet FortiOS, FortiProxy, FortiSwitchManager allows an unauthenticated attacker to bypass the FortiCloud SSO login authentication via a crafted SAML response message.",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.cert.at/en/blog/2026/1/threat-actors-use-forticloud-to-collect-ldap-connection-passwords, https://www.cert.at/en/blog/2026/1/look-at-forticloud-sso-bypass-exploitation"
   },
@@ -189,7 +189,7 @@
     "originSource": "CERT-PL",
     "shortDescription": "Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/"
   },
@@ -204,7 +204,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -219,7 +219,7 @@
     "originSource": "CERT Italia",
     "shortDescription": "This management interface allows administrative operations to be performed without adequate access controls allowing a remote attacker to interact with the system in an unauthorized manner",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note"
   },
@@ -234,7 +234,7 @@
     "originSource": "CERT Italia",
     "shortDescription": "Some management interfaces remain accessible and lack effective access control mechanisms",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note"
   },
@@ -249,7 +249,7 @@
     "originSource": "CERT Italia",
     "shortDescription": "the system accepts serialized objects without verifying their origin or reliability allowing an attacker to send specially crafted payloads that are then deserialized and executed",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note"
   },
@@ -264,7 +264,7 @@
     "originSource": "CERT Italia",
     "shortDescription": "the servlet exposes an endpoint that allows you to invoke Java Management Extensions (JMX) operations without any authentication or access control",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "https://www.acn.gov.it/portale/w/distribuzione-di-payload-malevoli-tramite-vulnerabilita-note"
   },
@@ -279,7 +279,7 @@
     "originSource": "cnw",
     "shortDescription": "authentication bypass using an alternate path or channel vulnerability",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "CWE-288",
     "notes": "-"
   },
@@ -294,7 +294,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -309,7 +309,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -324,7 +324,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -339,7 +339,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -354,7 +354,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -369,7 +369,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -384,7 +384,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -399,7 +399,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -414,7 +414,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "ransomware",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -429,7 +429,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -444,7 +444,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   },
@@ -459,7 +459,7 @@
     "originSource": "cnw",
     "shortDescription": "-",
     "exploitationType": "-",
-    "threatActorsExploiting": "-",
+    "threatActorsExploiting": "unknown",
     "cwes": "-",
     "notes": "-"
   }
