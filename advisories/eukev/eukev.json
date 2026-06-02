@@ -51,11 +51,11 @@
     "dateReported": "2026/04/08",
     "patchedSince": "2025/07/19",
     "originSource": "cnw",
-    "shortDescription": "High severity vulnerability. Successful exploitation may lead to unauthenticated remote code execution when chained together with CVE-2025-4427.",
+    "shortDescription": "Microsoft confirmation of active attacks targeting on-premises SharePoint Server customers by exploiting vulnerabilities partially addressed by the July Security Update.",
     "exploitationType": "APT",
     "threatActorsExploiting": "unknown",
     "cwes": "CWE-502",
-    "notes": "-"
+    "notes": "https://www.microsoft.com/en-us/msrc/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770"
   },
   {
     "cveID": "CVE-2025-4428",
