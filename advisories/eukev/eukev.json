@@ -1,5 +1,19 @@
 [
   {
+    "cveID": "CVE-2026-1731",
+    "euvdID": "EUVD-2026-5559",
+    "vendorProject": "BeyondTrust",
+    "product": "Remote Support (RS), Privileged Remote Access (PRA)",
+    "dateReported": "2026/06/04",
+    "patchedSince": "2026/02/26",
+    "originSource": "NCSC-FI",
+    "shortDescription": "Critical pre-authentication RCE vulnerability.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "CWE-78",
+    "notes": "https://www.beyondtrust.com/trust-center/security-advisories/bt26-02"
+  },
+  {
     "cveID": "CVE-2026-41940",
     "euvdID": "EUVD-2026-26246",
     "vendorProject": "WebPros",
