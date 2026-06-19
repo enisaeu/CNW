@@ -38,7 +38,7 @@
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | https://www.ncsc.nl/alerts/fortibleed-duizenden-fortinetsystemen-mogelijk-geraakt |
 | PL | CERT-PL | PL |https://moje.cert.pl/komunikaty/2026/102/pilne-rekomendacje-dla-wszystkich-instytucji-korzystajacych-z-oprogramowania-fortigate/ |
-| PT | CNCS | PT |  |
+| PT | CNCS | PT | https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/136020/alerta-de-seguranca-fortibleed-fortinet  |
 | RO | DNSC | RO |  |
 | SE | CERT-SE | SV |   |
 | SI | SI-CERT | SL |   |
