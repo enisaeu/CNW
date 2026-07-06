@@ -1,5 +1,33 @@
 [
   {
+    "cveID": "CVE-2026-48907",
+    "euvdID": "EUVD-2026-34789",
+    "vendorProject": "Widget Factory (Pty) Ltd",
+    "product": "Joomla Content Editor (JCE)",
+    "dateReported": "2026/07/06",
+    "patchedSince": "2026/06/03",
+    "originSource": "CERT-PL",
+    "shortDescription": "Critical vulnerability in JCE editor extension.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "CWE-284",
+    "notes": "https://www.joomlacontenteditor.net/news/jce-pro-2-9-99-5-released"
+  },
+  {
+    "cveID": "CVE-2026-48908",
+    "euvdID": "EUVD-2026-38110",
+    "vendorProject": "JoomShaper",
+    "product": "SP Page Builder extension for Joomla",
+    "dateReported": "2026/07/06",
+    "patchedSince": "2026/06/20",
+    "originSource": "CERT-PL",
+    "shortDescription": "Critical vulnerability that allows unauthenticated users to upload arbitrary files.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "CWE-434",
+    "notes": "https://www.joomshaper.com/forum/question/45152"
+  },
+  {
     "cveID": "CVE-2026-1731",
     "euvdID": "EUVD-2026-5559",
     "vendorProject": "BeyondTrust",
