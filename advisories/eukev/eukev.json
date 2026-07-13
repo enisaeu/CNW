@@ -1,5 +1,19 @@
 [
   {
+    "cveID": "CVE-2026-49049",
+    "euvdID": "EUVD-2026-40122",
+    "vendorProject": "JoomShaper",
+    "product": "Helix3 extension for Joomla",
+    "dateReported": "2026/07/10",
+    "patchedSince": "2026/06/29",
+    "originSource": "cnw",
+    "shortDescription": "Helix3 plugin for Joomla exposes an ajax handler task that allows unauthenticated attackers to delete arbitrary files, write arbitrary JSON files and update template parameters.",
+    "exploitationType": "-",
+    "threatActorsExploiting": "-",
+    "cwes": "CWE-284",
+    "notes": "https://www.joomshaper.com/forum/question/45671"
+  },
+  {
     "cveID": "CVE-2026-48907",
     "euvdID": "EUVD-2026-34789",
     "vendorProject": "Widget Factory (Pty) Ltd",
