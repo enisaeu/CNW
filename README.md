@@ -150,7 +150,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | EU | ENISA | EN | Yes | [ENISA Coordinated Vulnerability Disclosure Policy](https://csirtsnetwork.eu/homepage?tab=cvd) |
 | EUI | CERT-EU | EN | No | [Coordinated vulnerability disclosure policy](https://cert.europa.eu/coordinated-vulnerability-disclosure-policy) 
 | FI | NCSC-FI | EN | Yes | [Vulnerability Coordination and Reporting](https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management) |
-| FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
+| FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://cyber.gouv.fr/reglementation/cybersecurite-systemes-dinformation/declaration-de-vulnerabilit%C3%A9s/) |
 | MT | CIPD | EN | No | [National Coordinated Vulnerability Disclosure Policy](https://www.mdia.gov.mt/ncvdp/) |
 | NL | NCSC-NL | EN | Yes | [Guideline and form to submit a vulnerability](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncsc.nl/en/services/Report-a-vulnerability&ved=2ahUKEwio_eaFo9SSAxXe1QIHHZGJMSYQFnoECBgQAQ&usg=AOvVaw1jyuScegI9LpTr84ccco8T) |
 | PL | CERT-PL | EN | Yes | [Reporting vulnerabilities to CERT Polska](https://cert.pl/en/cvd/) |
