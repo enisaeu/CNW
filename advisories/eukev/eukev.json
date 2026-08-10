@@ -1,5 +1,19 @@
 [
   {
+    "cveID": "CVE-2017-10271",
+    "euvdID": "EUVD-2017-1918",
+    "vendorProject": "Oracle Corporation",
+    "product": "WebLogic Server",
+    "dateReported": "2026/08/10",
+    "patchedSince": "2017/10/17",
+    "originSource": "NCSC HU",
+    "shortDescription": "Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security).",
+    "exploitationType": "ransomware",
+    "threatActorsExploiting": "-",
+    "cwes": "CWE-306",
+    "notes": "https://github.com/c0mmand3rOpSec/CVE-2017-10271"
+  },
+  {
     "cveID": "CVE-2022-26134",
     "euvdID": "EUVD-2022-30701",
     "vendorProject": "Atlassian",
