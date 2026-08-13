@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/enisaeu/CNW/tree/main/eukev/schemas/v1",
-  "title": "Core schema for EU KEV data",
+  "title": "EU KEV schema",
   "type": "array",
   "items": {
     "type": "object",
@@ -78,9 +78,8 @@
         "type": "string",
         "description": "Additional notes related to the vulnerability listing"
       }
-
     },
-   "required": ["cveID", "euvdID", "vendorProject", "product", "dateReported", "originSource", "shortDescription", "exploitationType"],
+    "required": ["cveID", "euvdID", "vendorProject", "product", "dateReported", "originSource", "shortDescription", "exploitationType"],
     "additionalProperties": false
   }
 }
