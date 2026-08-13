@@ -1,13 +1,26 @@
-[
+[ 
+  {
+    "cveID": "CVE-2026-59310",
+    "euvdID": "EUVD-2026-51097",
+    "vendorProject": "VMware",
+    "product": "vCenter",
+    "dateReported": "2026/08/10",
+    "patchedSince": "2026/08/03",
+    "originSource": "ENISA",
+    "shortDescription": "Directory traversal vulnerability in the Syslog server. A malicious actor with network access to vCenter may exploit this issue to execute arbitrary code",
+    "exploitationType": ["APT"],
+    "cwes": ["CWE-22"],
+    "notes": "https://medium.com/@quirso_de/active-exploitation-of-cve-2026-59310-361-victim-ips-across-47-countries-9783187cc6ff"
+  },
   {
     "cveID": "CVE-2026-68820",
     "euvdID": "EUVD-2026-56468",
     "vendorProject": "Microsoft",
-    "product": "Windows ",
+    "product": "Windows",
     "dateReported": "2026/08/11",
     "patchedSince": "2026/08/11",
     "originSource": "ENISA",
-    "shortDescription": "Use after free in Windows Ancillary Function Driver for WinSock allows an authorized attacker to elevate privileges locally.",
+    "shortDescription": "Use after free in Windows Ancillary Function Driver for WinSock allows an authorized attacker to elevate privileges locally",
     "exploitationType": ["APT"],
     "cwes": ["CWE-416"],
     "notes": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
