@@ -11,5 +11,5 @@ jobs:
         with:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
           MATTERMOST_CHANNEL: "EU KEV - new submission"
-          TEXT: |
-            New EU KEV
+          TEXT: "New EU KEV commited"
+          MATTERMOST_USERNAME: ${{ github.triggering_actor }}
