@@ -1,7 +1,7 @@
 on:
   push:
-    paths:
-      - 'eukey/eukev.json'
+    branches:
+      - 'main'
 jobs:
   notify:
     name: Notify new EUKEV
