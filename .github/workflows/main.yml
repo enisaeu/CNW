@@ -7,7 +7,7 @@ jobs:
     name: Notify new EUKEV
     runs-on: ubuntu-latest
     steps:
-      - uses: mattermost/action-mattermost-notify@latest
+      - uses: mattermost/action-mattermost-notify@master
         with:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
           MATTERMOST_CHANNEL: "EU KEV - new submission"
