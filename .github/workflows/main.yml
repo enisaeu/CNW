@@ -1,0 +1,15 @@
+on:
+  push:
+    paths:
+      - 'eukey/eukev.json'
+jobs:
+  notify:
+    name: Notify new EUKEV
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mattermost/action-mattermost-notify@ae31bb6f9e26a54336e79696f108a2c91cf55b4e
+        with:
+          MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+          MATTERMOST_CHANNEL: "EU KEV - new submission"
+          TEXT: |
+            New EU KEV
