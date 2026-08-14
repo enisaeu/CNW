@@ -7,7 +7,7 @@
     "dateReported": "2026/08/10",
     "patchedSince": "2026/08/03",
     "originSource": "ENISA",
-    "shortDescription": "Directory traversal vulnerability in the Syslog server. A malicious actor with network access to vCenter may exploit this issue to execute arbitrary code.",
+    "shortDescription": "Directory traversal vulnerability in the Syslog server. A malicious actor with network access to vCenter may exploit this issue to execute arbitrary code",
     "exploitationType": ["APT"],
     "cwes": ["CWE-22"],
     "notes": "https://medium.com/@quirso_de/active-exploitation-of-cve-2026-59310-361-victim-ips-across-47-countries-9783187cc6ff"
