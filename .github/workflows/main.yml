@@ -12,7 +12,7 @@ jobs:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
           PAYLOAD: |-
             {
-              "text": "New EU KEV submitted"
+              "text": "New EU KEV submitted",
               "channel": "EU KEV-new submission",
               "username": "${{ github.triggering_actor }}"
             }
