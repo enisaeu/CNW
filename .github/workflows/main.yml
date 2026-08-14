@@ -10,6 +10,9 @@ jobs:
       - uses: mattermost/action-mattermost-notify@master
         with:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
-          MATTERMOST_CHANNEL: "EU KEV - new submission"
-          TEXT: "New EU KEV commited"
-          MATTERMOST_USERNAME: ${{ github.triggering_actor }}
+          PAYLOAD: |-
+            {
+              "text": "New EU KEV submitted - ${{ ",
+              "channel": "EU KEV - new submission",
+              "username": "${{ github.triggering_actor }}"
+            }
