@@ -14,7 +14,7 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | vulnerabilityName       | optional | Name of the vulnerability |
 | dateReported            | required | Date the vulnerability exploitation was reported in the format YYYY-MM-DD |
 | patchedSince            | optional | Date the vulnerability was patched in the format YYYY-MM-DD |
-| originSource            | required | Name of specific CNW member initially monitoring the vulnerability exploitation; 'CNW' if monitored by multiple CNW members / in case of undisclosed reporting; 'CRA' for mandatory reporting according to Cyber Resilience Act; 'CPP' for ENISA Cyber Partnership Programme, 'ENISA' for ENISA CTI |
+| originSource            | required | Name of specific CNW member initially monitoring the vulnerability exploitation; 'CNW' if monitored by multiple CNW members / in case of undisclosed reporting; 'CRA' for mandatory reporting according to Cyber Resilience Act; 'ENISA' for ENISA CTI |
 | shortDescription        | required | Short description of the vulnerability |
 | exploitationType        | required | 'Ransomware' if known to have been used by a ransomware group; 'APT' if known to have been used by an unspecific state-nexus groups; 'unknown' if the reporting party lacks confirmation that the vulnerability has been utilized by a specific entity |
 | threatActorsExploiting  | optional | List of Threat Actors known for exploiting the vulnerability |
@@ -22,7 +22,7 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | notes                   | optional | Additional notes related to the vulnerability |
 
 The EU KEV list is ordered by `dateReported` and new entries are added at the top of the list. By default, the list is appended only.
-'dateReported' and 'patchedSince' are dependent on the time zone of the reporting entity. When provided by a CNW member / via ENISA both are UTC based.
+The fields 'dateReported' and 'patchedSince' are dependent on the time zone of the reporting entity. When provided by a CNW member / via ENISA both fields are UTC based.
 
 ## EU KEV Publication
 ### Public repository
@@ -33,7 +33,7 @@ Public version (JSON format): [https://github.com/enisaeu/CNW/blob/main/advisori
 
 Monitored vulnerability exploitation provided via EU KEV is added to the European Vulnerability Database (EUVD) in the following format:
 
-```Added to EU KEV: YYYY-MM-DD 00:00```
+```Added to EU KEV: YYYY-MM-DD```
 
 ### Vulnerability-Lookup integration of EU KEV 
 
