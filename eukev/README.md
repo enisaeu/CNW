@@ -12,7 +12,7 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | vendorProject           | required | Vendor or project name for the vulnerability |
 | product                 | required | The vulnerable product |
 | vulnerabilityName       | optional | Name of the vulnerability |
-| dateReported            | required | Date the vulnerability was added to the catalog in the format YYYY-MM-DD |
+| dateReported            | required | Date the vulnerability exploitation was reported in the format YYYY-MM-DD |
 | patchedSince            | optional | Date the vulnerability was patched in the format YYYY-MM-DD |
 | originSource            | required | Name of specific CNW member initially monitoring the vulnerability exploitation; 'CNW' if monitored by multiple CNW members / in case of undisclosed reporting; 'CRA' for mandatory reporting according to Cyber Resilience Act; 'CPP' for ENISA Cyber Partnership Programme, 'ENISA' for ENISA CTI |
 | shortDescription        | required | Short description of the vulnerability |
@@ -22,6 +22,7 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | notes                   | optional | Additional notes related to the vulnerability |
 
 The EU KEV list is ordered by `dateReported` and new entries are added at the top of the list. By default, the list is appended only.
+'dateReported' and 'patchedSince' are dependent on the time zone of the reporting entity. When provided by a CNW member / via ENISA both are UTC based.
 
 ## EU KEV Publication
 ### Public repository
