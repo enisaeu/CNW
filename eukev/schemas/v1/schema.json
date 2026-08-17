@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/enisaeu/CNW/tree/main/eukev/schemas/v1",
   "title": "EU KEV schema",
   "type": "array",
@@ -9,12 +9,12 @@
       "cveID": {
         "type": "string",
         "description": "CVE ID of the vulnerability",
-        "pattern": "^CVE-\\d{4}-\\d{4,}$"
+        "pattern": "^CVE-20\\d{2}-\\d{4,}$"
       },
       "euvdID": {
         "type": "string",
         "description": "EUVD ID of the vulnerability",
-        "pattern": "^EUVD-\\d{4}-\\d{4,}$"
+        "pattern": "^EUVD-20\\d{2}-\\d{4,}$"
       },
       "vendorProject": {
         "type": "string",
@@ -31,16 +31,16 @@
       "dateReported": {
         "type": "string",
         "description": "Date the vulnerability was added to the catalog",
-        "pattern": "^[\\d]{4}/[\\d]{2}/[\\d]{2}$"
+        "pattern": "^20\\d{2}/([0][1-9]|[1][0-2])/([0][1-9]|[1-2][0-9]|[3][0-1])$"
       },
       "patchedSince": {
         "type": "string",
         "description": "Date the vulnerability was patched",
-        "pattern": "^[\\d]{4}/[\\d]{2}/[\\d]{2}$",
+        "pattern": "^20\\d{2}/([0][1-9]|[1][0-2])/([0][1-9]|[1-2][0-9]|[3][0-1])$"
       },
       "originSource": {
         "type": "string",
-        "description": "Name of specific CNW member initially monitoring the vulnerability exploitation; CNW if monitored by multiple CNW members / in case of undisclosed reporting; EUI for EU institutions; CRA for mandatory reporting according to Cyber Resilience Act; CPP for ENISA Cyber Partnership Programme, ENISA for ENISA CTI",
+        "description": "Name of specific CNW member initially monitoring the vulnerability exploitation; CNW if monitored by multiple CNW members / in case of undisclosed reporting; EUI for EU institutions; CRA for mandatory reporting according to Cyber Resilience Act; ENISA for ENISA CTI"
       },
       "shortDescription": {
         "type": "string",
