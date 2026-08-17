@@ -191,7 +191,7 @@
     "patchedSince": "2025/02/11",
     "originSource": "CNW",
     "shortDescription": "Evidence of active exploitation in the wild against ICS 9.X (end of life) and 22.7R2.5 and earlier versions since April 2025.",
-    "exploitationType": ["unknown"],
+    "exploitationType": ["unknown"]
   },
   {
     "cveID": "CVE-2026-20963",
