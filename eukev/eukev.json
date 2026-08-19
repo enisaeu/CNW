@@ -1,5 +1,57 @@
 [ 
   {
+    "cveID": "CVE-2026-41679",
+    "euvdID": "EUVD-2026-25166",
+    "vendorProject": "paperclipai",
+    "product": "@paperclipai/server, paperclip",
+    "dateReported": "2026/08/17",
+    "patchedSince": "2026/04/22",
+    "originSource": "CNW",
+    "shortDescription": "An unauthenticated attacker can achieve full remote code execution on any network-accessible Paperclip instance running in authenticated mode with default configuration.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-287","CWE-862","CWE-1188"],
+    "notes": "https://github.com/paperclipai/paperclip/security/advisories/GHSA-68qg-g8mg-6pr7"
+  },
+  {
+    "cveID": "CVE-2026-73570",
+    "euvdID": "EUVD-2026-58069",
+    "vendorProject": "Zimbra",
+    "product": "Collaboration",
+    "dateReported": "2026/08/18",
+    "patchedSince": "2026/07/20",
+    "originSource": "CERT.PL",
+    "shortDescription": "Improper sanitization of untrusted input during SNMP notification processing. Exploitation waves since the beginning of August 2026.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-78"],
+    "notes": "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.20"
+  },
+  {
+    "cveID": "CVE-2026-42897",
+    "euvdID": "EUVD-2026-30343",
+    "vendorProject": "Microsoft",
+    "product": "Microsoft Exchange Server",
+    "dateReported": "2026/08/18",
+    "patchedSince": "2026/05/14",
+    "originSource": "CERT.PL",
+    "shortDescription": "Improper neutralization of input during web page generation ('cross-site scripting') in Microsoft Exchange Server allows an unauthorized attacker to perform spoofing over a network.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-79"],
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42897"
+  },
+  {
+    "cveID": "CVE-2026-12569",
+    "euvdID": "EUVD-2026-37831",
+    "vendorProject": "PTC",
+    "product": "Windchill PDMLink, FlexPLM",
+    "dateReported": "2026/08/16",
+    "patchedSince": "2026/06/18",
+    "originSource": "ENISA",
+    "shortDescription": "Critical RCE vulnerability caused by insecure deserialization of untrusted data.",
+    "exploitationType": ["ransomware"],
+    "cwes": ["CWE-20","CWE-502"],
+    "notes": "https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability"
+  },
+  {
     "cveID": "CVE-2026-59310",
     "euvdID": "EUVD-2026-51097",
     "vendorProject": "VMware",
