@@ -388,7 +388,7 @@
     "originSource": "CNW",
     "shortDescription": "Authentication bypass using an alternate path or channel vulnerability",
     "exploitationType": ["ransomware"],
-    "cwes": ["CWE-288"],
+    "cwes": ["CWE-288"]
   },
   {
     "cveID": "CVE-2023-3519",
@@ -399,7 +399,7 @@
     "patchedSince": "2023/07/18",
     "originSource": "CNW",
     "shortDescription": "Unauthenticated remote code execution",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2023-27997",
@@ -410,7 +410,7 @@
     "patchedSince": "2023/06/09",
     "originSource": "CNW",
     "shortDescription": "Heap-based buffer overflow vulnerability may allow remote attackers to execute arbitrary code or commands",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2023-46604",
@@ -421,7 +421,7 @@
     "patchedSince": "2023/10/27",
     "originSource": "CNW",
     "shortDescription": "RCE vulnerability that allows remote attackers with network access to run arbitrary shell commands by manipulating serialized class types in the OpenWire protocol to cause either the client or the broker (respectively) to instantiate any class on the classpath",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2023-22515",
@@ -432,7 +432,7 @@
     "patchedSince": "2023/10/04",
     "originSource": "CNW",
     "shortDescription": "Vulnerability in publicly accessible Confluence Data Center and Server instances that enables the creation of unauthorized Confluence administrator accounts and access to a Confluence instance",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2023-46747",
@@ -443,7 +443,7 @@
     "patchedSince": "2023/10/26",
     "originSource": "CNW",
     "shortDescription": "Undisclosed requests may bypass configuration utility authentication, allowing an attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2023-48788",
@@ -454,7 +454,7 @@
     "patchedSince": "2024/03/12",
     "originSource": "CNW",
     "shortDescription": "SQLi vulnerability in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attackers to execute unauthorized code or commands",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2020-1472",
@@ -465,7 +465,7 @@
     "patchedSince": "2020/08/11",
     "originSource": "CNW",
     "shortDescription": "Elevation of privilege vulnerability that exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC)",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2020-0787",
@@ -476,7 +476,7 @@
     "patchedSince": "2020/03/10",
     "originSource": "CNW",
     "shortDescription": "Windows Background Intelligent Transfer Service Elevation of Privilege Vulnerability",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2017-0144",
@@ -488,7 +488,7 @@
     "patchedSince": "2017/03/14",
     "originSource": "CNW",
     "shortDescription": "The SMBv1 server in multiple Microsoft Windows SMBv1 allows remote attackers to execute arbitrary code via crafted packets",
-    "exploitationType": ["ransomware"],
+    "exploitationType": ["ransomware"]
   },
   {
     "cveID": "CVE-2024-8963",
@@ -499,7 +499,7 @@
     "patchedSince": "2024/09/10",
     "originSource": "CNW",
     "shortDescription": "Path Traversal in the Ivanti CSA before 4.6 Patch 519 allows a remote unauthenticated attacker to access restricted functionality",
-    "exploitationType": ["unknown"],
+    "exploitationType": ["unknown"]
   },
   {
     "cveID": "CVE-2024-8190",
@@ -510,7 +510,7 @@
     "patchedSince": "2024/09/10",
     "originSource": "CNW",
     "shortDescription": "OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker with admin privileges to obtain RCE",
-    "exploitationType": ["unknown"],
+    "exploitationType": ["unknown"]
   },
   {
     "cveID": "CVE-2024-9380",
@@ -521,6 +521,6 @@
     "patchedSince": "2024/10/08",
     "originSource": "CNW",
     "shortDescription": "OS command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution",
-    "exploitationType": ["unknown"],
+    "exploitationType": ["unknown"]
   }
 ]
