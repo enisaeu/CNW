@@ -1,4 +1,4 @@
-[ 
+[
   {
     "cveID": "CVE-2026-41679",
     "euvdID": "EUVD-2026-25166",
@@ -475,7 +475,7 @@
     "dateReported": "2025/01/23",
     "patchedSince": "2020/03/10",
     "originSource": "CNW",
-    "shortDescription": "Windows Background Intelligent Transfer Service Elevation of Privilege Vulnerability",
+    "shortDescription": "Windows Background Intelligent Transfer Service Elevation of Privilege Vulnerability.",
     "exploitationType": ["ransomware"]
   },
   {
@@ -487,7 +487,7 @@
     "dateReported": "2025/01/23",
     "patchedSince": "2017/03/14",
     "originSource": "CNW",
-    "shortDescription": "The SMBv1 server in multiple Microsoft Windows SMBv1 allows remote attackers to execute arbitrary code via crafted packets",
+    "shortDescription": "The SMBv1 server in multiple Microsoft Windows SMBv1 allows remote attackers to execute arbitrary code via crafted packets.",
     "exploitationType": ["ransomware"]
   },
   {
@@ -498,7 +498,7 @@
     "dateReported": "2025/01/17",
     "patchedSince": "2024/09/10",
     "originSource": "CNW",
-    "shortDescription": "Path Traversal in the Ivanti CSA before 4.6 Patch 519 allows a remote unauthenticated attacker to access restricted functionality",
+    "shortDescription": "Path Traversal in the Ivanti CSA before 4.6 Patch 519 allows a remote unauthenticated attacker to access restricted functionality.",
     "exploitationType": ["unknown"]
   },
   {
@@ -509,7 +509,7 @@
     "dateReported": "2025/01/17",
     "patchedSince": "2024/09/10",
     "originSource": "CNW",
-    "shortDescription": "OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker with admin privileges to obtain RCE",
+    "shortDescription": "OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker with admin privileges to obtain RCE.",
     "exploitationType": ["unknown"]
   },
   {
@@ -520,7 +520,7 @@
     "dateReported": "2025/01/17",
     "patchedSince": "2024/10/08",
     "originSource": "CNW",
-    "shortDescription": "OS command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution",
+    "shortDescription": "OS command injection vulnerability in the admin web console of Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to obtain remote code execution.",
     "exploitationType": ["unknown"]
   }
 ]
