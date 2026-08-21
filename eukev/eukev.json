@@ -453,7 +453,7 @@
     "dateReported": "2025/01/23",
     "patchedSince": "2024/03/12",
     "originSource": "CNW",
-    "shortDescription": "SQLi vulnerability in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attackers to execute unauthorized code or commands",
+    "shortDescription": "SQLi vulnerability in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attackers to execute unauthorized code or commands.",
     "exploitationType": ["ransomware"]
   },
   {
@@ -464,7 +464,7 @@
     "dateReported": "2025/01/23",
     "patchedSince": "2020/08/11",
     "originSource": "CNW",
-    "shortDescription": "Elevation of privilege vulnerability that exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC)",
+    "shortDescription": "Elevation of privilege vulnerability that exists when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller, using the Netlogon Remote Protocol (MS-NRPC).",
     "exploitationType": ["ransomware"]
   },
   {
