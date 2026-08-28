@@ -98,7 +98,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | Country | Organisation | Language | Material |
 | :-----: | :----------: | :------: | :------ |
 | CZ | NÚKIB | EN | [Methods of increasing the protection of email systems [PDF]](https://www.nukib.cz/download/uredni_deska/2021-10-08_OchranneOpatreni_final_ENG.pdf) |
-| EUI | CERT-EU | EN | [E-Mail Sender Adress Forgery Mitigation [PDF]](https://media.cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf) |
+| EUI | CERT-EU | EN | [E-Mail Sender Adress Forgery Mitigation [PDF]](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_005_v1_0.pdf) |
 | EUI | CERT-EU | EN | [DMARC — Defeating E-Mail Abuse [PDF]](https://cert.europa.eu/static/WhitePapers/Updated-CERT-EU_Security_Whitepaper_DMARC_17-001_v1_2.pdf) |
 | LU | CIRCL | EN | [TR-60 - Phishing - Effects and precautions (26 June 2020)](https://www.circl.lu/pub/tr-60/) |
 | PL | CERT-PL | PL | [Mechanizmy weryfikacji nadawcy wiadomości](https://cert.pl/posts/2021/10/mechanizmy-weryfikacji-nadawcy-wiadomosci/) |
@@ -130,7 +130,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | :-----: | :----------: | :------: | :------ |
 | FI | NCSC-FI | EN | [Applying artificial intelligence in cybersecurity [PDF] (13 March 2024)](https://www.kyberturvallisuuskeskus.fi/sites/default/files/media/file/Applying%20AI%20in%20cybersecurity_EN.pdf) |
 | EUI | CERT-EU / ENISA | EN | [Boosting your Organisation's Cyber Resilience - Joint Publication (14 February 2022)](https://www.enisa.europa.eu/publications/boosting-your-organisations-cyber-resilience) |
-| EUI | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://media.cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
+| EUI | CERT-EU | EN | [Cybersecurity mitigation measures against critical threats [PDF] (09 March 2022)](https://cert.europa.eu/static/WhitePapers/TLP-WHITE-CERT-EU_Security_Guidance-22-001_v1_0.pdf) |
 | FI | NCSC-FI | EN | [Keeping your information secure both at home and at work (12 May 2020)](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/keeping-your-information-secure-both-home-and-work) |
 | NL | NCSC-NL | EN | [Guide to Cyber Security Measures (05 August 2021)](https://english.ncsc.nl/publications/publications/2021/august/4/guide-to-cyber-security-measures) |
 | NL | NCSC-NL | NL | [Factsheet Open Source Security (24 May 2023)](https://www.ncsc.nl/documenten/factsheets/2022/december/12/factsheet-open-source-security) |
