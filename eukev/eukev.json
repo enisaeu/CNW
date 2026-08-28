@@ -1,5 +1,18 @@
 [
   {
+    "cveID": "CVE-2026-72898",
+    "euvdID": "EUVD-2026-55690",
+    "vendorProject": "Metabase",
+    "product": "Metabase",
+    "dateReported": "2026/08/24",
+    "patchedSince": "2026/08/06",
+    "originSource": "EL-CSIRT",
+    "shortDescription": "Metabase SQL Injection vulnerability that enables remote unauthenticated attacker to gain administrator access to connected Metabase instance.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-89"],
+    "notes": "https://www.metabase.com/blog/security-update-6-aug-2026"
+  },  
+  {
     "cveID": "CVE-2026-41679",
     "euvdID": "EUVD-2026-25166",
     "vendorProject": "paperclipai",
