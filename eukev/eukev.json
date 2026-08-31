@@ -11,7 +11,7 @@
     "exploitationType": ["unknown"],
     "cwes": ["CWE-89"],
     "notes": "https://www.metabase.com/blog/security-update-6-aug-2026"
-  },  
+  },
   {
     "cveID": "CVE-2026-41679",
     "euvdID": "EUVD-2026-25166",
@@ -327,7 +327,7 @@
     "dateReported": "2025/09/09",
     "patchedSince": "2025/08/11",
     "originSource": "CERT-PL",
-    "shortDescription": "Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints",
+    "shortDescription": "Omnissa Workspace ONE UEM contains a Secondary Context Path Traversal Vulnerability. A malicious actor may be able to gain access to sensitive information by sending crafted GET requests (read-only) to restricted API endpoints.",
     "cwes": ["CWE-22"],
     "notes": "https://moje.cert.pl/komunikaty/2025/29/aktywnie-wykorzystywana-krytyczna-podatnosc-w-narzedziu-omnissa-workspace-one-uem-airwatch-mdm/",
     "exploitationType": ["unknown"]
@@ -340,7 +340,7 @@
     "dateReported": "2025/07/18",
     "patchedSince": "2025/06/25",
     "originSource": "CNW",
-    "shortDescription": "Memory overflow vulnerability leading to unintended control flow and Denial of Service in NetScaler ADC and NetScaler Gateway when configured as Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server",
+    "shortDescription": "Memory overflow vulnerability leading to unintended control flow and Denial of Service in NetScaler ADC and NetScaler Gateway when configured as Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server.",
     "exploitationType": ["unknown"]
   },
   {
