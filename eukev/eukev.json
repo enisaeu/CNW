@@ -1,5 +1,29 @@
 [
   {
+    "cveID": "CVE-2026-74232",
+    "euvdID": "EUVD-2026-66999",
+    "vendorProject": "Zbtlink",
+    "product": "Various",
+    "dateReported": "2026/08/27",
+    "originSource": "ENISA",
+    "shortDescription": "Zbtlink firmware ships with a backdoor command-and-control implant (yunmgrd) reachable over an unauthenticated cleartext UDP channel to a hardcoded C2 server.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-300","CWE-506"],
+    "notes": "https://www.vulncheck.com/blog/zbt-darklantern-speakingstone"
+  },
+  {
+    "cveID": "CVE-2026-74233",
+    "euvdID": "EUVD-2026-67000",
+    "vendorProject": "Zbtlink",
+    "product": "Various",
+    "dateReported": "2026/08/27",
+    "originSource": "ENISA",
+    "shortDescription": "Zbtlink firmware contain an unauthenticated command injection in the infosrvd service (UDP/9992).",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-78","CWE-321"],
+    "notes": "https://www.vulncheck.com/blog/zbt-darklantern-speakingstone"
+  },
+  {
     "cveID": "CVE-2026-72898",
     "euvdID": "EUVD-2026-55690",
     "vendorProject": "Metabase",
