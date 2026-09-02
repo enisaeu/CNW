@@ -1,5 +1,31 @@
 [
   {
+    "cveID": "CVE-2026-81578",
+    "euvdID": "EUVD-2026-67713",
+    "vendorProject": "PaperCut",
+    "product": "PaperCut MF/NG",
+    "dateReported": "2026/08/27",
+    "patchedSince": "2026/08/28",
+    "originSource": "ENISA",
+    "shortDescription": "Authentication bypass in the web management interface.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-305"],
+    "notes": "https://www.papercut.com/kb/Main/security-bulletin-27-aug-2026-urgent-security-advisory/"
+  },
+  {
+    "cveID": "CVE-2026-82078",
+    "euvdID": "EUVD-2026-67714",
+    "vendorProject": "PaperCut",
+    "product": "PaperCut MF/NG",
+    "dateReported": "2026/08/27",
+    "patchedSince": "2026/08/28",
+    "originSource": "ENISA",
+    "shortDescription": "Unsafe dynamic class loading vulnerability in the database connector.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-470"],
+    "notes": "https://www.papercut.com/kb/Main/security-bulletin-27-aug-2026-urgent-security-advisory/"
+  },
+  {
     "cveID": "CVE-2026-74232",
     "euvdID": "EUVD-2026-66999",
     "vendorProject": "Zbtlink",
