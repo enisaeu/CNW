@@ -1,18 +1,5 @@
 [
   {
-    "cveID": "CVE-2026-63219",
-    "euvdID": "EUVD-2026-70647",
-    "vendorProject": "geonetwork",
-    "product": "core-geonetwork",
-    "dateReported": "2026/09/02",
-    "patchedSince": "2026/07/08",
-    "originSource": "CNW",
-    "shortDescription": "Unauthenticated file upload via missing authorization on formatter upload endpoint.",
-    "exploitationType": ["unknown"],
-    "cwes": ["CWE-862"],
-    "notes": "https://github.com/geonetwork/core-geonetwork/security/advisories/GHSA-mh22-prqr-vf42"
-  },
-  {
     "cveID": "CVE-2026-58400",
     "euvdID": "EUVD-2026-70645",
     "vendorProject": "geonetwork",
