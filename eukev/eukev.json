@@ -1,5 +1,47 @@
 [
   {
+    "cveID": "CVE-2026-67276",
+    "euvdID": "EUVD-2026-72024",
+    "vendorProject": "MikroTik",
+    "product": "RouterOS",
+    "vulnerabilityName": "MikroTrick",
+    "dateReported": "2026/09/05",
+    "patchedSince": "2026/09/03",
+    "originSource": "CERT.PL",
+    "shortDescription": "RouterOS does not compare the complete RSA public key when matching an SSH authentication request to an authorized user key, checking the key type and modulus but omitting the exponent. Because signature verification uses the client-supplied key, an attacker knowing an authorized RSA modulus can supply a key with exponent one, forge a valid signature, and open an SSH command channel as the target user without the private key.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-347"],
+    "notes": "https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/"
+  },
+  {
+    "cveID": "CVE-2026-86060",
+    "euvdID": "EUVD-2026-72029",
+    "vendorProject": "MikroTik",
+    "product": "RouterOS",
+    "vulnerabilityName": "MikroTrick",
+    "dateReported": "2026/09/05",
+    "patchedSince": "2026/09/03",
+    "originSource": "CERT.PL",
+    "shortDescription": "RouterOS contains an argument-handling flaw in the SSH login path involving usernames that begin with a prohibited character, allowing for the trusted RouterOS policy mask to be changed, leading to privilege escalation. Exploitation requires an unauthenticated SSH session to reach the RouterOS login helper.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-88"],
+    "notes": "https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/"
+  },
+  {
+    "cveID": "CVE-2026-67277",
+    "euvdID": "EUVD-2026-72025",
+    "vendorProject": "MikroTik",
+    "product": "RouterOS",
+    "vulnerabilityName": "MikroTrick",
+    "dateReported": "2026/09/05",
+    "patchedSince": "2026/09/03",
+    "originSource": "CERT.PL",
+    "shortDescription": "RouterOS accepts a 'related' btest connection before the corresponding primary session has completed authentication. An unauthenticated client can use this state to start an IPv4 UDP test. With 'random-data=false', the sender transmits an uninitialized tail from a kernel packet buffer. A separate unchecked, inverted packet-size interval causes unsigned integer underflow, anomalously large fragmented output, and can restart the RouterOS kernel. This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-306"],
+    "notes": "https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/"
+  },
+  {
     "cveID": "CVE-2026-63219",
     "euvdID": "EUVD-2026-70647",
     "vendorProject": "geonetwork",
