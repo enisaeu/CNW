@@ -1,5 +1,31 @@
 [
   {
+    "cveID": "CVE-2026-20079",
+    "euvdID": "EUVD-2026-9438",
+    "vendorProject": "Cisco",
+    "product": "Cisco Secure Firewall Management Center (FMC)",
+    "dateReported": "2026/09/09",
+    "patchedSince": "2026/08/05",
+    "originSource": "ENISA",
+    "shortDescription": "Vulnerability in the web interface could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system. EU victimology was confirmed. Comprehensive hardening scheduled (Week of September 14th)",
+    "exploitationType": ["ransomware"],
+    "cwes": ["CWE-288"],
+    "notes": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/"
+  },
+  {
+    "cveID": "CVE-2026-20316",
+    "euvdID": "EUVD-2026-50404",
+    "vendorProject": "Cisco",
+    "product": "Cisco Secure Firewall Management Center (FMC)",
+    "dateReported": "2026/09/09",
+    "patchedSince": "2026/08/05",
+    "originSource": "ENISA",
+    "shortDescription": "Vulnerability in the web interface could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. EU victimology was confirmed. Comprehensive hardening scheduled (Week of September 14th).",
+    "exploitationType": ["ransomware"],
+    "cwes": ["CWE-259"],
+    "notes": "https://blog.talosintelligence.com/fmc-ongoing-exploitation/"
+  },
+  {
     "cveID": "CVE-2026-67276",
     "euvdID": "EUVD-2026-72024",
     "vendorProject": "MikroTik",
