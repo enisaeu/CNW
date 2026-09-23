@@ -1,5 +1,17 @@
 [
   {
+    "cveID": "CVE-2026-94127",
+    "euvdID": "EUVD-2026-84427",
+    "vendorProject": "F5",
+    "product": "BIG-IP",
+    "dateReported": "2026/09/22",
+    "originSource": "ENISA",
+    "shortDescription": "Unauthenticated RCE vulnerability present when BIG-IP APM is configured as an OAuth Authorization Server.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-122"],
+    "notes": "https://my.f5.com/manage/s/article/K000162605"
+  },
+  {
     "cveID": "CVE-2026-93616",
     "euvdID": "EUVD-2026-84375",
     "vendorProject": "checkpoint",
