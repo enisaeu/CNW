@@ -1,5 +1,57 @@
 [
   {
+    "cveID": "CVE-2026-93616",
+    "euvdID": "EUVD-2026-84375",
+    "vendorProject": "checkpoint",
+    "product": "Quantum Security Gateway",
+    "dateReported": "2026/09/22",
+    "patchedSince": "2026/09/09",
+    "originSource": "ENISA",
+    "shortDescription": "A directory traversal and file upload vulnerability allows an unauthenticated attacker to upload and execute arbitrary scripts on Check Point Management Server.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-22"],
+    "notes": "https://blog.checkpoint.com/security/security-advisory-action-required-active-exploitation-of-cve-2026-85102-and-a-management-pre-authentication-vulnerability-cve-2026-93616/"
+  },
+  {
+    "cveID": "CVE-2026-85102",
+    "euvdID": "EUVD-2026-75009",
+    "vendorProject": "checkpoint",
+    "product": "Quantum Security Gateway",
+    "dateReported": "2026/09/22",
+    "patchedSince": "2026/09/09",
+    "originSource": "ENISA",
+    "shortDescription": "Improper certificate trust validation during VPN negotiation in Check Point Quantum Security Gateway may allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-295"],
+    "notes": "https://blog.checkpoint.com/security/security-advisory-action-required-active-exploitation-of-cve-2026-85102-and-a-management-pre-authentication-vulnerability-cve-2026-93616/"
+  },
+  {
+    "cveID": "CVE-2026-63030",
+    "euvdID": "EUVD-2026-45280",
+    "vendorProject": "WordPress Foundation",
+    "product": "WordPress",
+    "dateReported": "2026/09/21",
+    "patchedSince": "2026/07/17",
+    "originSource": "ENISA",
+    "shortDescription": "WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution. EU victimology.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-436"],
+    "notes": "https://www.greynoise.io/blog/open-season-on-kapibala-attacker-steals-government-records-wordpress-exploitation#:~:text=GreyNoise%20discovered%20the%20MCA%20targeted%20ZyXEL%20GS1900%20Smart%20Managed%20Switches%20globally, https://www.wiz.io/blog/wp2shell-cve-2026-63030-cve-2026-60137"
+  },
+  {
+    "cveID": "CVE-2026-60137",
+    "euvdID": "EUVD-2026-45279",
+    "vendorProject": "WordPress Foundation",
+    "product": "WordPress",
+    "dateReported": "2026/09/21",
+    "patchedSince": "2026/07/17",
+    "originSource": "ENISA",
+    "shortDescription": "WordPress 6.8.x before 6.8.6, 6.9.x before 6.9.5, and 7.0.x before 7.0.2 does not properly sanitise the author__not_in parameter of WP_Query, which could allow SQL Injection when a plugin or theme passes untrusted input to the parameter. EU victimology.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-89"],
+    "notes": "https://www.greynoise.io/blog/open-season-on-kapibala-attacker-steals-government-records-wordpress-exploitation#:~:text=GreyNoise%20discovered%20the%20MCA%20targeted%20ZyXEL%20GS1900%20Smart%20Managed%20Switches%20globally, https://www.wiz.io/blog/wp2shell-cve-2026-63030-cve-2026-60137"
+  },
+  {
     "cveID": "CVE-2026-20079",
     "euvdID": "EUVD-2026-9438",
     "vendorProject": "Cisco",
