@@ -1,15 +1,16 @@
 [
   {
-    "cveID": "CVE-2026-93952",
-    "euvdID": "EUVD-2026-84296",
-    "vendorProject": "Arista Networks",
-    "product": "VeloCloud Orchestrator (VCO) On-Prem",
-    "dateReported": "2026/09/22",
-    "originSource": "CSIRT-IE",
-    "shortDescription": "A security issue that may allow a remote attacker to access privileged internal functionality and impact the VCO host.",
+    "cveID": "CVE-2026-87902",
+    "euvdID": "EUVD-2026-84555",
+    "vendorProject": "WordPress Foundation",
+    "product": "WordPress",
+    "dateReported": "2026/09/23",
+    "patchedSince": "2026/09/22",
+    "originSource": "NCSC-NL",
+    "shortDescription": "The vulnerabilitycan be exploited by an attacker without login credentials to have a special file loaded outside the normal themes of WordPress. Active abuse has been observed.",
     "exploitationType": ["unknown"],
-    "cwes": ["CWE-20"],
-    "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183"
+    "cwes": ["CWE-98"],
+    "notes": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-wordpress-wordt-actief-misbruikt-update-nu"
   },
   {
     "cveID": "CVE-2026-94127",
