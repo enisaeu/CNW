@@ -1,5 +1,17 @@
 [
   {
+    "cveID": "CVE-2026-93952",
+    "euvdID": "EUVD-2026-84296",
+    "vendorProject": "Arista Networks",
+    "product": "VeloCloud Orchestrator (VCO) On-Prem",
+    "dateReported": "2026/09/22",
+    "originSource": "CSIRT-IE",
+    "shortDescription": "A security issue that may allow a remote attacker to access privileged internal functionality and impact the VCO host.",
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-20"],
+    "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183"
+  },
+  {
     "cveID": "CVE-2026-94127",
     "euvdID": "EUVD-2026-84427",
     "vendorProject": "F5",
