@@ -1,16 +1,27 @@
 [
+  { 
+    "cveID": "CVE-2026-65660", 
+    "euvdID": "EUVD-2026-56431", 
+    "vendorProject": "Microsoft", 
+    "product": "Microsoft SharePoint Server 2019, Microsoft SharePoint Enterprise Server 2016, Microsoft SharePoint Server Subscription Edition", 
+    "dateReported": "2026/09/25", 
+    "originSource": "CSIRT-IE", 
+    "shortDescription": "Improper control of generation of code ('code injection') in Microsoft Office SharePoint allows an authorized attacker to execute code over a user network", 
+    "exploitationType": ["unknown"], 
+    "cwes": ["CWE-94"], 
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65660" 
+  }, 
   {
-    "cveID": "CVE-2026-87902",
-    "euvdID": "EUVD-2026-84555",
-    "vendorProject": "WordPress Foundation",
-    "product": "WordPress",
-    "dateReported": "2026/09/23",
-    "patchedSince": "2026/09/22",
-    "originSource": "NCSC-NL",
-    "shortDescription": "The vulnerabilitycan be exploited by an attacker without login credentials to have a special file loaded outside the normal themes of WordPress. Active abuse has been observed.",
+    "cveID": "CVE-2026-93952",
+    "euvdID": "EUVD-2026-84296",
+    "vendorProject": "Arista Networks",
+    "product": "VeloCloud Orchestrator (VCO) On-Prem",
+    "dateReported": "2026/09/22",
+    "originSource": "CSIRT-IE",
+    "shortDescription": "A security issue that may allow a remote attacker to access privileged internal functionality and impact the VCO host.",
     "exploitationType": ["unknown"],
-    "cwes": ["CWE-98"],
-    "notes": "https://www.ncsc.nl/alerts/kwetsbaarheid-in-wordpress-wordt-actief-misbruikt-update-nu"
+    "cwes": ["CWE-20"],
+    "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183"
   },
   {
     "cveID": "CVE-2026-94127",
