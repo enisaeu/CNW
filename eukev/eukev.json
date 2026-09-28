@@ -1,4 +1,16 @@
 [
+  { 
+    "cveID": "CVE-2026-65660", 
+    "euvdID": "EUVD-2026-56431", 
+    "vendorProject": "Microsoft", 
+    "product": "Microsoft SharePoint Server 2019, Microsoft SharePoint Enterprise Server 2016, Microsoft SharePoint Server Subscription Edition", 
+    "dateReported": "2026/09/25", 
+    "originSource": "CSIRT-IE", 
+    "shortDescription": "Improper control of generation of code ('code injection') in Microsoft Office SharePoint allows an authorized attacker to execute code over a user network", 
+    "exploitationType": ["unknown"], 
+    "cwes": ["CWE-94"], 
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65660" 
+  }, 
   {
     "cveID": "CVE-2026-93952",
     "euvdID": "EUVD-2026-84296",
