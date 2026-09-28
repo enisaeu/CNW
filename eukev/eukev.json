@@ -1,5 +1,29 @@
 [
   { 
+    "cveID": "CVE-2026-88771", 
+    "euvdID": "EUVD-2026-56431", 
+    "vendorProject": "Citrix", 
+    "product": "NetScaler ADC, NetScaler Gateway", 
+    "dateReported": "2026/09/27", 
+    "originSource": "CNW", 
+    "shortDescription": "A remote code execution vulnerability exists due to improper input validation, which can allow an unauthenticated attacker to execute arbitrary commands", 
+    "exploitationType": ["unknown"], 
+    "cwes": ["CWE-20"], 
+    "notes": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096" 
+  },
+  { 
+    "cveID": "CVE-2026-88772", 
+    "euvdID": "EUVD-2026-56431", 
+    "vendorProject": "Citrix", 
+    "product": "NetScaler ADC, NetScaler Gateway", 
+    "dateReported": "2026/09/27", 
+    "originSource": "CNW", 
+    "shortDescription": "Memory overflow vulnerability leading to Remote Code Execution or Denial of Service", 
+    "exploitationType": ["unknown"], 
+    "cwes": ["CWE-119"], 
+    "notes": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096" 
+  },
+  { 
     "cveID": "CVE-2026-65660", 
     "euvdID": "EUVD-2026-56431", 
     "vendorProject": "Microsoft", 
