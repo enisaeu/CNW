@@ -1,5 +1,27 @@
 [
   { 
+    "cveID": "CVE-2026-102489", 
+    "euvdID": "EUVD-2026-90080", 
+    "vendorProject": "Zammad", 
+    "product": "Zammad", 
+    "dateReported": "2026/09/30", 
+    "originSource": "NCSC-NL", 
+    "shortDescription": "Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The vulnerability is also present in version 7.0.0 to version 7.1.3, but not exploitable due to environment conditions.", 
+    "exploitationType": ["unknown"], 
+    "notes": "https://www.ncsc.nl/alerts/actief-misbruik-van-zeroday-kwetsbaarheden-in-zammad-update-nu" 
+  },
+  { 
+    "cveID": "CVE-2026-102490", 
+    "euvdID": "EUVD-2026-90081", 
+    "vendorProject": "Zammad", 
+    "product": "Zammad", 
+    "dateReported": "2026/09/30", 
+    "originSource": "NCSC-NL", 
+    "shortDescription": "All versions of Zammad including the latest alpha enable the local zammad user to escalate privileges to root.", 
+    "exploitationType": ["unknown"], 
+    "notes": "https://www.ncsc.nl/alerts/actief-misbruik-van-zeroday-kwetsbaarheden-in-zammad-update-nu" 
+  },
+  { 
     "cveID": "CVE-2026-88771", 
     "euvdID": "EUVD-2026-56431", 
     "vendorProject": "Citrix", 
