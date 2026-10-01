@@ -5,6 +5,7 @@
     "vendorProject": "Zammad", 
     "product": "Zammad", 
     "dateReported": "2026/09/30", 
+    "patchedSince": "2026/04/08",
     "originSource": "NCSC-NL", 
     "shortDescription": "Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The vulnerability is also present in version 7.0.0 to version 7.1.3, but not exploitable due to environment conditions.", 
     "exploitationType": ["unknown"], 
