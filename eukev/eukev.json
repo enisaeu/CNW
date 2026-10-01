@@ -1,5 +1,18 @@
 [
   { 
+    "cveID": "CVE-2026-82329", 
+    "euvdID": "EUVD-2026-67861", 
+    "vendorProject": "JFrog", 
+    "product": "Artifactory", 
+    "dateReported": "2026/09/31", 
+    "patchedSince": "2026/08/28",
+    "originSource": "ENISA", 
+    "shortDescription": "Authentication weakness that, under default configuration, may allow an unauthenticated attacker with network access to obtain administrative privileges.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-287"], 
+    "notes": "https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201" 
+  },
+  { 
     "cveID": "CVE-2026-102489", 
     "euvdID": "EUVD-2026-90080", 
     "vendorProject": "Zammad", 
