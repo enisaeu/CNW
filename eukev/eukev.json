@@ -1,5 +1,17 @@
 [
   { 
+    "cveID": "CVE-2026-104286", 
+    "euvdID": "EUVD-2026-91042", 
+    "vendorProject": "Fortinet", 
+    "product": "FortiMail", 
+    "dateReported": "2026/10/01", 
+    "originSource": "CNW", 
+    "shortDescription": "Improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Fortinet FortiMail may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests. Customers are urged to disable the IBE feature support or disable access to the FortiMail management interface from the internet or limit the access only from trusted private network.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-22","CWE-158"], 
+    "notes": "https://fortiguard.fortinet.com/psirt/FG-IR-26-175" 
+  },
+  { 
     "cveID": "CVE-2026-82329", 
     "euvdID": "EUVD-2026-67861", 
     "vendorProject": "JFrog", 
