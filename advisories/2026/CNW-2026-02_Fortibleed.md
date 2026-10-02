@@ -1,12 +1,12 @@
 # CSIRTs Network - Fortibleed 
 |   |   |
 |---|---|
-| **Date** | 19-02-2025 |
-| **Number** | CNW-2026-06 | 
+| **Date** | 18-06-2026 |
+| **Number** | CNW-2026-02 | 
 | **Keywords** | Fortinet user credentials exposed on known threat group server | 
-| **CVE** |   | 
-| **Details** |   |
-| **Mitigation** |  |
+| **CVE** | - | 
+| **Details** | Attackers are trying to access Fortinet FortiGate firewalls and SSL Virtual Private Network (SSL-VPN) environments with previously captured or leaked credentials. |
+| **Mitigation** | Check if your organization is affected if fortinet equipment is in use. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts, blogs and reccomendations
 
