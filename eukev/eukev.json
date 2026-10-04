@@ -1,5 +1,17 @@
 [
   { 
+    "cveID": "CVE-2026-88779", 
+    "euvdID": "EUVD-2026-92065", 
+    "vendorProject": "Citrix", 
+    "product": "Citrix NetScaler ADC, Citrix NetScaler Gateway", 
+    "dateReported": "2026/10/02", 
+    "originSource": "CNW", 
+    "shortDescription": "Memory overflow vulnerability leading to Denial of Service.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-119"], 
+    "notes": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697174" 
+  },
+  { 
     "cveID": "CVE-2026-104286", 
     "euvdID": "EUVD-2026-91042", 
     "vendorProject": "Fortinet", 
