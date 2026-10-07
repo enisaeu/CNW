@@ -1,5 +1,31 @@
 [
   { 
+    "cveID": "CVE-2026-32202", 
+    "euvdID": "EUVD-2026-22589", 
+    "vendorProject": "Microsoft", 
+    "product": "Windows 10, Windows 11, Windows Server", 
+    "dateReported": "2026/10/07",
+    "patchedSince": "2026/04/14",
+    "originSource": "CNW", 
+    "shortDescription": "CVE-2026-32202 is a Windows Shell protection mechanism failure that allows a crafted shortcut file to trigger automatic NTLM authentication to an attacker-controlled server, exposing the victim’s authentication data when its containing folder is viewed.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-693"], 
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32202" 
+  },
+  { 
+    "cveID": "CVE-2026-85103", 
+    "euvdID": "EUVD-2026-75010", 
+    "vendorProject": "Check Point", 
+    "product": "Quantum Security Gateway, Quantum Security Management", 
+    "dateReported": "2026/09/25",
+    "patchedSince": "2026/09/07",
+    "originSource": "CNW", 
+    "shortDescription": "CVE-2026-85103 is a heap-based buffer overflow in ASN.1 certificate decoding that may allow an unauthenticated remote attacker to execute arbitrary code on Check Point Quantum Security Gateway and Security Management systems.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-122"], 
+    "notes": "https://support.checkpoint.com/results/sk/sk1000118" 
+  },
+  { 
     "cveID": "CVE-2026-88779", 
     "euvdID": "EUVD-2026-92065", 
     "vendorProject": "Citrix", 
