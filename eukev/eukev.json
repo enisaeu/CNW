@@ -1,5 +1,44 @@
 [
   { 
+    "cveID": "CVE-2026-40477", 
+    "euvdID": "EUVD-2026-23571", 
+    "vendorProject": "Thymeleaf", 
+    "product": "Thymeleaf", 
+    "dateReported": "2026/10/10",
+    "patchedSince": "2026/04/15",
+    "originSource": "CNW", 
+    "shortDescription": "Thymeleaf is a server-side Java template engine for web and standalone environments. Versions 3.1.3.RELEASE and prior contain a security bypass vulnerability in the expression execution mechanisms. Although the library provides mechanisms to prevent expression injection, it fails to properly restrict the scope of accessible objects, allowing specific potentially sensitive objects to be reached from within a template. If an application developer passes unvalidated user input directly to the template engine, an unauthenticated remote attacker can bypass the library's protections to achieve Server-Side Template Injection (SSTI). This issue has ben fixed in version 3.1.4.RELEASE.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-917","CWE-1336"],
+    "notes": "https://github.com/thymeleaf/thymeleaf/security/advisories/GHSA-r4v4-5mwr-2fwr" 
+  },
+  { 
+    "cveID": "CVE-2026-40478", 
+    "euvdID": "EUVD-2026-23573", 
+    "vendorProject": "Thymeleaf", 
+    "product": "Thymeleaf", 
+    "dateReported": "2026/10/10",
+    "patchedSince": "2026/04/15",
+    "originSource": "CNW", 
+    "shortDescription": "Thymeleaf is a server-side Java template engine for web and standalone environments. Versions 3.1.3.RELEASE and prior contain a security bypass vulnerability in the the expression execution mechanisms. Although the library provides mechanisms to prevent expression injection, it fails to properly neutralize specific syntax patterns that allow for the execution of unauthorized expressions. If an application developer passes unvalidated user input directly to the template engine, an unauthenticated remote attacker can bypass the library's protections to achieve Server-Side Template Injection (SSTI). This issue has ben fixed in version 3.1.4.RELEASE.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-917","CWE-1336"],
+    "notes": "https://github.com/thymeleaf/thymeleaf/security/advisories/GHSA-xjw8-8c5c-9r79" 
+  },
+  { 
+    "cveID": "CVE-2026-41901", 
+    "euvdID": "EUVD-2026-29872", 
+    "vendorProject": "Thymeleaf", 
+    "product": "Thymeleaf", 
+    "dateReported": "2026/10/10",
+    "patchedSince": "2026/04/29",
+    "originSource": "CNW", 
+    "shortDescription": "Thymeleaf is a server-side Java template engine for web and standalone environments. Prior to 3.1.5.RELEASE, a security bypass vulnerability exists in the expression execution mechanisms of Thymeleaf. Although the library provides mechanisms to avoid the execution of potentially dangerous expressions in some specific sandboxed (restricted) contexts, it fails to properly neutralize specific constructs that allow this kind of expressions to be executed. If an application developer passes to the template engine unsanitized variables that contain such expressions, and these values are used in sandboxed contexts inside the templates, these expressions can be executed achieving Server-Side Template Injection (SSTI). This vulnerability is fixed in 3.1.5.RELEASE.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-917","CWE-1336"],
+    "notes": "https://github.com/thymeleaf/thymeleaf/security/advisories/GHSA-c9ph-gxww-7744" 
+  },
+  { 
     "cveID": "CVE-2026-86950", 
     "euvdID": "EUVD-2026-88445", 
     "vendorProject": "Apple", 
