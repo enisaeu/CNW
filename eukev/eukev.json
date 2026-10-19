@@ -1,16 +1,16 @@
 [
-    { 
-    "cveID": "CVE-2026-96951", 
-    "euvdID": "EUVD-2026-100274", 
-    "vendorProject": "Microsoft", 
-    "product": "Windows version 8.1 and above", 
-    "dateReported": "2026/09/25",
-    "patchedSince": "2026/10/13",
-    "originSource": "CSIRT-IE", 
-    "shortDescription": "Improper neutralization of special elements used in a command ('command injection') in Windows Shell allows an unauthorized attacker to bypass a security feature over a network. In an email or instant message attack scenario, the attacker could send the targeted user a specially crafted file that is designed to exploit the vulnerability.", 
+  { 
+    "cveID": "CVE-2026-110936", 
+    "euvdID": "EUVD-2026-102072", 
+    "vendorProject": "Siemens", 
+    "product": "Siemens Software Center", 
+    "dateReported": "2026/10/19",
+    "patchedSince": "2026/10/15",
+    "originSource": "CNW", 
+    "shortDescription": "A vulnerability has been identified in Siemens Software Center (All versions < V4.0.9.8). The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.", 
     "exploitationType": ["unknown"],
-    "cwes": ["CWE-77"],
-    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96951" 
+    "cwes": ["CWE-427"],
+    "notes": "https://productcert.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/" 
   },
   { 
     "cveID": "CVE-2026-40477", 
