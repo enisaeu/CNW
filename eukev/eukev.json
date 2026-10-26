@@ -1,5 +1,31 @@
 [
   { 
+    "cveID": "CVE-2026-105134", 
+    "euvdID": "EUVD-2026-92078", 
+    "vendorProject": "Ahsay", 
+    "product": "AhsayCBS", 
+    "dateReported": "2026/10/23",
+    "patchedSince": "2026/10/12",
+    "originSource": "CNW", 
+    "shortDescription": "A flaw has been found in Ahsay AhsayCBS up to 9.15.2.69/10.3.4.44. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 9.15.2.70 and 10.3.4.45 is able to resolve this issue. Upgrading the affected component is advised. The initial patch did not fix the security vulnerability properly. An update of the CVE entry to reflect this became necessary.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-77"],
+    "notes": "https://github.com/advisories/GHSA-MXJ3-2X8Q-2RH9" 
+  },
+  { 
+    "cveID": "CVE-2026-105133", 
+    "euvdID": "EUVD-2026-92079", 
+    "vendorProject": "Ahsay", 
+    "product": "AhsayCBS", 
+    "dateReported": "2026/10/23",
+    "patchedSince": "2026/10/12",
+    "originSource": "CNW", 
+    "shortDescription": "A vulnerability was detected in Ahsay AhsayCBS up to 9.15.2.69/10.3.4.44. This affects the function checkSysPwd of the file com/ahsay/obs/api/ApiStructsAction.java of the component API. Performing a manipulation of the argument random results in improper authentication. It is possible to initiate the attack remotely. The exploit is now public and may be used. Upgrading to version 9.15.2.70 and 10.3.4.45 is able to mitigate this issue. It is recommended to upgrade the affected component. The initial patch did not fix the security vulnerability properly. An update of the CVE entry to reflect this became necessary.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-287"],
+    "notes": "https://github.com/advisories/GHSA-FP2J-3CMP-828J" 
+  },
+  { 
     "cveID": "CVE-2026-110936", 
     "euvdID": "EUVD-2026-102072", 
     "vendorProject": "Siemens", 
