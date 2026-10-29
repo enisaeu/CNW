@@ -1,4 +1,17 @@
 [
+    { 
+    "cveID": "CVE-2026-96951", 
+    "euvdID": "EUVD-2026-100274", 
+    "vendorProject": "Microsoft", 
+    "product": "Windows version 8.1 and above", 
+    "dateReported": "2026/09/25",
+    "patchedSince": "2026/10/13",
+    "originSource": "CSIRT-IE", 
+    "shortDescription": "Improper neutralization of special elements used in a command ('command injection') in Windows Shell allows an unauthorized attacker to bypass a security feature over a network. In an email or instant message attack scenario, the attacker could send the targeted user a specially crafted file that is designed to exploit the vulnerability.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-77"],
+    "notes": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96951" 
+  },
   { 
     "cveID": "CVE-2015-0279", 
     "euvdID": "EUVD-2015-0292", 
