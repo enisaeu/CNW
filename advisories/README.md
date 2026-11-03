@@ -2,6 +2,8 @@ Vulnerabilities added to this list are of significant interest to CSIRTs taking 
 
 | Number | Date | ID | Title |
 |:---|:---|:---|:---|
+
+| [CNW-2026-05](2026/CNW-2026-05_supermarket-incidents.md) | 03-11-2026 | - | Cyber attacks on cooling installations in Europe |
 | [CNW-2026-04](2026/CNW-2026-04_php.md) | 21-10-2026 | CVE-2026-109618, CVE-2026-109619  | php2shell |
 | [CNW-2026-03](2026/CNW-2026-03_Citrix.md) | 27-09-2026 | CVE-2026-88771, CVE-2026-88772 | Citrix NetScaler ADC and Gateway Vulnerabilities Exploited |
 | [CNW-2026-02](2026/CNW-2026-02_Fortibleed.md) | 19-06-2026 | - | Fortinet user credentials exposed |
