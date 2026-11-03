@@ -40,7 +40,7 @@
 | PL | CERT-PL | PL | - |
 | PT | CNCS | PT | - |
 | RO | DNSC | RO | - |
-| SE | CERT-SE | SV | - |
+| SE | CERT-SE | SV | [Cyberangrepp mot uppkopplade frys- och kylsystem](https://www.cert.se/2026/11/cyberangrepp-mot-uppkopplade-frys-och-kylsystem.html) |
 | SI | SI-CERT | SL | - |
 | SK | SK-CERT | SK | - |
 
