@@ -1,11 +1,11 @@
-# CSIRTs Network - Cyberattacks targeting Refrigeration Systems
+# CSIRTs Network - Cyberattacks targeting Retail Sector
 |   |   |
 |---|---|
 | **Date** | 03-11-2026 |
 | **Number** | CNW-2026-05 | 
-| **Keywords** | Refrigeration Systems, supermarkets | 
+| **Keywords** | Refrigeration Systems, retail sector | 
 | **CVE** | CVE-2025-41450, CVE-2025-41451, CVE-2025-41452 | 
-| **Details** | As of mid October, 2026, a number of cyberattacks compromised remote control systems for refrigeration facilities in Europe. |
+| **Details** | As of mid October, 2026, cyberattacks have compromised remote control systems for refrigeration facilities in the retail sector across Europe. |
 | **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
