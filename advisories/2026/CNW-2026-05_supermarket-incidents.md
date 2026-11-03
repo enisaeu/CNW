@@ -25,7 +25,7 @@
 | ES | INCIBE-CERT | ES | [Cyberattack on Supermarket Refrigeration Systems in France](https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/cyberattack-supermarket-refrigeration-systems-france) |
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta](https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta) |
-| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
+| FR | CERT-FR | FR | [Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
@@ -36,7 +36,7 @@
 | LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
+| NL | NCSC-NL | NL | [In het nieuws: cyberaanvallen op koelinstallaties in Europa](https://www.ncsc.nl/nieuws/in-het-nieuws-cyberaanvallen-op-koelinstallaties-in-europa) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [CERT-RO ALERTĂ](https://dnsc.ro/tag/alerte) |
