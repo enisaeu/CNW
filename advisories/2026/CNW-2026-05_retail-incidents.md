@@ -1,4 +1,4 @@
-# CSIRTs Network - Cyberattacks targeting Retail Sector
+# CSIRTs Network - Cyberattacks targeting Retail Sector Refrigeration Facilities
 |   |   |
 |---|---|
 | **Date** | 03-11-2026 |
