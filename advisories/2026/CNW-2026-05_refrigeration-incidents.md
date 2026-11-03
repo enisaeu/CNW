@@ -3,7 +3,7 @@
 |---|---|
 | **Date** | 03-11-2026 |
 | **Number** | CNW-2026-05 | 
-| **Keywords** | Supermarket Refrigeration Systems | 
+| **Keywords** | Refrigeration Systems, supermarkets | 
 | **CVE** | CVE-2025-41450, CVE-2025-41451, CVE-2025-41452 | 
 | **Details** | As of mid October, 2026, a number of cyberattacks compromised remote control systems for refrigeration facilities in Europe. |
 | **Mitigation** | For additional details please refer to the specific CNW member advisories referenced below. |
