@@ -12,13 +12,13 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT-AT | DE | - |
+| AT | CERT-AT | DE | [In Frankreich wurden Kühlanlagen manipuliert – geht das auch bei uns?](https://www.cert.at/de/blog/2026/10/in-frankreich-wurden-kuhlanlagen-manipuliert-geht-das-auch-bei-uns)|
 | BG | CERT.bg | BG | - |
 | BE | CERT.be | EN | [Warning: Security Incidents in France Targeting Remote Controllers of Refrigeration Installations, patch immediately!](https://ccb.belgium.be/advisories/warning-security-incidents-france-targeting-remote-controllers-refrigeration) |
 | CY | CSIRT-CY | EN | - |
 | CZ | CSIRT.CZ | CS | - |
 | CZ | GovCERT.CZ | CS | - |
-| DE | BSI | DE | [Gefährdung durch internet-erbundene OT-Systeme](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_154.pdf?__blob=publicationFile&v=4) |
+| DE | BSI | DE | [Gefährdung durch internet-verbundene OT-Systeme](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_154.pdf?__blob=publicationFile&v=4) |
 | DK | CFCS | DA | - |
 | EE | CERT-EE | EE | - |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
