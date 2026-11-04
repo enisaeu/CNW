@@ -31,7 +31,7 @@
 | HR | CERT ZSIS | HR | - |
 | HU | NCSC-HU | HU | - |
 | IE | NCSC-IE | EN | - |
-| IT | CERT Italia | IT | [Misure urgenti di verifica e mitigazione per operatori della distribuzione alimentare e della filiera del freddo](https://www.acn.gov.it/portale/w/misure-urgenti-di-verifica-e-mitigazione-per-operatori-della-distribuzione-alimentare-e-della-filiera-del-freddo) |
+| IT | CSIRT Italia | IT | [Misure urgenti di verifica e mitigazione per operatori della distribuzione alimentare e della filiera del freddo](https://www.acn.gov.it/portale/w/misure-urgenti-di-verifica-e-mitigazione-per-operatori-della-distribuzione-alimentare-e-della-filiera-del-freddo) |
 | LT | CERT LT | LT | - |
 | LU | CIRCL | EN | - |
 | LV | CERT-LV | LV | - |
