@@ -30,7 +30,7 @@
 | HR | CERT.hr | HR | - |
 | HR | CERT ZSIS | HR | - |
 | HU | NCSC-HU | HU | - |
-| IE | NCSC-IE | EN | - |
+| IE | NCSC-IE | EN | [Security Incidents Targeting Remote Refrigeration Controllers](https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf) |
 | IT | CSIRT Italia | IT | [Misure urgenti di verifica e mitigazione per operatori della distribuzione alimentare e della filiera del freddo](https://www.acn.gov.it/portale/w/misure-urgenti-di-verifica-e-mitigazione-per-operatori-della-distribuzione-alimentare-e-della-filiera-del-freddo) |
 | LT | CERT LT | LT | - |
 | LU | CIRCL | EN | - |
