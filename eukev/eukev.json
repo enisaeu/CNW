@@ -1,5 +1,18 @@
 [
     { 
+    "cveID": "CVE-2026-114625", 
+    "euvdID": "EUVD-2026-108511", 
+    "vendorProject": "Arista Networks", 
+    "product": "VeloCloud Orchestrator", 
+    "dateReported": "2026/10/21",
+    "patchedSince": "2026/10/22",
+    "originSource": "CSIRT-IE", 
+    "shortDescription": "On an affected system, any authenticated user can gain operator privileges and masquerade as a local \"superuser operator\" user. This includes access to functionality that is intended for internal use only and which is not intended to be remotely accessible.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-89"],
+    "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199" 
+  },
+    { 
     "cveID": "CVE-2026-96951", 
     "euvdID": "EUVD-2026-100274", 
     "vendorProject": "Microsoft", 
