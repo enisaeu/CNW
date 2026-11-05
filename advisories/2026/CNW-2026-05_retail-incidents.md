@@ -21,7 +21,7 @@
 | DE | BSI | DE | [Gefährdung durch internet-verbundene OT-Systeme](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_154.pdf?__blob=publicationFile&v=4) |
 | DK | CFCS | DA | - |
 | EE | CERT-EE | EE | - |
-| ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
+| ES | CCN-CERT | ES | - |
 | ES | INCIBE-CERT | ES | [Cyberattack on Supermarket Refrigeration Systems in France](https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/cyberattack-supermarket-refrigeration-systems-france) |
 | EUI | CERT-EU | EN | - |
 | FI | NCSC-FI | FI | [IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta](https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta) |
