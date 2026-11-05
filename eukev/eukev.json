@@ -1,17 +1,17 @@
 [
     { 
-    "cveID": "CVE-2026-114625", 
-    "euvdID": "EUVD-2026-108511", 
-    "vendorProject": "Arista Networks", 
-    "product": "VeloCloud Orchestrator", 
-    "dateReported": "2026/10/21",
-    "patchedSince": "2026/10/22",
-    "originSource": "CSIRT-IE", 
-    "shortDescription": "On an affected system, any authenticated user can gain operator privileges and masquerade as a local \"superuser operator\" user. This includes access to functionality that is intended for internal use only and which is not intended to be remotely accessible.", 
+    "cveID": "CVE-2026-58115", 
+    "euvdID": "EUVD-2026-56119", 
+    "vendorProject": "Siemens", 
+    "product": "SIMATIC IoT2050", 
+    "dateReported": "2026/11/03",
+    "patchedSince": "2026/08/11",
+    "originSource": "CNW", 
+    "shortDescription": "A vulnerability has been identified in SIMATIC IoT2050 Advanced (6ES7647-0BA00-1YA2) (All versions < V4.3.4-1 running Industrial OS with Node-RED installed), SIMATIC IoT2050 Basic (6ES7647-0BA00-0YA2) (All versions < V4.3.4-1 running Industrial OS with Node-RED installed), SIMATIC IoT2050 M.2 (6ES7647-0BB00-1YA2) (All versions < V4.3.4-1 running Industrial OS with Node-RED installed), SIMATIC IoT2050 SM (6ES7647-0CA00-1AA2) (All versions < V4.3.4-1 running Industrial OS with Node-RED installed). Affected devices do not enforce authentication on the Node-RED HTTP interface, allowing unauthenticated access to programming nodes that are capable of executing system commands on the server. This could allow an unauthenticated remote attacker to create malicious flows through the HTTP interface in order to execute arbitrary code on the underlying server with maximum privileges.", 
     "exploitationType": ["unknown"],
-    "cwes": ["CWE-89"],
-    "notes": "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199" 
-  },
+    "cwes": ["CWE-306"],
+    "notes": "https://cert-portal.siemens.com/productcert/html/ssa-834709.html" 
+    },
     { 
     "cveID": "CVE-2026-96951", 
     "euvdID": "EUVD-2026-100274", 
