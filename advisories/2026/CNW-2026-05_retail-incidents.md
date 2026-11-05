@@ -28,6 +28,7 @@
 | FR | CERT-FR | FR | [Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/) |
 | GR | EL-CSIRT | EL | [Εκτεθειμένοι βιομηχανικοί ελεγκτές στο στόχαστρο κυβερνοεπιθέσεων](https://cyber.gov.gr/i-ethniki-archi-kyvernoasfaleias-eiche-enimerosei-kai-systisei-sygkekrimena-metra-prostasias-gnostopoiontas-ton-kindyno-se-elegktes-emporikis-psyxis/) |
 | HR | NCSC-HR | HR | [Kibernetički napadi na rashladne sustave diljem Europe](https://ncsc.hr/hr/kiberneticki-napadi-na-rashladne-sustave-diljem-europe) |
+| HR | CERT-HR | HR | 
 | HU | NCSC-HU | HU | - |
 | IE | NCSC-IE | EN | [Security Incidents Targeting Remote Refrigeration Controllers](https://www.ncsc.gov.ie/pdfs/2611020249_Danfoss-Advisory.pdf) |
 | IT | CSIRT Italia | IT | [Misure urgenti di verifica e mitigazione per operatori della distribuzione alimentare e della filiera del freddo](https://www.acn.gov.it/portale/w/misure-urgenti-di-verifica-e-mitigazione-per-operatori-della-distribuzione-alimentare-e-della-filiera-del-freddo) |
