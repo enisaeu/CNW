@@ -26,7 +26,7 @@
 | EUI | CERT-EU | EN | - |
 | FI | NCSC-FI | FI | [IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta](https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta) |
 | FR | CERT-FR | FR | [Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-012/) |
-| GR | EL-CSIRT | EN | [Εκτεθειμένοι βιομηχανικοί ελεγκτές στο στόχαστρο κυβερνοεπιθέσεων](https://cyber.gov.gr/i-ethniki-archi-kyvernoasfaleias-eiche-enimerosei-kai-systisei-sygkekrimena-metra-prostasias-gnostopoiontas-ton-kindyno-se-elegktes-emporikis-psyxis/) |
+| GR | EL-CSIRT | EL | [Εκτεθειμένοι βιομηχανικοί ελεγκτές στο στόχαστρο κυβερνοεπιθέσεων](https://cyber.gov.gr/i-ethniki-archi-kyvernoasfaleias-eiche-enimerosei-kai-systisei-sygkekrimena-metra-prostasias-gnostopoiontas-ton-kindyno-se-elegktes-emporikis-psyxis/) |
 | HR | CERT.hr | HR | - |
 | HR | CERT ZSIS | HR | - |
 | HU | NCSC-HU | HU | - |
