@@ -19,7 +19,7 @@
 | CZ | CSIRT.CZ | CS | - |
 | CZ | GovCERT.CZ | CS | - |
 | DE | BSI | DE | [Gefährdung durch internet-verbundene OT-Systeme](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_154.pdf?__blob=publicationFile&v=4) |
-| DK | CFCS | DA | - |
+| DK | DDIS | DA | - |
 | EE | CERT-EE | EE | - |
 | ES | CCN-CERT | ES | - |
 | ES | INCIBE-CERT | ES | [Cyberattack on Supermarket Refrigeration Systems in France](https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/cyberattack-supermarket-refrigeration-systems-france) |
