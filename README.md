@@ -151,6 +151,7 @@ For more information about the EU CSIRTs network, its members and how to get in 
 | EUI | CERT-EU | EN | No | [Coordinated vulnerability disclosure policy](https://cert.europa.eu/coordinated-vulnerability-disclosure-policy) 
 | FI | NCSC-FI | EN | Yes | [Vulnerability Coordination and Reporting](https://www.kyberturvallisuuskeskus.fi/en/our-services/situation-awareness-and-network-management) |
 | FR | ANSSI | FR | No | [Vous souhaitez déclarer une faille de sécurité ?](https://www.ssi.gouv.fr/actualite/vous-souhaitez-declarer-une-faille-de-securite/) |
+| IE | NCSC Ireland | EN | No | [Guidelines for Implementing a Coordinated Vulnerability Disclosure (CVD) Policy](https://ncsc.gov.ie/pdfs/National-CVD-Guidelines-v1.pdf) |
 | MT | CIPD | EN | No | [National Coordinated Vulnerability Disclosure Policy](https://www.mdia.gov.mt/ncvdp/) |
 | NL | NCSC-NL | EN | Yes | [Guideline and form to submit a vulnerability](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncsc.nl/en/services/Report-a-vulnerability&ved=2ahUKEwio_eaFo9SSAxXe1QIHHZGJMSYQFnoECBgQAQ&usg=AOvVaw1jyuScegI9LpTr84ccco8T) |
 | PL | CERT-PL | EN | Yes | [Reporting vulnerabilities to CERT Polska](https://cert.pl/en/cvd/) |
