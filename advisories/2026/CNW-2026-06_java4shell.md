@@ -41,7 +41,7 @@
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [ALERTĂ: Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
 | SE | CERT-SE | SV | [Kritisk sårbarhet i Oracle Java](https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html)) |
-| SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
+| SI | SI-CERT | SL | [Kritična ranljivost v OpenJDK](https://www.cert.si/si-cert-2026-08/) |
 | SK | SK-CERT | SK | [Kritická zraniteľnosť „JAVA4SHELL“](https://www.sk-cert.sk/sk/kriticka-zranitelnost-java4shell/index.html)|
 
 
