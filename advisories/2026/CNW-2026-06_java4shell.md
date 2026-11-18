@@ -18,7 +18,7 @@
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CSIRT.CZ | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Upozornění a hrozby](https://portal.nukib.gov.cz/informacni-servis/aktualne?categories=Upozornění+a+hrozby) |
-| DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
+| DE | BSI | DE | [OpenJDK: Kritische Schwachstelle "Java4Shell" gefährdet Java-Anwendungen](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Java4Shell: kriitiline turvanõrkus Java käituskeskkonnas](https://www.ria.ee/blogi/java4shell-kriitiline-turvanorkus-java-kaituskeskkonnas) |
 | ES | CCN-CERT | ES | [AV 05/26 Vulnerabilidad crítica en el decodificador Base64 de OpenJDK](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/13210-ccn-cert-av-05-26-vulnerabilidad-critica-en-el-decodificador-base64-de-openjdk.html) |
