@@ -12,7 +12,7 @@
 
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
-| AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
+| AT | CERT-AT | DE | [Kritische Sicherheitslücke in Java (Java4Shell) - Updates verfügbar](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucke-in-java-java4shell-updates-verfugbar-cve-2026-114938) |
 | BE | CCB CERT-BE| BE | [WARNING: Memory Corruption in OpenJDK and Oracle Java SE](https://ccb.belgium.be/advisories/warning-memory-corruption-openjdk-and-oracle-java-se-can-be-exploited-take-over-java) |
 | BG | CERT.bg | BG | [Критична уязвимост в OpenJDK](https://www.govcert.bg/warnings/java4shell/) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
@@ -25,14 +25,14 @@
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
 | FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
-| FR | CERT-FR | FR | [Alerte de sécurité](https://www.cert.ssi.gouv.fr/alerte/) |
+| FR | CERT-FR | FR | [Bulletin d'alerte du CERT-FR - Vulnérabilité dans Oracle Java SE](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/) |
 | GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
 | IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
 | IT | CSIRT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
-| LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
+| LT | CERT LT | LT | [NKSC praneša: kritinis Java (Hotspot JVM) pažeidžiamumas](https://www.nksc.lt/naujienos/nksc_pranesa_kritinis_java_hotspot_jvm_pa_090a2074.html) |
 | LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
