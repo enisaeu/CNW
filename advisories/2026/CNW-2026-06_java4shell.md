@@ -14,13 +14,13 @@
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [CERT-AT Warnungen](https://cert.at/de/meldungen/warnungen/) |
 | BE | CCB CERT-BE| BE | [WARNING: Memory Corruption in OpenJDK and Oracle Java SE](https://ccb.belgium.be/advisories/warning-memory-corruption-openjdk-and-oracle-java-se-can-be-exploited-take-over-java) |
-| BG | CERT.bg | BG | [Warning](https://www.govcert.bg/warnings/java4shell/) |
+| BG | CERT.bg | BG | [Критична уязвимост в OpenJDK](https://www.govcert.bg/warnings/java4shell/) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CSIRT.CZ | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
 | CZ | GovCERT.CZ | CS | [Upozornění a hrozby](https://portal.nukib.gov.cz/informacni-servis/aktualne?categories=Upozornění+a+hrozby) |
 | DE | BSI | DE | [Cyber-Sicherheitswarnungen](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/BSI/Sicherheitswarnungen/Sicherheitswarnungen_Formular.html) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
-| EE | CERT-EE | EE | [Turvanõrkuste ülevaated](https://www.ria.ee/kuberturvalisus/kuberruumi-analuus-ja-ennetus/turvanorkused) |
+| EE | CERT-EE | EE | [Java4Shell: kriitiline turvanõrkus Java käituskeskkonnas](https://www.ria.ee/blogi/java4shell-kriitiline-turvanorkus-java-kaituskeskkonnas) |
 | ES | CCN-CERT | ES | [Alertas CCN-CERT](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert?format=html) |
 | ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
 | EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
@@ -33,16 +33,16 @@
 | IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
 | IT | CERT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
 | LT | CERT LT | LT | [Rekomendacijos](https://www.nksc.lt/rekomendacijos.html) |
-| LU | CIRCL | EN | [Publications](https://www.circl.lu/pub/) |
+| LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
-| RO | DNSC | RO | [CERT-RO ALERTĂ](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
+| RO | DNSC | RO | [ALERTĂ: Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
 | SE | CERT-SE | SV | [Nyheter](https://www.cert.se/nyheter/) |
 | SI | SI-CERT | SL | [Varnostna obvestila](https://www.cert.si/category/varnostna-obvestila/) |
-| SK | SK-CERT | SK | [Aktuálne hrozby](https://www.sk-cert.sk/sk/kriticka-zranitelnost-java4shell/index.html)|
+| SK | SK-CERT | SK | [Kritická zraniteľnosť „JAVA4SHELL“](https://www.sk-cert.sk/sk/kriticka-zranitelnost-java4shell/index.html)|
 
 
 
