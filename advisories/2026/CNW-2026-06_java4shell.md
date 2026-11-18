@@ -30,8 +30,9 @@
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
-| IE | NCSC-IE | EN | [Alerts & Advisories](https://www.ncsc.gov.ie/news/) |
-| IT | CSIRT Italia | IT | [CERT News](https://www.csirt.gov.it/contenuti) |
+| IE | NCSC-IE | EN | [Vulnerability in Oracle Corporation: Oracle GraalVM for JDK, Oracle Java SE, Oracle
+GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf) |
+| IT | CSIRT Italia | IT | [Java4Shell: Critical Security Patch Update di Oracle](https://www.acn.gov.it/portale/w/java4shell-critical-security-patch-update-di-oracle) |
 | LT | CERT LT | LT | [NKSC praneša: kritinis Java (Hotspot JVM) pažeidžiamumas](https://www.nksc.lt/naujienos/nksc_pranesa_kritinis_java_hotspot_jvm_pa_090a2074.html) |
 | LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
@@ -39,7 +40,7 @@
 | NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
-| RO | DNSC | RO | [ALERTĂ: Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
+| RO | DNSC | RO | [Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
 | SE | CERT-SE | SV | [Kritisk sårbarhet i Oracle Java](https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html)) |
 | SI | SI-CERT | SL | [Kritična ranljivost v OpenJDK](https://www.cert.si/si-cert-2026-08/) |
 | SK | SK-CERT | SK | [Kritická zraniteľnosť „JAVA4SHELL“](https://www.sk-cert.sk/sk/kriticka-zranitelnost-java4shell/index.html)|
