@@ -1,12 +1,12 @@
-# CSIRTs Network - Product (CVE-2026-114938)
+# CSIRTs Network - Java4Shell (CVE-2026-114938)
 |   |   |
 |---|---|
 | **Date** | 18-11-2026 |
 | **Number** | CNW-2026-06 | 
 | **Keywords** | java4shell | 
-| **CVE** | [CVE-2026-114938 (EUVD-2026-127648)| 
-| **Details** | java4shell |
-| **Mitigation** | Java4Shell vulnerability exposes Java applications to Remote Code Execution. For additional details please refer to the specific CNW member advisories referenced below. |
+| **CVE** | [CVE-2026-114938](https://euvd.enisa.europa.eu/vulnerability/CVE-2026-114938)| 
+| **Details** | Java4Shell vulnerability exposes Java applications to Remote Code Execution. |
+| **Mitigation** | All Java users should update immediately. For additional details please refer to the specific CNW member advisories referenced below. |
 
 ## List of CSIRTs Network member alerts
 
