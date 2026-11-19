@@ -27,11 +27,10 @@
 | FI | NCSC-FI | FI | [Kriittisiä haavoittuvuuksia OpenJDK:ssa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-38) |
 | FR | CERT-FR | FR | [Bulletin d'alerte du CERT-FR - Vulnérabilité dans Oracle Java SE](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/) |
 | GR | GR-CSIRT | EN | [Σοβαρή απειλή σε συστήματα που χρησιμοποιούν Java – Συστάσεις ΕΑΚ για άμεση εφαρμογή ενημερώσεων ασφαλείας](https://cyber.gov.gr/sovari-apeili-se-systimata-poy-chrisimopoioyn-java-systaseis-eak-gia-amesi-efarmogi-enimeroseon-asfaleias/) |
-| HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
+| HR | CERT.hr | HR | [Java4Shell – dostupna sigurnosna ažuriranja za OpenJDK i Oracle Java SE](https://cert.hr/novosti/java4shell-dostupna-sigurnosna-azuriranja-za-openjdk-i-oracle-java-se/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
 | HU | NCSC-HU | HU | [Oracle Corporation Oracle Java SE, Oracle Corporation Oracle GraalVM for JDK +1 további](https://nki.gov.hu/figyelmeztetesek/serulekenysegek/cve-2026-114938/) |
-| IE | NCSC-IE | EN | [Vulnerability in Oracle Corporation: Oracle GraalVM for JDK, Oracle Java SE, Oracle
-GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf) |
+| IE | NCSC-IE | EN | [Vulnerability in Oracle Corporation: Oracle GraalVM for JDK, Oracle Java SE, Oracle GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf) |
 | IT | CSIRT Italia | IT | [Java4Shell: Critical Security Patch Update di Oracle](https://www.acn.gov.it/portale/w/java4shell-critical-security-patch-update-di-oracle) |
 | LT | CERT LT | LT | [NKSC praneša: kritinis Java (Hotspot JVM) pažeidžiamumas](https://www.nksc.lt/naujienos/nksc_pranesa_kritinis_java_hotspot_jvm_pa_090a2074.html) |
 | LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
