@@ -12,11 +12,12 @@ It assembles a *validated listing of vulnerabilities knowingly exploited during 
 | vendorProject           | required | Vendor or project name for the vulnerability |
 | product                 | required | The vulnerable product |
 | vulnerabilityName       | optional | Name of the vulnerability |
-| dateReported            | required | Date the vulnerability exploitation was reported in the format YYYY-MM-DD |
-| patchedSince            | optional | Date the vulnerability was patched in the format YYYY-MM-DD |
+| dateReported            | required | Date the vulnerability exploitation was reported in the format YYYY/MM/DD |
+| dateAdded               | optional | Date the vulnerability was added to the catalog in the format YYYY/MM/DD |
+| patchedSince            | optional | Date the vulnerability was patched in the format YYYY/MM/DD |
 | originSource            | required | Name of specific CNW member initially monitoring the vulnerability exploitation; 'CNW' if monitored by multiple CNW members / in case of undisclosed reporting; 'CRA' for mandatory reporting according to Cyber Resilience Act; 'ENISA' for ENISA CTI |
 | shortDescription        | required | Short description of the vulnerability |
-| exploitationType        | required | 'Ransomware' if known to have been used by a ransomware group; 'APT' if known to have been used by an unspecific state-nexus groups; 'unknown' if the reporting party lacks confirmation that the vulnerability has been utilized by a specific entity |
+| exploitationType        | required | 'ransomware' if known to have been used by a ransomware group; 'APT' if known to have been used by an unspecific state-nexus groups; 'unknown' if the reporting party lacks confirmation that the vulnerability has been utilized by a specific entity |
 | threatActorsExploiting  | optional | List of Threat Actors known for exploiting the vulnerability |
 | cwes                    | optional | Common Weakness Enumeration (CWE) codes associated with this vulnerability. CWEs are in the format CWE-NNNN; note that the number portion can have any number of digits |
 | notes                   | optional | Additional notes related to the vulnerability |
@@ -27,7 +28,9 @@ The fields 'dateReported' and 'patchedSince' are dependent on the time zone of t
 ## EU KEV Publication
 ### Public repository
 
-Public version (JSON format): [https://github.com/enisaeu/CNW/blob/main/advisories/eukev/eukev.json](https://github.com/enisaeu/CNW/edit/main/eukev/README.md)
+Public version (JSON format): [https://github.com/enisaeu/CNW/blob/main/eukev/eukev.json](https://github.com/enisaeu/CNW/blob/main/eukev/eukev.json)
+
+JSON schema: [https://github.com/enisaeu/CNW/blob/main/eukev/schemas/v1/schema.json](https://github.com/enisaeu/CNW/blob/main/eukev/schemas/v1/schema.json)
 
 ### EUVD Integration
 
