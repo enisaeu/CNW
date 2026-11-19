@@ -34,7 +34,7 @@
 | IT | CSIRT Italia | IT | [Java4Shell: Critical Security Patch Update di Oracle](https://www.acn.gov.it/portale/w/java4shell-critical-security-patch-update-di-oracle) |
 | LT | CERT LT | LT | [NKSC praneša: kritinis Java (Hotspot JVM) pažeidžiamumas](https://www.nksc.lt/naujienos/nksc_pranesa_kritinis_java_hotspot_jvm_pa_090a2074.html) |
 | LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
-| LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
+| LV | CERT-LV | LV | [Kritiska ievainojamība Java un OpenJDK CVE-2026-114938](https://cert.lv/lv/2026/11/kritiska-ievainojamiba-java-un-openjdk-cve-2026-114938) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Kwetsbaarheid in Oracle Java compiler: update zo snel mogelijk](https://www.ncsc.nl/alerts/kwetsbaarheid-in-oracle-java-compiler-update-zo-snel-mogelijk) |
 | PL | CERT-PL | PL | [Krytyczna podatność w środowisku Java umożliwiająca zdalne wykonanie kodu - java4shell](https://moje.cert.pl/komunikaty/2026/216/krytyczna-podatnosc-w-srodowisku-java-umozliwiajaca-zdalne-wykonanie-kodu-java4shell/) |
