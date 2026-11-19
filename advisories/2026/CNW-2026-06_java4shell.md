@@ -22,14 +22,14 @@
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Java4Shell: kriitiline turvanõrkus Java käituskeskkonnas](https://www.ria.ee/blogi/java4shell-kriitiline-turvanorkus-java-kaituskeskkonnas) |
 | ES | CCN-CERT | ES | [AV 05/26 Vulnerabilidad crítica en el decodificador Base64 de OpenJDK](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/13210-ccn-cert-av-05-26-vulnerabilidad-critica-en-el-decodificador-base64-de-openjdk.html) |
-| ES | INCIBE-CERT | ES | [Avisos de seguridad](https://www.incibe-cert.es/alerta-temprana/avisos-seguridad) |
-| EUI | CERT-EU | EN | [CERT-EU Security Advisories](https://cert.europa.eu/cert/newsletter/en/latest_SecurityBulletins_.html) |
-| FI | NCSC-FI | FI | [Haavoittuvuudet](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet) |
+| ES | INCIBE-CERT | ES | [Múltiples vulnerabilidades en productos de Oracle (Java4Shell)](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-oracle-java4shell) |
+| EUI | CERT-EU | EN | [High Severity Vulnerability in Java SE and OpenJDK](https://cert.europa.eu/publications/security-advisories/2026-021/) |
+| FI | NCSC-FI | FI | [Kriittisiä haavoittuvuuksia OpenJDK:ssa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-38) |
 | FR | CERT-FR | FR | [Bulletin d'alerte du CERT-FR - Vulnérabilité dans Oracle Java SE](https://cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/) |
-| GR | GR-CSIRT | EN | [Vulnerability Archive](https://csirt.cd.mil.gr/category/vulnerabilities/) |
+| GR | GR-CSIRT | EN | [Σοβαρή απειλή σε συστήματα που χρησιμοποιούν Java – Συστάσεις ΕΑΚ για άμεση εφαρμογή ενημερώσεων ασφαλείας](https://cyber.gov.gr/sovari-apeili-se-systimata-poy-chrisimopoioyn-java-systaseis-eak-gia-amesi-efarmogi-enimeroseon-asfaleias/) |
 | HR | CERT.hr | HR | [cert cve](https://cve.cert.hr/) |
 | HR | CERT ZSIS | HR | [Security announcements](https://www.zsis.hr/default.aspx?id=12) |
-| HU | NCSC-HU | HU | [Sérülékenységek](https://nki.gov.hu/figyelmeztetesek/cve-serulekenysegek/) |
+| HU | NCSC-HU | HU | [Oracle Corporation Oracle Java SE, Oracle Corporation Oracle GraalVM for JDK +1 további](https://nki.gov.hu/figyelmeztetesek/serulekenysegek/cve-2026-114938/) |
 | IE | NCSC-IE | EN | [Vulnerability in Oracle Corporation: Oracle GraalVM for JDK, Oracle Java SE, Oracle
 GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114938.pdf) |
 | IT | CSIRT Italia | IT | [Java4Shell: Critical Security Patch Update di Oracle](https://www.acn.gov.it/portale/w/java4shell-critical-security-patch-update-di-oracle) |
@@ -37,7 +37,7 @@ GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114
 | LU | CIRCL | EN | [Critical Memory Corruption in OpenJDK Base64 Decoder](https://www.circl.lu/pub/tr-104/) |
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
-| NL | NCSC-NL | NL | [Overzicht gepubliceerde Advisories](https://advisories.ncsc.nl/advisories) |
+| NL | NCSC-NL | NL | [Kwetsbaarheid in Oracle Java compiler: update zo snel mogelijk](https://www.ncsc.nl/alerts/kwetsbaarheid-in-oracle-java-compiler-update-zo-snel-mogelijk) |
 | PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
