@@ -38,7 +38,7 @@ GraalVM Enterprise Edition](https://www.ncsc.gov.ie/pdfs/2611180322_CVE-2026-114
 | LV | CERT-LV | LV | [Brīdinājumi](https://cert.lv/lv/incidenti/bridinajumi) |
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Kwetsbaarheid in Oracle Java compiler: update zo snel mogelijk](https://www.ncsc.nl/alerts/kwetsbaarheid-in-oracle-java-compiler-update-zo-snel-mogelijk) |
-| PL | CERT-PL | PL | [Kategoria CVE ](https://cert.pl/cve/) |
+| PL | CERT-PL | PL | [Krytyczna podatność w środowisku Java umożliwiająca zdalne wykonanie kodu - java4shell](https://moje.cert.pl/komunikaty/2026/216/krytyczna-podatnosc-w-srodowisku-java-umozliwiajaca-zdalne-wykonanie-kodu-java4shell/) |
 | PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
 | RO | DNSC | RO | [Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
 | SE | CERT-SE | SV | [Kritisk sårbarhet i Oracle Java](https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html)) |
