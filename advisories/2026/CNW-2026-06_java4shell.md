@@ -13,7 +13,7 @@
 | Country | Organisation | Language | Warning |
 | :-----: | :----------: | :------: | :------ | 
 | AT | CERT-AT | DE | [Kritische Sicherheitslücke in Java (Java4Shell) - Updates verfügbar](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucke-in-java-java4shell-updates-verfugbar-cve-2026-114938) |
-| BE | CCB CERT-BE| BE | [WARNING: Memory Corruption in OpenJDK and Oracle Java SE](https://ccb.belgium.be/advisories/warning-memory-corruption-openjdk-and-oracle-java-se-can-be-exploited-take-over-java) |
+| BE | CCB CERT-BE| BE | [Memory Corruption in OpenJDK and Oracle Java SE](https://ccb.belgium.be/advisories/warning-memory-corruption-openjdk-and-oracle-java-se-can-be-exploited-take-over-java) |
 | BG | CERT.bg | BG | [Критична уязвимост в OpenJDK](https://www.govcert.bg/warnings/java4shell/) |
 | CY | CSIRT-CY | EN | [CSIRT-CY Advisories](https://csirt.cy/cve/) |
 | CZ | CSIRT.CZ | CS | [Aktuálně z bezpečnosti](https://csirt.cz/cs/kyberbezpecnost/aktualne-z-bezpecnosti/) |
@@ -21,7 +21,7 @@
 | DE | BSI | DE | [OpenJDK: Kritische Schwachstelle "Java4Shell" gefährdet Java-Anwendungen](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032.pdf?__blob=publicationFile) |
 | DK | CFCS | DA | [Trusselsvurderinger](https://www.cfcs.dk/da/cybertruslen/trusselsvurderinger/) |
 | EE | CERT-EE | EE | [Java4Shell: kriitiline turvanõrkus Java käituskeskkonnas](https://www.ria.ee/blogi/java4shell-kriitiline-turvanorkus-java-kaituskeskkonnas) |
-| ES | CCN-CERT | ES | [AV 05/26 Vulnerabilidad crítica en el decodificador Base64 de OpenJDK](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/13210-ccn-cert-av-05-26-vulnerabilidad-critica-en-el-decodificador-base64-de-openjdk.html) |
+| ES | CCN-CERT | ES | [Vulnerabilidad crítica en el decodificador Base64 de OpenJDK](https://www.ccn-cert.cni.es/es/seguridad-al-dia/avisos-ccn-cert/13210-ccn-cert-av-05-26-vulnerabilidad-critica-en-el-decodificador-base64-de-openjdk.html) |
 | ES | INCIBE-CERT | ES | [Múltiples vulnerabilidades en productos de Oracle (Java4Shell)](https://www.incibe.es/incibe-cert/alerta-temprana/avisos/multiples-vulnerabilidades-en-productos-de-oracle-java4shell) |
 | EUI | CERT-EU | EN | [High Severity Vulnerability in Java SE and OpenJDK](https://cert.europa.eu/publications/security-advisories/2026-021/) |
 | FI | NCSC-FI | FI | [Kriittisiä haavoittuvuuksia OpenJDK:ssa](https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-38) |
@@ -38,7 +38,7 @@
 | MT | CSIRTMalta | EN | |
 | NL | NCSC-NL | NL | [Kwetsbaarheid in Oracle Java compiler: update zo snel mogelijk](https://www.ncsc.nl/alerts/kwetsbaarheid-in-oracle-java-compiler-update-zo-snel-mogelijk) |
 | PL | CERT-PL | PL | [Krytyczna podatność w środowisku Java umożliwiająca zdalne wykonanie kodu - java4shell](https://moje.cert.pl/komunikaty/2026/216/krytyczna-podatnosc-w-srodowisku-java-umozliwiajaca-zdalne-wykonanie-kodu-java4shell/) |
-| PT | CNCS | PT | [CNCS Alertas](https://dyn.cncs.gov.pt/pt/alertas) |
+| PT | CNCS | PT | [Alerta de Vulnerabilidade - Oracle Java SE, GraalVM e OpenJDK](https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/136147/alerta-de-vulnerabilidade-oracle-java-se-graalvm-e-openjdk) |
 | RO | DNSC | RO | [Vulnerabilitate critică la nivelul Java](https://www.dnsc.ro/citeste/alerta-vulnerabilitate-critica-la-nivelul-java)|
 | SE | CERT-SE | SV | [Kritisk sårbarhet i Oracle Java](https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html)) |
 | SI | SI-CERT | SL | [Kritična ranljivost v OpenJDK](https://www.cert.si/si-cert-2026-08/) |
