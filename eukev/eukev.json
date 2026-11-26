@@ -332,7 +332,7 @@
   },
   { 
     "cveID": "CVE-2026-88771", 
-    "euvdID": "EUVD-2026-56431", 
+    "euvdID": "EUVD-2026-87958", 
     "vendorProject": "Citrix", 
     "product": "NetScaler ADC, NetScaler Gateway", 
     "dateReported": "2026/09/27", 
@@ -344,7 +344,7 @@
   },
   { 
     "cveID": "CVE-2026-88772", 
-    "euvdID": "EUVD-2026-56431", 
+    "euvdID": "EUVD-2026-87959", 
     "vendorProject": "Citrix", 
     "product": "NetScaler ADC, NetScaler Gateway", 
     "dateReported": "2026/09/27", 
