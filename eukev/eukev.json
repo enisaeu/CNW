@@ -1,5 +1,30 @@
 [
   { 
+    "cveID": "CVE-2021-42013", 
+    "euvdID": "EUVD-2021-29001", 
+    "vendorProject": "Apache Software Foundation", 
+    "product": "Apache HTTP Server", 
+    "dateReported": "2026/11/23",
+    "patchedSince": "2021/07/10",
+    "originSource": "CSIRT-ITA", 
+    "shortDescription": "Exploitation monitored as part of campaigns utilizing redteam AI frameworks.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-22"],
+    "notes": "https://www.acn.gov.it/portale/w/impiego-di-agenti-di-ia-in-campagne-di-compromissione-automatizzate" 
+  },
+  { 
+    "cveID": "CVE-2022-1040", 
+    "euvdID": "EUVD-2022-24387", 
+    "vendorProject": "Sophos", 
+    "product": "Sophos Firewall", 
+    "dateReported": "2026/11/23",
+    "patchedSince": "2022/03/25",
+    "originSource": "CSIRT-ITA", 
+    "shortDescription": "Exploitation monitored as part of campaigns utilizing redteam AI frameworks.", 
+    "exploitationType": ["unknown"],
+    "notes": "https://www.acn.gov.it/portale/w/impiego-di-agenti-di-ia-in-campagne-di-compromissione-automatizzate" 
+  },
+  { 
     "cveID": "CVE-2022-30525", 
     "euvdID": "EUVD-2022-52385", 
     "vendorProject": "Zyxel", 
