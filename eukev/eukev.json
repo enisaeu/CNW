@@ -1,5 +1,18 @@
 [
   { 
+    "cveID": "CVE-2026-21589", 
+    "euvdID": "EUVD-2026-92807", 
+    "vendorProject": "Atlassian", 
+    "product": "Bamboo Data Center", 
+    "dateReported": "2026/11/23",
+    "patchedSince": "2026/10/05",
+    "originSource": "CSIRT-ITA", 
+    "shortDescription": "Exploitation monitored as part of campaigns utilizing redteam AI frameworks.", 
+    "exploitationType": ["unknown"],
+    "cwes": ["CWE-552"],
+    "notes": "https://www.acn.gov.it/portale/w/impiego-di-agenti-di-ia-in-campagne-di-compromissione-automatizzate" 
+  },
+  { 
     "cveID": "CVE-2026-7273", 
     "euvdID": "EUVD-2026-37030", 
     "vendorProject": "Zyxel", 
