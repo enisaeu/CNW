@@ -26,8 +26,8 @@
     "notes": "https://www.acn.gov.it/portale/w/impiego-di-agenti-di-ia-in-campagne-di-compromissione-automatizzate" 
   },
   { 
-    "cveID": "CVE-2024-3400", 
-    "euvdID": "EUVD-2024-31989", 
+    "cveID": "CVE-2024-12987", 
+    "euvdID": "EUVD-2024-51246", 
     "vendorProject": "Draytek", 
     "product": "Vigor2960, Vigor300B", 
     "dateReported": "2026/11/23",
